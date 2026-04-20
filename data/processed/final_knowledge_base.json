@@ -1,0 +1,3802 @@
+{
+  "bevacizumab": {
+    "uses": "Cancer of colon and rectum Non-small cell lung cancer Kidney cancer Brain tumor Ovarian cancer Cervical cancer",
+    "side_effects": "Rectal bleeding Taste change Headache Nosebleeds Back pain Dry skin High blood pressure Protein in urine Inflammation of the nose"
+  },
+  "amoxycillin": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis"
+  },
+  "azithromycin": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Nausea Abdominal pain Diarrhea"
+  },
+  "ambroxol": {
+    "uses": "Treatment of Cough with mucus",
+    "side_effects": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate"
+  },
+  "ranitidine": {
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease",
+    "side_effects": "Headache Diarrhea Gastrointestinal disturbance"
+  },
+  "fexofenadine": {
+    "uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Allergic conditions",
+    "side_effects": "Headache Drowsiness Dizziness Nausea"
+  },
+  "pheniramine": {
+    "uses": "Treatment of Allergic conditionsTreatment of Respiratory disease with excessive mucusTreatment of Skin conditions with inflammation & itchingTreatment and prevention of Meniere's disease",
+    "side_effects": "Sedation"
+  },
+  "donepezil": {
+    "uses": "Alzheimer's disease",
+    "side_effects": "Common cold Urinary incontinence Rash Nausea Diarrhea Insomnia difficulty in sleeping Weight loss Accidental injury"
+  },
+  "hydroxyzine": {
+    "uses": "Treatment of AnxietyTreatment of Skin conditions with inflammation & itching",
+    "side_effects": "Sedation Nausea Vomiting Upset stomach Constipation"
+  },
+  "phenylephrine": {
+    "uses": "Treatment of Piles",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "montelukast": {
+    "uses": "Treatment of Sneezing and runny nose due to allergies",
+    "side_effects": "Nausea Diarrhea Vomiting Skin rash Flu like symptoms Headache Drowsiness Dizziness"
+  },
+  "anastrozole": {
+    "uses": "Breast cancer",
+    "side_effects": "Hot flashes Nausea Osteoporosis Skin rash Weakness"
+  },
+  "albendazole": {
+    "uses": "Treatment of Parasitic infections",
+    "side_effects": "Vomiting Dizziness Increased liver enzymes Nausea Loss of appetite"
+  },
+  "clonidine": {
+    "uses": "Treatment of Hypertension (high blood pressure)",
+    "side_effects": "Dryness in mouth Fatigue Dizziness Headache Nausea Sleepiness Insomnia difficulty in sleeping"
+  },
+  "aceclofenac": {
+    "uses": "Pain relief",
+    "side_effects": "Nausea Flatulence Indigestion Diarrhea Constipation"
+  },
+  "spironolactone": {
+    "uses": "Hypertension (high blood pressure) Edema Low potassium Heart failure",
+    "side_effects": "Nausea Vomiting Leg cramps Dizziness Drowsiness Confusion Breast enlargement in male Increased creatinine level in blood"
+  },
+  "camphor": {
+    "uses": "Treatment of Allergic eye disease",
+    "side_effects": "Eye pain Eye irritation Stinging in the eyes Blurred vision Photophobia"
+  },
+  "camylofin": {
+    "uses": "Treatment of Abdominal pain",
+    "side_effects": "Dryness in mouth Constipation Blurred vision Increased heart rate"
+  },
+  "erythromycin": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Vomiting Nausea Abdominal pain Diarrhea"
+  },
+  "salbutamol": {
+    "uses": "Treatment of Chronic obstructive pulmonary disease (COPD)Treatment and prevention of Asthma",
+    "side_effects": "Tremors Headache Palpitations Increased heart rate Muscle cramp Nervousness"
+  },
+  "ticagrelor": {
+    "uses": "Prevention of heart attack and stroke",
+    "side_effects": "Bleeding Breathlessness"
+  },
+  "vitamin d": {
+    "uses": "Treatment of Vitamin D deficiencyTreatment of Osteoporosis",
+    "side_effects": "Injection site reactions pain swelling redness Weakness Muscle pain Metallic taste"
+  },
+  "alfuzosin": {
+    "uses": "Treatment of Benign prostatic hyperplasia",
+    "side_effects": "Upper respiratory tract infection Dizziness Headache Nausea Abdominal pain Impotence"
+  },
+  "chlorpheniramine maleate": {
+    "uses": "Treatment of Dry cough",
+    "side_effects": "Upset stomach Sleepiness"
+  },
+  "vitamin a": {
+    "uses": "Treatment of Vitamin A deficiency",
+    "side_effects": "No common side effects seen"
+  },
+  "lidocaine": {
+    "uses": "Treatment of Anal fissure",
+    "side_effects": "Anal irritation"
+  },
+  "cyproheptadine": {
+    "uses": "Appetite stimulant",
+    "side_effects": "Constipation Dryness in mouth Drowsiness Sleepiness Blurred vision"
+  },
+  "acebrophylline": {
+    "uses": "Treatment of AsthmaTreatment of BronchitisTreatment of Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Vomiting Abdominal pain Drowsiness Heartburn Increased white blood cell count Loss of appetite Rash Itching Constipation Diarrhea Abdominal discomfort Abdominal distension Esophageal bleeding Red spots or bumps Breathing problems High white blood cell count Nasal inflammation"
+  },
+  "adapalene": {
+    "uses": "Acne",
+    "side_effects": "Erythema skin redness Dry skin Skin peeling Skin burn Itching"
+  },
+  "amitriptyline": {
+    "uses": "Treatment of Depression Neuropathic painTreatment of Migraine",
+    "side_effects": "Constipation Dryness in mouth Orthostatic hypotension sudden lowering of blood pressure on standing Weight gain Aggressive behavior Nasal congestion stuffy nose Sleepiness Dizziness Headache Decreased libido Nausea Fatigue Confusion Tremors Speech disorder Palpitations Taste change Paresthesia tingling or pricking sensation Abnormality of voluntary movements Loss of accommodation Atrioventricular block Micturition disorders Erectile dysfunction Abnormal E C G Decreased sodium level in blood"
+  },
+  "dextromethorphan hydrobromide": {
+    "uses": "Dry cough",
+    "side_effects": "Sleepiness Dizziness Confusion Nausea"
+  },
+  "atorvastatin": {
+    "uses": "High cholesterolPrevention of Heart attack",
+    "side_effects": "Dyspepsia Abdominal pain Indigestion Diarrhea Joint pain Nasopharyngitis inflammation of the throat and nasal passages Nausea Pain in extremities Urinary tract infection Abnormal liver function tests"
+  },
+  "azelaic acid": {
+    "uses": "Treatment of Acne",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "acotiamide": {
+    "uses": "Treatment of Functional dyspepsia",
+    "side_effects": "Headache Diarrhea"
+  },
+  "nitroglycerin": {
+    "uses": "Treatment of Angina (heart-related chest pain)",
+    "side_effects": "Blurred vision Decreased blood pressure Dizziness Headache Increased heart rate Lightheadedness Paresthesia tingling or pricking sensation"
+  },
+  "moxifloxacin": {
+    "uses": "Treatment of Bacterial eye infections",
+    "side_effects": "Eye discomfort Dry eye Burning sensation in eye"
+  },
+  "acyclovir": {
+    "uses": "Herpes Simplex Virus Infections Chickenpox Herpes labialis Shingles Genital herpes infection",
+    "side_effects": "Headache Dizziness Vomiting Nausea Fatigue Fever Stomach pain Diarrhea Skin rash Photophobia"
+  },
+  "acenocoumarol": {
+    "uses": "Treatment and prevention of Blood clots",
+    "side_effects": "Hemorrhage"
+  },
+  "cetirizine": {
+    "uses": "Treatment of Allergic conditions",
+    "side_effects": "Nausea Muscle pain Edema swelling Sleepiness Fatigue Vomiting Dryness in mouth Headache Constipation"
+  },
+  "ciprofloxacin": {
+    "uses": "Treatment of Bacterial eye / ear infectionsTreatment of Eye infection with inflammation",
+    "side_effects": "Application site reactions burning irritation itching and redness Eye discomfort Corneal deposits Ocular hyperemia Taste change Ear discomfort Ear pain"
+  },
+  "furosemide": {
+    "uses": "Treatment of Edema",
+    "side_effects": "Nausea Vomiting Diarrhea Weakness Headache Dehydration Muscle cramp Decreased sodium level in blood Decreased magnesium level in blood Decreased calcium level in blood Increased blood uric acid"
+  },
+  "guaifenesin": {
+    "uses": "Treatment of Cough with mucus",
+    "side_effects": "Nausea Diarrhea Bloating Indigestion Vomiting Stomach pain Sweating Dizziness Headache Skin rash Hives Tremors Increased heart rate"
+  },
+  "glimepiride": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Hypoglycemia low blood glucose level Headache Nausea Dizziness Weakness"
+  },
+  "carboxymethylcellulose": {
+    "uses": "Treatment of Dry eyes",
+    "side_effects": "Eye irritation Burning eyes Eye discomfort Eye itching Eye pain"
+  },
+  "paracetamol": {
+    "uses": "Pain relief Fever",
+    "side_effects": "No common side effects seen"
+  },
+  "fluticasone furoate": {
+    "uses": "Treatment of Sneezing and runny nose due to allergies",
+    "side_effects": "Nasal inflammation Headache Nosebleeds Nasal ulceration Breathlessness"
+  },
+  "levosalbutamol": {
+    "uses": "Asthma",
+    "side_effects": "Hoarseness of voice Headache Dizziness Pharyngitis Vomiting Bronchitis inflammation of the airways Dryness in mouth Cough Application site irritation Nausea Gastrointestinal motility disorder Thrush Throat irritation"
+  },
+  "fluticasone propionate": {
+    "uses": "Treatment of Sneezing and runny nose due to allergies",
+    "side_effects": "Taste change Nosebleeds Headache Cough Upper respiratory tract infection Dryness in mouth Nasopharyngitis inflammation of the throat and nasal passages Sinus inflammation Stomach discomfort Fungal infection of oropharynx Tremors Palpitations Voice change"
+  },
+  "oseltamivir phosphate": {
+    "uses": "Treatment of Influenza (flu)",
+    "side_effects": "Nausea Vomiting Abdominal pain Diarrhea"
+  },
+  "memantine": {
+    "uses": "Alzheimer's disease",
+    "side_effects": "Dizziness Headache Confusion Constipation"
+  },
+  "sacubitril": {
+    "uses": "Treatment of Heart failure",
+    "side_effects": "Dizziness Increased potassium level in blood Fatigue Hypotension low blood pressure"
+  },
+  "diosmin": {
+    "uses": "Varicose veins",
+    "side_effects": "Diarrhea Dizziness Hives Itching Nausea Erythema skin redness Stomach pain"
+  },
+  "amlodipine": {
+    "uses": "Treatment of Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)",
+    "side_effects": "Headache Fatigue Nausea Abdominal pain Sleepiness"
+  },
+  "fluconazole": {
+    "uses": "Treatment of Fungal infections",
+    "side_effects": "Headache Nausea Stomach pain"
+  },
+  "thiocolchicoside": {
+    "uses": "Treatment of Muscular pain",
+    "side_effects": "Nausea Vomiting Heartburn Stomach pain Diarrhea Loss of appetite Dryness in mouth"
+  },
+  "tretinoin": {
+    "uses": "Treatment of Acne Acute promyelocytic leukaemia",
+    "side_effects": "Erythema skin redness Skin irritation Dry skin Dry lips Pale red skin Increased sensitivity to light"
+  },
+  "amantadine": {
+    "uses": "Treatment of Parkinson's disease",
+    "side_effects": "Nausea Dryness in mouth Constipation Dizziness Blurred vision Insomnia difficulty in sleeping Hallucination Peripheral edema Balance disorder loss of balance Orthostatic hypotension sudden lowering of blood pressure on standing"
+  },
+  "hydrochlorothiazide": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Edema",
+    "side_effects": "Headache Nausea Altered blood lipid level Weakness Dizziness"
+  },
+  "disodium hydrogen citrate": {
+    "uses": "Treatment of GoutTreatment of Kidney stone",
+    "side_effects": "Stomach pain Tiredness Diarrhea Nausea Vomiting Frequent urge to urinate"
+  },
+  "empagliflozin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Hypoglycemia low blood glucose level Cough Nasopharyngitis inflammation of the throat and nasal passages Urinary tract infection Nausea Vomiting Constipation Genital fungal infection"
+  },
+  "loperamide": {
+    "uses": "Diarrhea",
+    "side_effects": "Constipation Nausea Headache Stomach pain"
+  },
+  "choline salicylate": {
+    "uses": "Treatment of Mouth ulcers",
+    "side_effects": "No common side effects seen"
+  },
+  "atenolol": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Angina (heart-related chest pain)Treatment of ArrhythmiaPrevention of Heart attack",
+    "side_effects": "Fatigue Slow heart rate Cold extremities Gastrointestinal disturbance"
+  },
+  "samlodipine": {
+    "uses": "Treatment of Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)Prevention of Heart attackPrevention of Stroke",
+    "side_effects": "Ankle swelling Dizziness Fatigue Flushing sense of warmth in the face ears neck and trunk Headache Palpitations Abdominal pain Muscle cramp Nausea Sleepiness Visual disturbance Dyspepsia Breathlessness Change in bowel habits"
+  },
+  "telmisartan": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Ankle swelling Dizziness Nausea Peripheral edema Mood changes Visual disturbance"
+  },
+  "clotrimazole": {
+    "uses": "Treatment of Fungal skin infections",
+    "side_effects": "Blisters Skin peeling Swelling Application site irritation"
+  },
+  "aripiprazole": {
+    "uses": "Schizophrenia Mania",
+    "side_effects": "Akathisia inability to stay still Anxiety Blurred vision Constipation Dizziness Fatigue Headache Increased saliva production Indigestion Insomnia difficulty in sleeping Nausea Parkinsonism Restlessness Sleepiness Tremors Vomiting"
+  },
+  "methylcobalamin": {
+    "uses": "Treatment of Neuropathic pain",
+    "side_effects": "Dizziness Sleepiness Tiredness Uncoordinated body movements"
+  },
+  "sildenafil": {
+    "uses": "Treatment of Erectile dysfunction",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Headache Stiffness Nosebleeds Blurred vision Indigestion Muscle pain Upset stomach Rash"
+  },
+  "apremilast": {
+    "uses": "Plaque psoriasis",
+    "side_effects": "Diarrhea Nausea Vomiting"
+  },
+  "clindamycin": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Skin rash Stomach pain Nausea Vomiting Diarrhea"
+  },
+  "ursodeoxycholic acid": {
+    "uses": "Treatment of Primary biliary cirrhosisTreatment of Gallbladder stones",
+    "side_effects": "Abdominal pain Diarrhea Hair loss Itching Nausea Rash"
+  },
+  "levocloperastine": {
+    "uses": "Treatment of Dry cough",
+    "side_effects": "Palpitations Dizziness Fainting Fatigue Headache Sleepiness Gastrointestinal disturbance Confusion Numbness"
+  },
+  "cilnidipine": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Nausea Taste change Constipation Diarrhea Headache Dizziness Weakness Ankle swelling Flushing sense of warmth in the face ears neck and trunk Edema swelling Increased potassium level in blood Slow heart rate Numbness of extremity Cold extremities Decreased blood pressure"
+  },
+  "isotretinoin": {
+    "uses": "Treatment of Acne",
+    "side_effects": "Dry skin Increased liver enzymes Rash"
+  },
+  "levocetirizine": {
+    "uses": "Treatment of Common cold",
+    "side_effects": "Vomiting Dryness in mouth Headache Sleepiness Fatigue Constipation Diarrhea"
+  },
+  "racecadotril": {
+    "uses": "Treatment of Diarrhea",
+    "side_effects": "Vomiting Dizziness General discomfort Headache"
+  },
+  "human insulin": {
+    "uses": "Diabetes",
+    "side_effects": "Hypoglycemia low blood glucose level Weight gain Injection site reactions pain swelling redness Cold sweat Anxiety Shakiness Hunger pangs Fast heart rate Headache Nervousness"
+  },
+  "sulbutiamine": {
+    "uses": "Fatigue Alzheimer's disease",
+    "side_effects": "Skin rash Anxiety Headache"
+  },
+  "apixaban": {
+    "uses": "Treatment and prevention of Blood clots",
+    "side_effects": "Anemia low number of red blood cells Blood in urine Bruise Nausea Nosebleeds Hematoma"
+  },
+  "drotaverine": {
+    "uses": "Treatment of Abdominal pain",
+    "side_effects": "Diarrhea Nausea Vomiting Dryness in mouth Dizziness Vertigo Insomnia difficulty in sleeping Hypotension low blood pressure Fast heart rate Sweating Constipation Indigestion Abdominal pain Increased liver enzymes"
+  },
+  "ketorolac": {
+    "uses": "Treatment of Bacterial eye infections",
+    "side_effects": "Conjunctivitis Reduced visual acuity Dry eye Eye discomfort Ocular hyperemia Eye pain Eye twitching Subconjunctival hemorrhage Transient stinging Transient burning Allergic reaction Corneal edema Iritis inflammation of the middle layer of the eye Eye inflammation Superficial keratitis Eye infection Fever Cough Infection Otitis media infection of ear Sore throat Rash Inflammation of the nose Taste change"
+  },
+  "ketoconazole": {
+    "uses": "Fungal skin infections",
+    "side_effects": "Skin peeling Application site reactions burning irritation itching and redness Nausea Vomiting Abdominal pain Increased liver enzymes Application site redness Itching Diarrhea Abnormal liver function tests Adrenal insufficiency Application site burning"
+  },
+  "alendronic acid": {
+    "uses": "Osteoporosis",
+    "side_effects": "Headache Musculoskeletal bone muscle or joint pain Back pain Indigestion Diarrhea Heartburn"
+  },
+  "hydroxypropylmethylcellulose": {
+    "uses": "Dry eyes",
+    "side_effects": "Blurred vision Eye irritation Eye pain Eye redness Foreign body sensation in eyes"
+  },
+  "desonide": {
+    "uses": "Skin conditions with inflammation & itching",
+    "side_effects": "Application site reactions burning irritation itching and redness Rash"
+  },
+  "insulin glulisine": {
+    "uses": "Diabetes",
+    "side_effects": "Hypoglycemia low blood glucose level Allergic reaction Injection site reactions pain swelling redness Lipodystrophy skin thickening or pits at the injection site Itching Rash Upper respiratory tract infection"
+  },
+  "sodium hyaluronate": {
+    "uses": "Treatment of Dry eyes",
+    "side_effects": "Limited data available"
+  },
+  "naphazoline": {
+    "uses": "Treatment of Allergic eye disease",
+    "side_effects": "Eye irritation Burning eyes Stinging in the eyes Blurred vision"
+  },
+  "acamprosate": {
+    "uses": "Alcohol addiction",
+    "side_effects": "Diarrhea Abdominal pain Nausea Vomiting Decreased libido Itching Flatulence Impotence"
+  },
+  "choline fenofibrate": {
+    "uses": "High cholesterol",
+    "side_effects": "Abdominal pain Nausea Vomiting Diarrhea Flatulence Increased liver enzymes Increased creatine phosphokinase C P K level in blood Inflammation of the nose Back pain Headache"
+  },
+  "bromhexine": {
+    "uses": "Treatment of Cough",
+    "side_effects": "Nausea Indigestion Bloating Vomiting Diarrhea Stomach pain Dizziness Headache Sweating Skin rash Hives Tremors Increased heart rate Palpitations"
+  },
+  "atropine": {
+    "uses": "Treatment of MyopiaTreatment of Uveitis",
+    "side_effects": "Stinging sensation High blood pressure"
+  },
+  "testosterone": {
+    "uses": "Treatment of Male hypogonadism",
+    "side_effects": "Injection site reactions pain swelling redness Acne Voice change Breast enlargement in male"
+  },
+  "domperidone": {
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease",
+    "side_effects": "Diarrhea Stomach pain Dryness in mouth Headache Dizziness Flatulence Weakness Flu like symptoms"
+  },
+  "alfacalcidol": {
+    "uses": "Treatment of Vitamin D deficiency",
+    "side_effects": "Rash Itching Abdominal pain Increased calcium level in blood Increased calcium in urine Increased phosphate level in blood"
+  },
+  "ornidazole": {
+    "uses": "Diarrhea Dysentery",
+    "side_effects": "Nausea Loss of appetite Flatulence Dizziness Headache"
+  },
+  "losartan": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Sleepiness Ankle swelling Headache Flushing sense of warmth in the face ears neck and trunk Dizziness Palpitations Increased potassium level in blood Fatigue Nausea Edema swelling Abdominal pain Visual disturbance Breathlessness Change in bowel habits Nasal congestion stuffy nose Upper respiratory tract infection"
+  },
+  "amorolfine": {
+    "uses": "Fungal nail infections",
+    "side_effects": "Blisters on skin Nail disorder Skin irritation Skin rash Erythema skin redness"
+  },
+  "prochlorperazine": {
+    "uses": "Treatment of VertigoTreatment of NauseaTreatment of VomitingTreatment of MigraineTreatment of Short term anxiety",
+    "side_effects": "Drowsiness Orthostatic hypotension sudden lowering of blood pressure on standing"
+  },
+  "albumin": {
+    "uses": "Short term fluid replacement after trauma",
+    "side_effects": "Vomiting Flushing sense of warmth in the face ears neck and trunk Fever Nausea Chills Hives Slow heart rate"
+  },
+  "flupenthixol": {
+    "uses": "Schizophrenia Depression Bipolar disorder",
+    "side_effects": "Sleepiness Orthostatic hypotension sudden lowering of blood pressure on standing Dryness in mouth Abnormality of voluntary movements Weight gain Increased prolactin level in blood Urinary retention Constipation Muscle stiffness Tremors"
+  },
+  "doxylamine": {
+    "uses": "Nausea and vomiting in pregnancy",
+    "side_effects": "Dryness in mouth Constipation Lightheadedness Drowsiness"
+  },
+  "dicyclomine": {
+    "uses": "Treatment of Menstrual painTreatment of Abdominal cramp",
+    "side_effects": "Dizziness Dryness in mouth Blurred vision Nausea Sleepiness Weakness Nervousness"
+  },
+  "aprepitant": {
+    "uses": "Nausea and vomiting due to chemotherapy",
+    "side_effects": "Constipation Indigestion Headache Tiredness Loss of appetite Hiccup Increased liver enzymes"
+  },
+  "minoxidil": {
+    "uses": "Treatment of Hair loss",
+    "side_effects": "Itching Chest pain Headache Hypertrichosis excessive hair growth Rash Dermatitis Hypersensitivity Weight gain Fluid retention Tachycardia"
+  },
+  "brinzolamide": {
+    "uses": "Glaucoma Ocular hypertension",
+    "side_effects": "Blurred vision Bitter taste"
+  },
+  "diloxanide": {
+    "uses": "Worm infections Intestinal amoebiasis",
+    "side_effects": "Nausea Vomiting Itching Flatulence Decreased appetite Red spots or bumps"
+  },
+  "ampicillin": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Rash Vomiting Allergic reaction Stomach pain Nausea Diarrhea"
+  },
+  "azathioprine": {
+    "uses": "Prevention of organ rejection in transplant patientsTreatment of Rheumatoid arthritis",
+    "side_effects": "Decreased white blood cell count Increased bleeding tendency Nausea Infection Loss of appetite"
+  },
+  "melatonin": {
+    "uses": "Treatment of InsomniaTreatment of Jet lag",
+    "side_effects": "Headache Drowsiness"
+  },
+  "aspirin": {
+    "uses": "Prevention of Heart attack",
+    "side_effects": "Increased bleeding tendency Abdominal pain Indigestion Bruise Nosebleeds Gastrointestinal bleeding Diarrhea"
+  },
+  "acitretin": {
+    "uses": "Psoriasis",
+    "side_effects": "Dryness in mouth Skin peeling Itching Hair loss Dry skin Lip inflammation Dry eye Inflammation of the nose"
+  },
+  "benzoyl peroxide": {
+    "uses": "Acne",
+    "side_effects": "Erythema skin redness Skin peeling Dryness Burning sensation Itching Stinging sensation"
+  },
+  "dapsone": {
+    "uses": "Acne",
+    "side_effects": "Oily skin Skin peeling Dry skin Erythema skin redness"
+  },
+  "levofloxacin": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Headache Dizziness Nausea Constipation Diarrhea"
+  },
+  "recombinant human erythropoietin alfa": {
+    "uses": "Treatment of Anemia due to chronic kidney diseaseTreatment of Anemia due to cancer chemotherapy",
+    "side_effects": "High blood pressure Nausea Vomiting Fever Rash Joint pain Headache Insomnia difficulty in sleeping Chills Cough Bone pain Muscle spasm Dizziness Vascular occlusion Injection site irritation Stomatitis Inflammation of the mouth Weight loss Decreased white blood cell count lymphocytes Increased glucose level in blood Blood clot in the blood vessels"
+  },
+  "alcaftadine": {
+    "uses": "Allergic eye disease",
+    "side_effects": "Eye irritation Itching Stinging in the eyes Burning eyes"
+  },
+  "glycopyrrolate": {
+    "uses": "Chronic obstructive pulmonary disease (COPD) General Anaesthesia Peptic ulcer disease",
+    "side_effects": "Sore throat Dryness in mouth Insomnia difficulty in sleeping Gastroenteritis"
+  },
+  "cefuroxime": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Rash Vomiting Allergic reaction Increased liver enzymes Nausea Diarrhea"
+  },
+  "aluminium hydroxide": {
+    "uses": "Acidity Heartburn Stomach ulcers",
+    "side_effects": "Diarrhea Constipation Allergic reaction"
+  },
+  "carbimazole": {
+    "uses": "Hyperthyroidism",
+    "side_effects": "Nausea Headache Joint pain Gastrointestinal disturbance Skin rash Itching Paresthesia tingling or pricking sensation"
+  },
+  "brimonidine": {
+    "uses": "Treatment of Glaucoma",
+    "side_effects": "Blurred vision Drowsiness Headache Dryness in mouth Conjunctivitis Conjunctival hyperemia Eye itching Burning sensation Follicular conjunctivitis Allergic reaction in eye Eyelid inflammation Photophobia Corneal erosion Dry eye Visual disorder Dizziness Taste change Upper respiratory tract infection Conjunctival blanching Gastrointestinal discomfort Fatigue Stinging sensation"
+  },
+  "sodium acid phosphate": {
+    "uses": "Treatment of High calcium levels in the bloodTreatment of Hyperparathyroidism",
+    "side_effects": "Nausea Diarrhea"
+  },
+  "epalrestat": {
+    "uses": "Diabetic nerve pain",
+    "side_effects": "Nausea Vomiting Abnormal liver function"
+  },
+  "itraconazole": {
+    "uses": "Treatment of Fungal infections",
+    "side_effects": "Nausea Abdominal pain Constipation Dizziness Headache Indigestion Vomiting"
+  },
+  "nimesulide": {
+    "uses": "Treatment of Abdominal cramp",
+    "side_effects": "Nausea Vomiting Constipation Dryness in mouth Increased liver enzymes Blurred vision Increased heart rate"
+  },
+  "pregabalin": {
+    "uses": "Treatment of Neuropathic pain",
+    "side_effects": "Constipation Difficulty in urination Weight gain Sleepiness Dizziness Tiredness Blurred vision Dryness in mouth Increased heart rate Orthostatic hypotension sudden lowering of blood pressure on standing Uncoordinated body movements"
+  },
+  "azilsartan medoxomil": {
+    "uses": "Hypertension (high blood pressure) Heart failure Prevention of heart attack and stroke",
+    "side_effects": "Dizziness Muscle damage Diarrhea"
+  },
+  "metronidazole": {
+    "uses": "Treatment of Bacterial infectionsTreatment of Parasitic infections",
+    "side_effects": "Headache Dryness in mouth Nausea Metallic taste"
+  },
+  "alpha ketoanalogue": {
+    "uses": "Treatment of Chronic kidney disease",
+    "side_effects": "Increased calcium level in blood"
+  },
+  "eperisone": {
+    "uses": "Pain due to muscle spasm",
+    "side_effects": "Nausea Vomiting Heartburn Stomach pain epigastric pain Loss of appetite Diarrhea Dizziness Weakness Sleepiness"
+  },
+  "amikacin": {
+    "uses": "Bacterial infections",
+    "side_effects": "Increased blood urea Injection site reactions pain swelling redness"
+  },
+  "nepafenac": {
+    "uses": "Treatment of Post-operative eye pain and inflammation",
+    "side_effects": "Decreased vision Foreign body sensation in eyes Increased intraocular pressure Stickiness"
+  },
+  "alpha ketoanalogue na": {
+    "uses": "Treatment of Chronic kidney disease",
+    "side_effects": "No common side effects seen"
+  },
+  "tranexamic acid": {
+    "uses": "Treatment of Melasma",
+    "side_effects": "Diarrhea Nausea Vomiting Dizziness Hypotension low blood pressure"
+  },
+  "metadoxine": {
+    "uses": "Alcoholic fatty liver disease",
+    "side_effects": "Nausea Upset stomach Diarrhea"
+  },
+  "acetic acid": {
+    "uses": "Ear infection",
+    "side_effects": "Burning sensation Irritation Local reaction"
+  },
+  "rosuvastatin": {
+    "uses": "Treatment of High cholesterol Prevention of heart attack and stroke",
+    "side_effects": "Muscle pain Weakness Headache Abdominal pain Dizziness Joint pain Nausea"
+  },
+  "edaravone": {
+    "uses": "Amyotrophic lateral sclerosis (ALS)",
+    "side_effects": "Bruise Walking difficulties Headache Injection site reactions pain swelling redness"
+  },
+  "ambroxol na levosalbutamol na guaifenesin na": {
+    "uses": "Treatment of Cough with mucus",
+    "side_effects": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate"
+  },
+  "loratadine": {
+    "uses": "Treatment of Allergic conditions",
+    "side_effects": "Sleepiness Headache"
+  },
+  "potassium chloride": {
+    "uses": "Treatment of Potassium deficiency",
+    "side_effects": "Injection site reactions pain swelling redness Diarrhea Nausea Vomiting Flatulence Abdominal pain Fatigue Febrile response"
+  },
+  "lleucine": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "No common side effects seen"
+  },
+  "ambrisentan": {
+    "uses": "Pulmonary arterial hypertension (PAH)",
+    "side_effects": "Peripheral edema Nasal congestion stuffy nose Sinus inflammation Flushing sense of warmth in the face ears neck and trunk"
+  },
+  "torasemide": {
+    "uses": "Edema",
+    "side_effects": "Headache Dizziness Metabolic alkalosis Electrolyte imbalance Muscle pain Gastrointestinal disturbance"
+  },
+  "formoterol": {
+    "uses": "Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Indigestion High blood pressure Nasopharyngitis inflammation of the throat and nasal passages Chest pain Fever Urinary retention Sore throat Cough Headache Dizziness Increased glucose level in blood Allergic reaction Sinus inflammation Inflammation of the nose Urinary tract infection"
+  },
+  "benfotiamine": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Nausea Vomiting"
+  },
+  "lornithine laspartate": {
+    "uses": "Treatment of Liver  disease",
+    "side_effects": "Injection site reactions pain swelling redness"
+  },
+  "etofylline": {
+    "uses": "Treatment of Asthma",
+    "side_effects": "Nausea Vomiting Restlessness Tremors Headache Palpitations Muscle cramp Increased heart rate"
+  },
+  "timolol": {
+    "uses": "Treatment of Ocular hypertensionTreatment of Glaucoma",
+    "side_effects": "Application site reactions burning irritation itching and redness Blurred vision"
+  },
+  "hydroxyprogesterone": {
+    "uses": "Prevention of Premature Labor",
+    "side_effects": "Injection site pain Injection site swelling Red spots or bumps Rash"
+  },
+  "sodium bicarbonate": {
+    "uses": "Treatment of IndigestionTreatment of Alkalinizing agentTreatment of Metabolic acidosis",
+    "side_effects": "Increased sodium level in blood Brain swelling Alkalosis Decreased potassium level in blood"
+  },
+  "desloratadine": {
+    "uses": "Treatment of Allergic conditions",
+    "side_effects": "Sleepiness Dizziness"
+  },
+  "aztreonam": {
+    "uses": "Severe bacterial infections",
+    "side_effects": "Rash Injection site reactions pain swelling redness Vomiting Nausea Diarrhea"
+  },
+  "rabies vaccine human": {
+    "uses": "Prevention of Rabies",
+    "side_effects": "Pain Joint pain Injection site redness Injection site swelling Swelling of lymph nodes"
+  },
+  "ethosuximide": {
+    "uses": "Treatment of Epilepsy/Seizures",
+    "side_effects": "Dizziness Headache Sleepiness Weight loss Diarrhea Nausea Gastrointestinal discomfort Vomiting"
+  },
+  "silodosin": {
+    "uses": "Treatment of Benign prostatic hyperplasia",
+    "side_effects": "Ejaculation disorder Impotence Headache Dizziness Decreased libido Orthostatic hypotension sudden lowering of blood pressure on standing Nausea Abdominal pain Breast enlargement in male Breast tenderness in male"
+  },
+  "gabapentin": {
+    "uses": "Neuropathic pain",
+    "side_effects": "Application site burning Irritation"
+  },
+  "hydrocortisone": {
+    "uses": "Treatment of Ear infection",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "hydroquinone": {
+    "uses": "Melasma",
+    "side_effects": "Thinning of skin Dry skin Application site reactions burning irritation itching and redness"
+  },
+  "miconazole": {
+    "uses": "Treatment of Skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "fenofibrate": {
+    "uses": "High cholesterol",
+    "side_effects": "Increased liver enzymes Nausea Vomiting Flatulence Abdominal pain Diarrhea Headache Back pain Increased creatine phosphokinase C P K level in blood Inflammation of the nose"
+  },
+  "metoprolol succinate": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Nausea Taste change Vomiting Diarrhea Constipation Cough Dizziness Weakness Headache Cold extremities Slow heart rate Numbness of extremity Increased potassium level in blood Decreased blood pressure"
+  },
+  "pancreatin": {
+    "uses": "Treatment of Pancreatic enzyme deficiency",
+    "side_effects": "Stomach pain Bloating Diarrhea"
+  },
+  "polidocanol": {
+    "uses": "Varicose veins",
+    "side_effects": "Injection site pain Pain in extremities Thrombophlebitis"
+  },
+  "diltiazem": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Angina (heart-related chest pain)Treatment of Arrhythmia",
+    "side_effects": "Headache Dizziness Nausea Edema swelling"
+  },
+  "azelastine": {
+    "uses": "Treatment of Sneezing and runny nose due to allergies",
+    "side_effects": "Bitter taste Nasal irritation"
+  },
+  "bromelain": {
+    "uses": "Pain relief",
+    "side_effects": "No common side effects seen"
+  },
+  "alogliptin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Headache Hypoglycaemia low blood sugar level in combination with insulin or sulphonylurea Nasopharyngitis inflammation of the throat and nasal passages Upper respiratory tract infection Abdominal pain Gastro esophageal reflux disease Diarrhea Itching Rash"
+  },
+  "trypsin": {
+    "uses": "Pain relief",
+    "side_effects": "Nausea Vomiting Heartburn Indigestion Diarrhea Loss of appetite Stomach pain"
+  },
+  "allylestrenol": {
+    "uses": "Treatment of Premature LaborTreatment of Recurrent miscarriage",
+    "side_effects": "Edema swelling Bloating Depression Headache Fatigue Altered libido Irregular menstrual cycle Gastrointestinal disturbance Excessive hair growth on face"
+  },
+  "clozapine": {
+    "uses": "Schizophrenia",
+    "side_effects": "Dizziness Fainting Constipation Fever Weight gain Decreased white blood cell count Extrapyramidal symptoms Increased liver enzymes Drowsiness Seizure Increased white blood cell count eosinophils Anticholinergic effects Tachycardia Excessive salivation"
+  },
+  "sevelamer": {
+    "uses": "High phosphate levels in blood",
+    "side_effects": "Nausea Vomiting Upper abdominal pain Flatulence Constipation Diarrhea"
+  },
+  "isosorbide dinitrate": {
+    "uses": "Treatment of Heart failure",
+    "side_effects": "Headache Dizziness"
+  },
+  "acetylcysteine": {
+    "uses": "Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Nausea Vomiting Upset stomach Stomach pain Allergic reaction Fever"
+  },
+  "agomelatine": {
+    "uses": "Depression",
+    "side_effects": "Headache Nausea Dizziness Fatigue Anxiety Insomnia difficulty in sleeping Back pain Abdominal pain Change in body weight Diarrhea Constipation Sleepiness Increased liver enzymes"
+  },
+  "corticotropin": {
+    "uses": "Infantile spasms",
+    "side_effects": "Increased appetite Weight gain High blood pressure Mood changes Behavioral changes Infection Seizure Fluid retention"
+  },
+  "tirofiban": {
+    "uses": "Prevention of Heart attack",
+    "side_effects": "Headache Nausea Hematoma Ecchymosis discoloration of the skin resulting from bleeding underneath Postoperative bleeding Blood in stool Blood in urine"
+  },
+  "progesterone": {
+    "uses": "Hormone replacement therapy Female infertility",
+    "side_effects": "Abdominal bloating Hot flushes Vaginal discharge Urinary incontinence Headache Fatigue Joint pain Cough Abnormal menstrual bleeding Musculoskeletal bone muscle or joint pain Slurred speech Pain behind eyes Vertigo"
+  },
+  "tetrabenazine": {
+    "uses": "Treatment of chorea (a movement disorder) associated with Huntington's disease",
+    "side_effects": "Nausea Insomnia difficulty in sleeping Anxiety Fatigue Sleepiness Akathisia inability to stay still Depression"
+  },
+  "deferasirox": {
+    "uses": "Treatment of Iron overload",
+    "side_effects": "Nausea Headache Vomiting Rash Abdominal pain Constipation Itching Increased liver enzymes Abdominal distension Diarrhea"
+  },
+  "sucralfate": {
+    "uses": "Treatment of Intestinal ulcersTreatment of Stomach ulcers",
+    "side_effects": "Constipation"
+  },
+  "amisulpride": {
+    "uses": "Schizophrenia",
+    "side_effects": "Nausea Vomiting Dryness in mouth Constipation Weight gain Decreased blood pressure Dystonia involuntary muscle contractions Akathisia inability to stay still Parkinsonism Increased prolactin level in blood"
+  },
+  "amiodarone": {
+    "uses": "Treatment of Arrhythmia",
+    "side_effects": "Lung damage Tachycardia Congestive cardiac failure Increased liver enzymes"
+  },
+  "dexamethasone": {
+    "uses": "Treatment of Inflammatory conditionsTreatment of Autoimmune conditions",
+    "side_effects": "Cardiovascular complications Metabolic disorder Infection Hiccup Decreased sperm count Cushing syndrome"
+  },
+  "magaldrate": {
+    "uses": "Treatment of AcidityTreatment of HeartburnTreatment of Stomach ulcers",
+    "side_effects": "Chalky taste Diarrhea Constipation Allergic reaction"
+  },
+  "amphotericin b": {
+    "uses": "Fungal infections of vagina",
+    "side_effects": "No common side effects seen Nausea Vomiting Chills Headache Anemia low number of red blood cells Decreased potassium level in blood Abnormal liver function tests Decreased magnesium level in blood Diarrhea Decreased appetite Hypotension low blood pressure Skin rash Nephrocalcinosis Increased creatinine level in blood Abnormal renal function tests Renal tubular acidosis"
+  },
+  "gliclazide": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Hypoglycemia low blood glucose level Dizziness Headache Nausea Vomiting Diarrhea Flatulence Upper respiratory tract infection Bronchitis inflammation of the airways Anemia low number of red blood cells Edema swelling"
+  },
+  "abiraterone acetate": {
+    "uses": "Prostate cancer",
+    "side_effects": "Edema swelling Vomiting Decreased potassium level in blood Decreased white blood cell count Fatigue Increased liver enzymes Anemia low number of red blood cells Urinary tract infection Diarrhea High blood pressure Cough Hypercholesterolemia high cholesterol Joint swelling Increased levels of blood fat Altered blood sugar level"
+  },
+  "alprostadil": {
+    "uses": "Treatment of Patent ductus arteriosus (PDA)",
+    "side_effects": "Apnea absence of breathing Fever"
+  },
+  "liposomal amphotericin b": {
+    "uses": "Fungal skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "almotriptan": {
+    "uses": "Treatment of Acute migraine headache",
+    "side_effects": "Dizziness Dryness in mouth Nausea Sleepiness Headache Paresthesia tingling or pricking sensation Vomiting"
+  },
+  "ciclosporin": {
+    "uses": "Prevention of organ rejection in transplant patients Rheumatoid arthritis PsoriasisPrevention of graft rejection following Bone marrow transplantationTreatment of Nephrotic syndrome",
+    "side_effects": "Headache Nausea Vomiting Increased hair growth High blood pressure Renal dysfunction Loss of appetite Diarrhea Tremors Gingival hypertrophy gum enlargement"
+  },
+  "ivermectin": {
+    "uses": "Treatment of Worm infections",
+    "side_effects": "Nausea Vomiting Diarrhea Loss of appetite Increased liver enzymes Itching Dizziness Swelling of lymph nodes"
+  },
+  "rabeprazole": {
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer diseaseTreatment of Zollinger-Ellison syndrome",
+    "side_effects": "Diarrhea Dizziness Flatulence Headache Nausea Sore throat Stomach pain Vomiting"
+  },
+  "isoxsuprine": {
+    "uses": "Treatment of Premature LaborTreatment of Peripheral vascular disease",
+    "side_effects": "Dizziness Palpitations"
+  },
+  "dulaglutide": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Nausea Diarrhea Vomiting Abdominal pain Loss of appetite"
+  },
+  "diclofenac": {
+    "uses": "Treatment of Muscular pain",
+    "side_effects": "Nausea Vomiting Heartburn Stomach pain Diarrhea Loss of appetite Sleepiness"
+  },
+  "dabigatran etexilate": {
+    "uses": "Treatment and prevention of Blood clots",
+    "side_effects": "Nausea Anemia low number of red blood cells Gastrointestinal bleeding Dyspepsia Diarrhea Abdominal pain Nosebleeds Skin bleeding"
+  },
+  "levosulpiride": {
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Intestinal ulcersTreatment of Irritable bowel syndrome",
+    "side_effects": "Nausea Stomach pain Diarrhea Flatulence Constipation Headache Dizziness Weakness Sleepiness Flu like symptoms"
+  },
+  "cefixime": {
+    "uses": "Bacterial infections",
+    "side_effects": "Nausea Vomiting Diarrhea Stomach pain Indigestion Flatulence Rash"
+  },
+  "furazolidone": {
+    "uses": "Diarrhea Dysentery",
+    "side_effects": "Nausea Headache Dryness in mouth Metallic taste Dark yellow to brown discoloration of urine"
+  },
+  "vildagliptin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Hypoglycemia low blood glucose level Tremors Headache Dizziness Fatigue Nausea"
+  },
+  "netupitant": {
+    "uses": "Nausea and vomiting due to chemotherapy",
+    "side_effects": "Fatigue Erythema skin redness Weakness Headache Constipation Indigestion"
+  },
+  "pantoprazole": {
+    "uses": "Treatment of HeartburnTreatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer diseaseTreatment of Zollinger-Ellison syndrome",
+    "side_effects": "Diarrhea Flatulence Headache Nausea Stomach pain Vomiting Dizziness Upper respiratory tract infection"
+  },
+  "olopatadine": {
+    "uses": "Treatment of Allergic conditions",
+    "side_effects": "Eye pain Eye irritation Abnormal eye sensation Eye discomfort Sleepiness Weakness Dryness in mouth"
+  },
+  "salmeterol": {
+    "uses": "Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Tremors Headache Palpitations Muscle cramp Vomiting Nausea Cough Upper respiratory tract infection Fungal infection of mouth Pharyngitis Bronchitis inflammation of the airways Voice change Pneumonia"
+  },
+  "sodium picosulfate": {
+    "uses": "Treatment of Constipation",
+    "side_effects": "Abdominal pain Abdominal cramp Abdominal discomfort Diarrhea"
+  },
+  "doxycycline": {
+    "uses": "Treatment of Bacterial infectionsTreatment of Acne",
+    "side_effects": "Vomiting Nausea Photosensitivity Rash Anaphylactic reaction Headache Fast heart rate Hypotension low blood pressure"
+  },
+  "pralidoxime": {
+    "uses": "Organophosphate poisoning",
+    "side_effects": "Accomodation disorder Dizziness Double vision Drowsiness Headache High blood pressure Increased heart rate Muscle weakness Nausea"
+  },
+  "progesterone natural micronized": {
+    "uses": "Hormone replacement therapyTreatment of Female infertility",
+    "side_effects": "Abdominal pain Nausea Abnormal vaginal bleeding Edema swelling Hair loss Abdominal bloating Headache Breast pain Vomiting Vaginal yeast infection"
+  },
+  "etoricoxib": {
+    "uses": "Treatment of Pain due to muscle spasm",
+    "side_effects": "Diarrhea Stomach pain Indigestion Flatulence Swelling of hands Feet swelling Flu like symptoms"
+  },
+  "chondroitin": {
+    "uses": "Osteoarthritis",
+    "side_effects": "Nausea Diarrhea Constipation Heartburn Urine discoloration"
+  },
+  "bromfenac": {
+    "uses": "Post-operative eye pain and inflammation",
+    "side_effects": "Blurred vision Increased sensitivity to light Change in color vision Decreased vision Eye pain Sore eye Teary eyes"
+  },
+  "larginine": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "Bloating Abdominal pain Decreased blood pressure Diarrhea Gout Airway inflammation Aggravation of asthma Nausea"
+  },
+  "diphenhydramine": {
+    "uses": "Treatment of Nasal allergy symptomsTreatment and prevention of Motion sicknessTreatment of Insomnia",
+    "side_effects": "Dizziness Drowsiness Dryness in mouth"
+  },
+  "lamivudine": {
+    "uses": "Treatment of HIV infection",
+    "side_effects": "Headache Dizziness Nausea Insomnia difficulty in sleeping Weakness Depression Diarrhea Rash Pain Fever Decreased white blood cell count neutrophils Peripheral neuropathy tingling and numbness of feet and hand Back pain Abdominal pain Anxiety Vomiting Joint pain Pneumonia Dyspepsia Muscle pain Lipodystrophy skin thickening or pits at the injection site Hypercholesterolemia high cholesterol Increased triglyceride level in blood Elevated creatinine kinase Elevated levels of serum amylase Blood in urine Increased transaminase level in blood Cough Impaired concentration Abnormal dreams"
+  },
+  "voglibose": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Skin rash Flatulence Abdominal pain Diarrhea"
+  },
+  "ethinyl estradiol": {
+    "uses": "Contraception",
+    "side_effects": "Nausea Stomach pain Headache Weight gain Breast pain Irregular uterine bleeding"
+  },
+  "alpha glycerylphosphorylcholine": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "No common side effects seen"
+  },
+  "iso amyl": {
+    "uses": "Closure of surgical incisions",
+    "side_effects": "Limited data available"
+  },
+  "clarithromycin": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Abdominal pain Diarrhea Nausea Vomiting Headache Rash Injection site phlebitis Insomnia difficulty in sleeping Abnormal taste Dyspepsia Taste change Abnormal liver function tests"
+  },
+  "ofloxacin": {
+    "uses": "Bacterial eye infectionsTreatment of Bacterial infections",
+    "side_effects": "Eye discomfort Nausea Headache Dizziness Itching Insomnia difficulty in sleeping Rash Genital itching Vaginal inflammation Phlebitis Injection site reactions pain swelling redness"
+  },
+  "glucosamine": {
+    "uses": "Osteoarthritis",
+    "side_effects": "Nausea Diarrhea Constipation Indigestion Heartburn Urine discoloration"
+  },
+  "nandrolone decanoate": {
+    "uses": "Treatment of Post menopausal osteoporosis",
+    "side_effects": "Edema swelling Nausea Breast enlargement Acne"
+  },
+  "calcitriol": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Limited data available"
+  },
+  "tiotropium": {
+    "uses": "Treatment of Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Dryness in mouth"
+  },
+  "terbinafine": {
+    "uses": "Fungal skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Skin peeling Headache Diarrhea Rash Indigestion Abnormal liver enzyme Itching Taste change Nausea Abdominal pain Flatulence"
+  },
+  "everolimus": {
+    "uses": "Prevention of organ rejection in transplant patientsTreatment of Breast cancerTreatment of Pancreatic cancerTreatment of Lung cancerTreatment of Kidney cancer",
+    "side_effects": "Weakness Sinus inflammation Infection Fever Cough Fatigue Stomatitis Inflammation of the mouth Otitis media infection of ear Diarrhea Upper respiratory tract infection"
+  },
+  "seratrodast": {
+    "uses": "Asthma",
+    "side_effects": "Gastrointestinal disturbance Headache Palpitations Drowsiness Hepatitis viral infection of liver Hypersensitivity Increased liver enzymes"
+  },
+  "metformin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Flatulence Diarrhea Bloating Abdominal pain Vomiting Decreased appetite"
+  },
+  "olmesartan medoxomil": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Headache Dizziness Nausea Upper respiratory tract infection Fatigue Urinary tract infection Diarrhea Joint swelling Peripheral edema Nasopharyngitis inflammation of the throat and nasal passages Muscle spasm"
+  },
+  "labetalol": {
+    "uses": "Hypertension (high blood pressure) Angina (heart-related chest pain) Prevention of heart attack and stroke",
+    "side_effects": "Fatigue Nausea Dizziness Nasal congestion stuffy nose Ejaculation disorder Breathlessness"
+  },
+  "methyldopa": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Dizziness Fatigue Dryness in mouth Headache"
+  },
+  "deflazacort": {
+    "uses": "Treatment of Inflammatory conditionsTreatment of Autoimmune conditionsTreatment of Cancer",
+    "side_effects": "Increased appetite Weight gain Frequent urge to urinate Cushing syndrome Cough Upper respiratory tract infection Abnormal hair growth Obesity Nasopharyngitis inflammation of the throat and nasal passages"
+  },
+  "ranolazine": {
+    "uses": "Treatment of Angina (heart-related chest pain)",
+    "side_effects": "Nausea Vomiting Headache Dizziness Constipation Weakness"
+  },
+  "abacavir": {
+    "uses": "HIV infection",
+    "side_effects": "Nausea Vomiting Headache Insomnia difficulty in sleeping Rash Hypersensitivity Decreased appetite"
+  },
+  "solifenacin": {
+    "uses": "Treatment of Overactive bladder (OAB) symptoms",
+    "side_effects": "Dryness in mouth Constipation Blurred vision Nausea Upset stomach Urinary tract infection"
+  },
+  "clobetasol": {
+    "uses": "Treatment of Skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Thinning of skin"
+  },
+  "atazanavir": {
+    "uses": "HIV infection",
+    "side_effects": "Headache Nausea Vomiting Diarrhea Peripheral neuropathy tingling and numbness of feet and hand Jaundice Rash Scleral icterus Muscle pain Fever Depression Insomnia difficulty in sleeping Dizziness Elevated serum glutamic oxaloacetic transaminase Elevated serum glutamic pyruvic transaminase Increased bilirubin in the blood Increased lipase in the blood Elevated creatinine kinase Hypercholesterolemia high cholesterol Increased triglyceride level in blood Increased glucose level in blood Decreased white blood cell count neutrophils Low blood platelets"
+  },
+  "triclosan": {
+    "uses": "Skin infections",
+    "side_effects": "No common side effects seen"
+  },
+  "lurasidone": {
+    "uses": "Schizophrenia",
+    "side_effects": "Nausea Vomiting Weight gain Sleepiness Dryness in mouth Indigestion Parkinsonism Akathisia inability to stay still Anxiety Stomach discomfort Restlessness Upper abdominal pain Agitation Insomnia difficulty in sleeping Increased saliva production"
+  },
+  "favipiravir": {
+    "uses": "Treatment of Coronavirus disease (COVID-19)",
+    "side_effects": "Increased uric acid level in blood Diarrhea Decreased white blood cell count neutrophils Increased liver enzymes"
+  },
+  "bilastine": {
+    "uses": "Treatment of Allergic conditions",
+    "side_effects": "Headache Drowsiness"
+  },
+  "asenapine": {
+    "uses": "Schizophrenia Mania",
+    "side_effects": "Abnormal involuntary movements Anxiety Dizziness Dystonia involuntary muscle contractions Increased saliva production Nausea Parkinsonism Sleepiness Taste change Weight gain"
+  },
+  "diacerein": {
+    "uses": "Osteoarthritis",
+    "side_effects": "Nausea Diarrhea Constipation Urine discoloration Heartburn"
+  },
+  "luliconazole": {
+    "uses": "Treatment of Fungal skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Dry skin Skin peeling Blisters on skin"
+  },
+  "mefenamic acid": {
+    "uses": "Pain relief",
+    "side_effects": "Vomiting Stomach pain Nausea Headache Dizziness"
+  },
+  "ebastine": {
+    "uses": "Allergic conditions",
+    "side_effects": "Sleepiness Headache Dryness in mouth"
+  },
+  "lactitol": {
+    "uses": "Treatment of Constipation",
+    "side_effects": "Bloating Stomach cramp Flatulence"
+  },
+  "betamethasone": {
+    "uses": "Treatment of Bacterial eye / ear infections",
+    "side_effects": "Burning sensation Itching"
+  },
+  "budesonide": {
+    "uses": "Asthma",
+    "side_effects": "Difficulty in swallowing Fungal infection of mouth Fungal infection of oropharynx Headache Abdominal pain Depression Joint pain Cushing syndrome Dyspepsia Increased risk of infection Muscle pain Muscle weakness Muscle twitching Osteoporosis Irritability Euphoria feeling of intense excitement and happiness"
+  },
+  "ibuprofen": {
+    "uses": "Pain reliefTreatment of Fever",
+    "side_effects": "Vomiting Nausea Dizziness Abdominal pain Constipation Flatulence Diarrhea Dyspepsia Headache Fatigue Rash"
+  },
+  "saroglitazar": {
+    "uses": "Treatment of Noncirrhotic Non-Alcoholic SteatohepatitisTreatment of Non-alcoholic fatty liver diseaseTreatment of Diabetic dyslipidemia (high cholesterol in diabetes)",
+    "side_effects": "Flatulence Indigestion Abdominal distension Weakness Increased body temperature"
+  },
+  "povidone iodine": {
+    "uses": "Treatment and prevention of Wound infection",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "propranolol": {
+    "uses": "Treatment of PheochromocytomaTreatment of Hypertension (high blood pressure) Prevention of migraineTreatment of AnxietyTreatment of ArrhythmiaPrevention of Heart attackPrevention of Angina (heart-related chest pain)Treatment of Tremors",
+    "side_effects": "Tiredness Weakness Raynaud s phenomenon Arrhythmia irregular heartbeats Nausea Vomiting Diarrhea"
+  },
+  "sulfamethoxazole": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Nausea Vomiting Increased potassium level in blood Candida overgrowth Headache Rash Diarrhea Decreased appetite Red spots or bumps"
+  },
+  "baclofen": {
+    "uses": "Muscle relaxation",
+    "side_effects": "Dizziness Convulsion Nausea Headache Sedation Hypotension low blood pressure Hypotonia decreased muscle tone Agitation Constipation Increased white blood cell count Chills Urinary retention"
+  },
+  "brivaracetam": {
+    "uses": "Epilepsy/Seizures",
+    "side_effects": "Behavioral changes Agitation Aggressive behavior Dizziness Sedation Drowsiness Neuropsychiatric symptoms"
+  },
+  "metoprolol tartrate": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Angina (heart-related chest pain)Treatment of ArrhythmiaPrevention of Heart attackPrevention of Migraine",
+    "side_effects": "Orthostatic hypotension sudden lowering of blood pressure on standing Slow heart rate Headache Dizziness Tiredness Stomach pain Nausea Breathlessness"
+  },
+  "chlorhexidine gluconate": {
+    "uses": "Treatment of Burns",
+    "side_effects": "Itching Irritation Burning sensation at the site of application"
+  },
+  "teriparatide": {
+    "uses": "Osteoporosis",
+    "side_effects": "Joint pain Injection site reactions pain swelling redness Nausea Leg cramps"
+  },
+  "diphtheria toxoid": {
+    "uses": "Tetanus Diphtheria Pertussis",
+    "side_effects": "Headache Injection site redness Pain Swelling Weakness Gastrointesinal symptoms"
+  },
+  "bisoprolol": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Angina (heart-related chest pain)Treatment of ArrhythmiaPrevention of Heart attackPrevention of Migraine",
+    "side_effects": "Nausea Headache Slow heart rate Fatigue Constipation Diarrhea Dizziness Cold extremities"
+  },
+  "bupropion": {
+    "uses": "Depression Smoking addiction",
+    "side_effects": "Insomnia difficulty in sleeping Allergic reaction Impaired concentration Sweating Headache Nausea Vomiting Dizziness Dryness in mouth Taste change Abdominal pain Agitation Anxiety Fever Constipation Tremors"
+  },
+  "insulin glargine": {
+    "uses": "Diabetes",
+    "side_effects": "Hypoglycemia low blood glucose level Peripheral edema Lipodystrophy skin thickening or pits at the injection site Allergic reaction Injection site reactions pain swelling redness Itching Rash Weight gain"
+  },
+  "betahistine": {
+    "uses": "Treatment of Meniere's disease",
+    "side_effects": "Headache Indigestion Nausea Stomach pain Bloating"
+  },
+  "mupirocin": {
+    "uses": "Treatment of Bacterial skin infections",
+    "side_effects": "Itching Burning sensation Stinging sensation Pain"
+  },
+  "human normal immunoglobulin": {
+    "uses": "Immunoglobulins deficiency",
+    "side_effects": "Back pain Chills Flushing sense of warmth in the face ears neck and trunk Dizziness Headache Nausea Decreased blood pressure Muscle pain Slow heart rate Wheezing"
+  },
+  "fusidic acid": {
+    "uses": "Treatment of Bacterial skin infections Bacterial eye infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "trihexyphenidyl": {
+    "uses": "Treatment of Parkinson's diseaseTreatment of Drug induced abnormal movements",
+    "side_effects": "Dryness in mouth Nausea Vomiting Constipation Blurred vision Dizziness Upset stomach Headache Difficulty in urination Nervousness"
+  },
+  "bepotastine": {
+    "uses": "Allergic eye disease",
+    "side_effects": "Sleepiness Eye irritation Headache Nasopharyngitis inflammation of the throat and nasal passages Taste change Feeling thirsty Nausea Abdominal pain Diarrhea Stomach discomfort Fatigue Abnormal liver function tests"
+  },
+  "bethanechol": {
+    "uses": "Treatment of Urinary retention",
+    "side_effects": "Headache Nausea Vomiting Sweating Diarrhea Arrhythmia irregular heartbeats Flushing sense of warmth in the face ears neck and trunk"
+  },
+  "hyoscine butylbromide": {
+    "uses": "Treatment of Pain due to smooth muscle spasmTreatment of Irritable bowel syndrome",
+    "side_effects": "Blurred vision Increased heart rate Dryness in mouth Diarrhea Dilatation of pupil"
+  },
+  "trimethoprim": {
+    "uses": "Bacterial infections",
+    "side_effects": "Itching Rash Phototoxicity"
+  },
+  "sultamicillin tosilate": {
+    "uses": "Bacterial infections",
+    "side_effects": "Vomiting Nausea Diarrhea"
+  },
+  "mirabegron": {
+    "uses": "Treatment of Overactive bladder (OAB) symptoms",
+    "side_effects": "Constipation Headache High blood pressure Nasal inflammation Urinary tract infection Fast heart rate Joint pain"
+  },
+  "freezedried live attenuated hepatitis a vaccine": {
+    "uses": "Prevention of Hepatitis A infection",
+    "side_effects": "Nausea Pain Sore throat Abdominal pain Anaphylactic reaction Convulsion Fatigue Fever Headache Loss of appetite Feeling of discomfort Erythema skin redness Tenderness Vomiting Flushing sense of warmth in the face ears neck and trunk"
+  },
+  "bosentan": {
+    "uses": "Pulmonary arterial hypertension (PAH)",
+    "side_effects": "Headache Ankle swelling Edema swelling Diarrhea Anemia low number of red blood cells Respiratory tract infection"
+  },
+  "ibandronic acid": {
+    "uses": "Treatment and prevention of postmenopausal Osteoporosis",
+    "side_effects": "Headache Musculoskeletal bone muscle or joint pain Heartburn Diarrhea Indigestion Dizziness Hypercholesterolemia high cholesterol Upper respiratory tract infection Urinary tract infection"
+  },
+  "bimatoprost": {
+    "uses": "Ocular hypertension Glaucoma",
+    "side_effects": "Conjunctival hyperemia Eye itching"
+  },
+  "cefpodoxime proxetil": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Rash Nausea Diarrhea"
+  },
+  "serratiopeptidase": {
+    "uses": "Pain relief Swelling",
+    "side_effects": "No common side effects seen"
+  },
+  "colloidal bismuth subcitrate": {
+    "uses": "Peptic ulcer disease",
+    "side_effects": "Limited data available"
+  },
+  "tadalafil": {
+    "uses": "Treatment of Erectile dysfunction",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Headache Blurred vision Muscle pain Upset stomach Rash"
+  },
+  "tetanus toxoid": {
+    "uses": "Prevention of Tetanus",
+    "side_effects": "Injection site reactions pain swelling redness Loss of appetite Fever"
+  },
+  "cefadroxil": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Rash Vomiting Allergic reaction Stomach pain Nausea Diarrhea"
+  },
+  "probenecid": {
+    "uses": "Gout",
+    "side_effects": "Nausea Diarrhea Loss of appetite"
+  },
+  "human rabies immunoglobulin": {
+    "uses": "Prevention of Rabies",
+    "side_effects": "Nephrotic syndrome Pain Anaphylactic reaction Angioedema swelling of deeper layers of skin Injection site stiffness Soreness Tenderness"
+  },
+  "calcium leucovorin": {
+    "uses": "Prevention of Harmful effects of methotrexate",
+    "side_effects": "No common side effects seen"
+  },
+  "bromocriptine": {
+    "uses": "High levels of prolactin Female infertility Acromegaly",
+    "side_effects": "Nausea Headache Dizziness Fatigue Constipation Inflammation of the nose Weakness"
+  },
+  "menthol na diphenhydramine na ammonium chloride na": {
+    "uses": "Cough",
+    "side_effects": "Stomach pain epigastric pain Sleepiness Dizziness Thickened respiratory tract secretions Allergic reaction Impaired coordination"
+  },
+  "hepatitis b vaccine rdna": {
+    "uses": "Prevention of Hepatitis B infection",
+    "side_effects": "Injection site reaction Tiredness Flu like symptoms"
+  },
+  "methotrexate": {
+    "uses": "Treatment of Cancer",
+    "side_effects": "Abdominal pain Indigestion Loss of appetite Nausea Vomiting Tiredness Mouth sore Decreased white blood cell count"
+  },
+  "benidipine": {
+    "uses": "Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)",
+    "side_effects": "Abdominal pain Dizziness Edema swelling Fatigue Headache Nausea Palpitations Sleepiness"
+  },
+  "darbepoetin alfa": {
+    "uses": "Treatment of Anemia due to chronic kidney diseaseTreatment of Anemia due to cancer chemotherapy",
+    "side_effects": "Abdominal pain High blood pressure Rash Injection site pain Breathlessness Cough Peripheral edema Procedural hypotension low blood pressure Convulsion Thromboembolism"
+  },
+  "fluoxetine": {
+    "uses": "Treatment of DepressionTreatment of Panic disorderTreatment of Obsessive-compulsive disorder",
+    "side_effects": "Erectile dysfunction Indigestion Influenza like syndrome Loss of appetite Depression Low sexual desire Nausea Sore throat Sweating Tremors Weakness Yawning Abnormal dreams Delayed ejaculation Dryness in mouth Insomnia difficulty in sleeping Nervousness Sleepiness Sinus infection"
+  },
+  "mycophenolate sodium": {
+    "uses": "Prevention of organ rejection in transplant patients",
+    "side_effects": "Nausea Vomiting Diarrhea Abdominal pain Headache High blood pressure Decreased white blood cell count neutrophils Bacterial infection Fungal infection Pneumonia Increased uric acid level in blood Electrolyte imbalance Anxiety Breathlessness Increased creatinine level in blood Anemia low number of red blood cells Acne Muscle pain"
+  },
+  "pioglitazone": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Headache Sore throat Sinus inflammation Muscle pain"
+  },
+  "beclometasone": {
+    "uses": "Treatment of Asthma",
+    "side_effects": "Throat irritation Sore tongue Hoarseness of voice Thrush Pharyngitis Abnormal taste Nasopharyngeal irritation Application site irritation Application site burning"
+  },
+  "varicella vaccine live attenuated": {
+    "uses": "Prevention of Chickenpox",
+    "side_effects": "Injection site reactions pain swelling redness Fever Rash"
+  },
+  "bifonazole": {
+    "uses": "Fungal skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "biotin": {
+    "uses": "Hair loss",
+    "side_effects": "Ejaculation disorder Impotence Low sexual desire"
+  },
+  "mebeverine": {
+    "uses": "Treatment of Irritable bowel syndrome",
+    "side_effects": "Fainting Skin rash Angioedema swelling of deeper layers of skin"
+  },
+  "ramipril": {
+    "uses": "Treatment of Hypertension (high blood pressure) Prevention of heart attack and strokeTreatment of Heart failure",
+    "side_effects": "Dry cough Headache Fatigue"
+  },
+  "coenzyme q": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Headache Nausea Vomiting Stomach pain Heartburn Rash Insomnia difficulty in sleeping Increased liver enzymes Dizziness Tiredness Irritation Photosensitivity"
+  },
+  "medroxyprogesterone acetate": {
+    "uses": "Treatment of Abnormal uterine bleedingTreatment of Endometriosis",
+    "side_effects": "Weight gain Breast tenderness Headache Abdominal pain Weakness Dizziness Irregular menstrual cycle Nervousness"
+  },
+  "tamsulosin": {
+    "uses": "Treatment of Benign prostatic hyperplasia",
+    "side_effects": "Impotence Decreased libido Ejaculation disorder Orthostatic hypotension sudden lowering of blood pressure on standing Breast enlargement in male Breast tenderness in male"
+  },
+  "cinnarizine": {
+    "uses": "Treatment of Motion sicknessTreatment of VertigoTreatment of Meniere's disease",
+    "side_effects": "Sleepiness Nausea Weight gain Indigestion"
+  },
+  "doxofylline": {
+    "uses": "Treatment and prevention of Asthma",
+    "side_effects": "Nausea Vomiting Headache Abdominal pain Diarrhea Upper respiratory tract infection Rash Fever Epigastric pain Tachycardia Extrasystoles Increased respiratory rate Pharyngitis Cough Increased liver enzymes Otitis media infection of ear Influenza Runny nose Sinus inflammation"
+  },
+  "desvenlafaxine": {
+    "uses": "Depression",
+    "side_effects": "Anxiety Constipation Decreased appetite Dizziness Increased sweating Insomnia difficulty in sleeping Nausea Sexual dysfunction Vomiting"
+  },
+  "darifenacin": {
+    "uses": "Treatment of Overactive bladder (OAB) symptoms",
+    "side_effects": "Constipation Dryness in mouth Headache Dry eye Nasal dryness"
+  },
+  "duloxetine": {
+    "uses": "Treatment of DepressionTreatment of Anxiety disorderTreatment of Diabetic nerve painTreatment of FibromyalgiaTreatment of Neuropathic painTreatment of Stress urinary incontinence",
+    "side_effects": "Nausea Headache Dryness in mouth Sleepiness Dizziness"
+  },
+  "dimethicone": {
+    "uses": "Treatment of BloatingTreatment of Abdominal pain",
+    "side_effects": "Coating on tongue Diarrhea Dehydration"
+  },
+  "divalproex": {
+    "uses": "Treatment of Epilepsy/SeizuresTreatment of Bipolar disorderPrevention of Migraine",
+    "side_effects": "Decreased body temperature Dizziness Sleepiness Tremors Paresthesia tingling or pricking sensation Anemia low number of red blood cells Decreased sodium level in blood Liver injury Gastrointestinal disturbance Hypersensitivity Deafness Urinary incontinence Increase in body weight Pain during periods"
+  },
+  "lactulose": {
+    "uses": "Treatment of ConstipationTreatment of Hepatic encephalopathy",
+    "side_effects": "Abdominal pain Nausea Vomiting Diarrhea"
+  },
+  "sertraline": {
+    "uses": "Treatment of DepressionTreatment of Post traumatic stress disorderTreatment of Obsessive-compulsive disorderTreatment of Panic disorderTreatment of Premenstrual dysphoric disorderTreatment of AnxietyTreatment of Premenstrual syndrome (PMS)",
+    "side_effects": "Delayed ejaculation Erectile dysfunction Indigestion Insomnia difficulty in sleeping Low sexual desire Nausea Tremors Diarrhea Increased sweating Loss of appetite Sleepiness Taste change"
+  },
+  "dopamine": {
+    "uses": "Heart failure Low blood pressure",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Headache Increased heart rate Palpitations"
+  },
+  "levamisole": {
+    "uses": "Worm infections Skin disorders",
+    "side_effects": "Vomiting Headache Dizziness Nausea Abdominal pain"
+  },
+  "dextromethorphan hydrobromide na": {
+    "uses": "Dry cough",
+    "side_effects": "Sleepiness Dizziness Confusion Nausea"
+  },
+  "dienogest": {
+    "uses": "Treatment of pelvic pain associated with Endometriosis",
+    "side_effects": "Headache Acne Breast pain Abnormal menstrual bleeding Weight gain Sleep disorder Nervousness Loss of libido Migraine Gastrointestinal disturbance Hair loss Back pain Breast engorgement Ovarian cysts Hot flushes Vaginal bleeding Asthenic conditions Irritability"
+  },
+  "dorzolamide": {
+    "uses": "Treatment of GlaucomaTreatment of Ocular hypertension",
+    "side_effects": "Burning sensation Eye redness Itching Stinging sensation Blurred vision"
+  },
+  "rifaximin": {
+    "uses": "Treatment of Hepatic encephalopathyTreatment of Infectious diarrhea",
+    "side_effects": "Dizziness Nausea Peripheral edema Ascites accumulation of fluid in the abdominal cavity Fatigue Depression Nasopharyngitis inflammation of the throat and nasal passages Joint pain Rash Muscle pain"
+  },
+  "dutasteride": {
+    "uses": "Benign prostatic hyperplasia",
+    "side_effects": "Decreased sperm count Impotence Decreased libido Ejaculation disorder Breast enlargement in male Breast tenderness in male"
+  },
+  "oxetacaine": {
+    "uses": "Treatment of AcidityTreatment of Stomach ulcersTreatment of Bloating",
+    "side_effects": "Constipation Diarrhea Allergic reaction"
+  },
+  "glibenclamide": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Nausea Vomiting Diarrhea Flatulence"
+  },
+  "prilocaine": {
+    "uses": "Local anesthesia (Numb tissues in a specific area)",
+    "side_effects": "Application site reactions burning irritation itching and redness Rash"
+  },
+  "triamcinolone": {
+    "uses": "Treatment of Rheumatoid arthritisTreatment of Osteoarthritis",
+    "side_effects": "Infection Increased risk of infection Headache Joint pain Injection site reactions pain swelling redness"
+  },
+  "paroxetine": {
+    "uses": "Treatment of DepressionTreatment of Panic disorderTreatment of Anxiety disorder",
+    "side_effects": "Nausea Fatigue Dryness in mouth Loss of appetite Increased sweating Dizziness Nervousness Tremors Low sexual desire Insomnia difficulty in sleeping Confusion Constipation Erectile dysfunction Delayed ejaculation Decreased libido"
+  },
+  "calcium dobesilate": {
+    "uses": "Treatment of PilesTreatment of Varicose veins",
+    "side_effects": "Skin rash Fever Nausea Vomiting"
+  },
+  "dimenhydrinate": {
+    "uses": "Treatment of Allergic conditions Motion sickness",
+    "side_effects": "Sleepiness Dryness in mouth"
+  },
+  "clobetasol na salicylic acid na": {
+    "uses": "Treatment of EczemaTreatment of Psoriasis",
+    "side_effects": "Skin peeling Thinning of skin Application site reactions burning irritation itching and redness"
+  },
+  "methylprednisolone": {
+    "uses": "Treatment of Rheumatic disorderTreatment of Systemic lupus erythematosus (SLE)Treatment of Allergic conditionsTreatment of Eye disordersTreatment of Skin disorders",
+    "side_effects": "Nausea Sweating Edema swelling Thinning of skin Increased risk of infection Reduction in bone density Weight gain Mood changes Upset stomach Behavioral changes"
+  },
+  "escitalopram oxalate": {
+    "uses": "Treatment of DepressionTreatment of Anxiety disorderTreatment of Panic disorder",
+    "side_effects": "Anorgasmia decreased orgasm in women Decreased libido Delayed ejaculation Fatigue Increased sweating Insomnia difficulty in sleeping Nausea Sleepiness"
+  },
+  "caffeine": {
+    "uses": "Treatment of Headache",
+    "side_effects": "Insomnia difficulty in sleeping Nervousness Irritation Restlessness"
+  },
+  "digoxin": {
+    "uses": "Heart failure Arrhythmia",
+    "side_effects": "Visual impairment Skin rash Nausea Vomiting Diarrhea Dizziness Arrhythmia irregular heartbeats"
+  },
+  "benzydamine": {
+    "uses": "Treatment of Inflammation of gums",
+    "side_effects": "Staining of teeth Stinging sensation Taste change"
+  },
+  "dosulepin": {
+    "uses": "Treatment of Anxiety disorderTreatment of $name is thought to work by affecting the balance of certain chemicals (such as serotonin) in the brain. It helps improve mood and feelings of wellbeing, relieves anxiety and tension, helps you sleep better, and increases your energy level. It is used to treat depression that is unresponsive to other medicines. You need to take it regularly as it is prescribed for it to be most effective and should not stop taking it suddenly. Depression",
+    "side_effects": "Dryness in mouth Increased heart rate Orthostatic hypotension sudden lowering of blood pressure on standing Weight gain Difficulty in urination Constipation Blurred vision"
+  },
+  "doxepin": {
+    "uses": "Treatment of InsomniaTreatment of DepressionTreatment of Anxiety disorder",
+    "side_effects": "Increased heart rate Blurred vision Constipation Difficulty in urination Dryness in mouth Orthostatic hypotension sudden lowering of blood pressure on standing Weight gain"
+  },
+  "salicylic acid": {
+    "uses": "Acne",
+    "side_effects": "Itching Stinging sensation Skin peeling Erythema skin redness"
+  },
+  "menotrophin": {
+    "uses": "Female infertility Male hypogonadism Male infertility",
+    "side_effects": "Headache Injection site pain Injection site allergic reaction Abdominal pain Abdominal cramp Nausea Ovarian hyperstimulation syndrome"
+  },
+  "milk of magnesia": {
+    "uses": "Constipation",
+    "side_effects": "Diarrhea Stomach cramp"
+  },
+  "sodium chloride": {
+    "uses": "Treatment of Short term fluid replacement after traumaTreatment of Dehydration",
+    "side_effects": "Injection site reactions pain swelling redness Hypotension low blood pressure Fever Tremors Chills"
+  },
+  "piroxicam": {
+    "uses": "Pain relief",
+    "side_effects": "Vomiting Stomach pain Nausea Headache Dizziness"
+  },
+  "phenytoin": {
+    "uses": "Treatment and prevention of Epilepsy/Seizures",
+    "side_effects": "Rash Headache Dizziness Vomiting Nausea Slurred speech Vertigo Confusion Nervousness Constipation Tremors Altered walking"
+  },
+  "sodium fluoride": {
+    "uses": "Dental cavities",
+    "side_effects": "Allergic skin rash Upset stomach"
+  },
+  "alpha lipoic acid": {
+    "uses": "Neuropathic pain",
+    "side_effects": "Dizziness Sleepiness Tiredness Uncoordinated body movements"
+  },
+  "clioquinol iodochlorhydroxyquin": {
+    "uses": "Bacterial infections of external ear Fungal skin infections",
+    "side_effects": "Burning sensation Itching Rash Skin swelling Erythema skin redness"
+  },
+  "mometasone": {
+    "uses": "Treatment of Skin conditions with inflammation & itching",
+    "side_effects": "Stinging sensation Itching Hair follicle inflammation"
+  },
+  "procyclidine": {
+    "uses": "Parkinson's disease Drug induced abnormal movements",
+    "side_effects": "Dryness in mouth Nausea Vomiting Constipation Blurred vision Dizziness Lightheadedness Dilatation of pupil Epigastric pain"
+  },
+  "etodolac": {
+    "uses": "Pain relief",
+    "side_effects": "Visual disturbance Vomiting Stomach pain epigastric pain Nausea Indigestion Dizziness Drowsiness Visual disorder"
+  },
+  "cefaclor": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Abdominal pain Skin rash Gastrointesinal symptoms Diarrhea Hypersensitivity Drug eruptions Increased white blood cell count eosinophils Genital itching Increased liver enzymes Vaginal inflammation"
+  },
+  "clostridium botulinum type a toxinhaemagglutinin complex": {
+    "uses": "Treatment of Localized muscle spasm",
+    "side_effects": "Tiredness Weakness Flu like symptoms Injection site reactions pain swelling redness"
+  },
+  "ketoconazole na": {
+    "uses": "Fungal skin infections",
+    "side_effects": "Skin peeling Application site reactions burning irritation itching and redness Nausea Vomiting Abdominal pain Increased liver enzymes Application site redness Itching Diarrhea Abnormal liver function tests Adrenal insufficiency Application site burning"
+  },
+  "indomethacin": {
+    "uses": "Pain relief",
+    "side_effects": "Visual disturbance Vomiting Stomach pain epigastric pain Nausea Indigestion Dizziness Drowsiness Visual disorder"
+  },
+  "doxazosin": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Dizziness Headache Drowsiness Low energy Weakness Palpitations Nausea"
+  },
+  "darunavir": {
+    "uses": "Treatment of HIV infection",
+    "side_effects": "Diarrhea Headache Nausea Abdominal pain Rash Vomiting"
+  },
+  "menthol": {
+    "uses": "Dandruff",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "levosalbutamol na beclometasone na": {
+    "uses": "Asthma",
+    "side_effects": "Hoarseness of voice Headache Dizziness Pharyngitis Vomiting Bronchitis inflammation of the airways Dryness in mouth Cough Application site irritation Nausea Gastrointestinal motility disorder Thrush Throat irritation"
+  },
+  "potassium nitrate": {
+    "uses": "Treatment of Dental pain",
+    "side_effects": "No common side effects seen"
+  },
+  "trioxasalen": {
+    "uses": "Vitiligo Psoriasis",
+    "side_effects": "Itching Erythema skin redness Nausea"
+  },
+  "dalteparin": {
+    "uses": "Treatment and prevention of Blood clots",
+    "side_effects": "Bruise Increased liver enzymes Injection site hematoma Hemorrhagic complications Injection site bruising Nosebleeds"
+  },
+  "cetrimide": {
+    "uses": "Dandruff",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "dobutamine": {
+    "uses": "Heart failure Low blood pressure",
+    "side_effects": "High blood pressure Insomnia difficulty in sleeping"
+  },
+  "degarelix": {
+    "uses": "Prostate cancer",
+    "side_effects": "Injection site reactions pain swelling redness Weight gain Hot flashes Increased liver enzymes Low sexual desire Erectile dysfunction"
+  },
+  "univestin": {
+    "uses": "Pain relief",
+    "side_effects": "Nausea Abdominal pain Indigestion"
+  },
+  "anidulafungin": {
+    "uses": "Severe fungal infections",
+    "side_effects": "Decreased potassium level in blood Nausea Diarrhea Headache Vomiting Fever Anemia low number of red blood cells Insomnia difficulty in sleeping Indigestion Injection site reactions pain swelling redness"
+  },
+  "dasatinib": {
+    "uses": "Blood cancer (Chronic myeloid leukaemia)",
+    "side_effects": "Abdominal pain Anemia low number of red blood cells Breathing problems Fatigue Fever Headache Infection Low blood platelets Musculoskeletal bone muscle or joint pain Nausea Rash Vomiting"
+  },
+  "erlotinib": {
+    "uses": "Non-small cell lung cancer Pancreatic cancer",
+    "side_effects": "Abdominal pain Bone pain Breathlessness Constipation Cough Diarrhea Fatigue Fever Infection Muscle pain Nausea Rash Stomatitis Inflammation of the mouth Vomiting Weight loss"
+  },
+  "rivastigmine": {
+    "uses": "Alzheimer's disease",
+    "side_effects": "Abdominal pain Delirium acute confusional state Urinary tract infection Fainting Depression Rash Fever Application site reactions burning irritation itching and redness Nausea Vomiting Indigestion Loss of appetite"
+  },
+  "levocarnitine": {
+    "uses": "Treatment of Muscle cramps",
+    "side_effects": "No common side effects seen"
+  },
+  "estriol": {
+    "uses": "Menopausal symptoms",
+    "side_effects": "Vaginal irritation Vaginal itching"
+  },
+  "ondansetron": {
+    "uses": "Treatment of NauseaTreatment of Vomiting",
+    "side_effects": "Constipation Diarrhea Fatigue Headache"
+  },
+  "clobetasone": {
+    "uses": "Treatment of Skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "folic acid": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "No common side effects seen"
+  },
+  "thyroxine": {
+    "uses": "Treatment of Hypothyroidism",
+    "side_effects": "Palpitations Vomiting Anxiety Diarrhea Weight loss Nervousness Increased appetite Tremors"
+  },
+  "valethamate": {
+    "uses": "Pain due to smooth muscle spasm",
+    "side_effects": "Blurred vision Increased heart rate Dryness in mouth Difficulty in swallowing Urinary retention Dilatation of pupil Constipation"
+  },
+  "ezetimibe": {
+    "uses": "High cholesterol",
+    "side_effects": "Diarrhea Joint pain Sinus inflammation Upper respiratory tract infection Pain in extremity"
+  },
+  "esomeprazole": {
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer diseaseTreatment of Zollinger-Ellison syndrome",
+    "side_effects": "Headache Dryness in mouth Nausea Abdominal pain Constipation Flatulence Diarrhea"
+  },
+  "eberconazole": {
+    "uses": "Treatment of Fungal skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "enalapril": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Prevention of heart attack and strokeTreatment of Heart failure",
+    "side_effects": "Decreased blood pressure Cough Increased potassium level in blood Fatigue Weakness Dizziness"
+  },
+  "estradiol": {
+    "uses": "Hormone replacement therapy",
+    "side_effects": "Headache Nausea Breast pain Abdominal cramp Bloating Vaginal spotting Vomiting"
+  },
+  "pinaverium bromide": {
+    "uses": "Irritable bowel syndrome",
+    "side_effects": "Abdominal pain Difficulty in swallowing"
+  },
+  "sodium valproate": {
+    "uses": "Epilepsy",
+    "side_effects": "Nausea Vomiting Weight gain Loss of appetite Gum swelling Headache Sleepiness Tremors Hair loss Liver injury"
+  },
+  "entecavir": {
+    "uses": "Chronic hepatitis B virus (HBV) infection",
+    "side_effects": "Headache Nausea Vomiting Fatigue Stomach pain Diarrhea"
+  },
+  "levetiracetam": {
+    "uses": "Treatment of Epilepsy/Seizures",
+    "side_effects": "Sleepiness Dizziness Fatigue Headache Decreased appetite Behavioral changes Aggressive behavior Irritation Agitation Nasal congestion stuffy nose Infection Convulsion Nasopharyngitis inflammation of the throat and nasal passages Nausea Tremors Vertigo Lethargy"
+  },
+  "trypsin chymotrypsin": {
+    "uses": "Pain reliefTreatment of Swelling",
+    "side_effects": "Limited data available"
+  },
+  "eflornithine": {
+    "uses": "Facial hirsutism (Excessive hair growth on face)",
+    "side_effects": "Acne Itching Hair loss Stinging sensation Dry skin Rash Paresthesia tingling or pricking sensation Irritation Hair follicle inflammation"
+  },
+  "ceftriaxone": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Injection site reactions pain swelling redness Nausea Vomiting Diarrhea"
+  },
+  "ulipristal acetate": {
+    "uses": "Uterine fibroids",
+    "side_effects": "Absence of menstrual periods Headache Endometrial hyperplasia"
+  },
+  "megestrol": {
+    "uses": "Breast cancer Endometrial cancer",
+    "side_effects": "Increased appetite Weight gain Hot flashes High blood pressure Constipation Increased glucose level in blood"
+  },
+  "ethamsylate": {
+    "uses": "Bleeding",
+    "side_effects": "Skin rash Vomiting Headache Nausea Diarrhea"
+  },
+  "efonidipine": {
+    "uses": "Treatment of Hypertension (high blood pressure)",
+    "side_effects": "Headache Palpitations Hot flushes Flushing of face"
+  },
+  "griseofulvin": {
+    "uses": "Fungal infections",
+    "side_effects": "Headache Skin rash Nausea Diarrhea Dizziness"
+  },
+  "cyproterone": {
+    "uses": "Treatment of Polycystic ovarian syndrome (PCOS)",
+    "side_effects": "Nausea Stomach pain Headache Weight gain Breast pain Mood changes"
+  },
+  "human chorionic gonadotropin hcg": {
+    "uses": "Treatment of Female infertilityTreatment of Male hypogonadism",
+    "side_effects": "Injection site pain Headache Fatigue Depression Irritation Restlessness"
+  },
+  "eplerenone": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of EdemaTreatment of Heart failure",
+    "side_effects": "Dizziness Diarrhea Nausea Cough Flu like symptoms Fatigue Increased potassium level in blood Increased creatinine level in blood Headache"
+  },
+  "disulfiram": {
+    "uses": "Treatment of Alcohol addiction",
+    "side_effects": "Headache Fatigue Drowsiness Metallic taste"
+  },
+  "repaglinide": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Hypoglycemia low blood glucose level Abdominal pain Nausea Diarrhea Back pain Joint pain Upper respiratory tract infection Headache Sinus inflammation"
+  },
+  "enoxaparin": {
+    "uses": "Treatment and prevention of Blood clots",
+    "side_effects": "Bleeding Headache Low blood platelets Increased liver enzymes Anemia low number of red blood cells Fever Injection site pain Breathing problems Edema swelling Diarrhea"
+  },
+  "diethylcarbamazine": {
+    "uses": "Parasitic infections",
+    "side_effects": "Nausea Loss of appetite Sleepiness Headache Allergic reaction"
+  },
+  "dehydroepiandrosterone micronized": {
+    "uses": "Treatment of Female infertility",
+    "side_effects": "No common side effects seen"
+  },
+  "chloramphenicol": {
+    "uses": "Bacterial infections",
+    "side_effects": "Vomiting Nausea Diarrhea Taste change"
+  },
+  "insulin lispro": {
+    "uses": "Diabetes",
+    "side_effects": "Hypoglycemia low blood glucose level Weight gain Infusion site reaction Auto antibody formation"
+  },
+  "lmethyl folate": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Acne Skin reaction Itching"
+  },
+  "mizolastine": {
+    "uses": "Treatment of Allergic conditions",
+    "side_effects": "Sleepiness Dizziness"
+  },
+  "lactobacillus salivarius": {
+    "uses": "Bacterial infections of the vagina (bacterial vaginosis)",
+    "side_effects": "No common side effects seen"
+  },
+  "sertaconazole": {
+    "uses": "Treatment of Fungal skin infectionsTreatment of Fungal infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Skin irritation"
+  },
+  "pimecrolimus": {
+    "uses": "Atopic dermatitis",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "palonosetron": {
+    "uses": "Nausea Vomiting",
+    "side_effects": "Constipation Headache Diarrhea Dizziness"
+  },
+  "equine rabies immunoglobulin": {
+    "uses": "Prevention of Rabies",
+    "side_effects": "Nausea Acute toxicity Rash Upset stomach"
+  },
+  "terbutaline": {
+    "uses": "Cough with mucus",
+    "side_effects": "Nausea Diarrhea Vomiting Stomach pain Loss of appetite Constipation Heartburn Increased heart rate Dizziness Headache Rash Hives Itching Drowsiness Tremors Breathing problems Increased white blood cell count Nasal inflammation"
+  },
+  "desoximetasone": {
+    "uses": "Skin conditions with inflammation & itching",
+    "side_effects": "Dryness Irritation"
+  },
+  "eslicarbazepine": {
+    "uses": "Epilepsy/Seizures",
+    "side_effects": "Sleepiness Blurred vision Nausea Headache Vomiting Double vision Fatigue Balance disorder loss of balance Diarrhea Impaired coordination Vertigo Decreased appetite Decreased sodium level in blood Dizziness"
+  },
+  "somatropin": {
+    "uses": "Growth failure due to growth hormone deficiency",
+    "side_effects": "Injection site reactions pain swelling redness Headache Rash"
+  },
+  "enzalutamide": {
+    "uses": "Prostate cancer",
+    "side_effects": "Headache Hot flashes Weakness High blood pressure Fatigue"
+  },
+  "ephedrine": {
+    "uses": "Hypotension following spinal anesthesia",
+    "side_effects": "Nausea Vomiting Increased heart rate"
+  },
+  "filgrastim": {
+    "uses": "Prevention of Infections after chemotherapy",
+    "side_effects": "Bone pain Weakness Headache Rash Nausea Increased lactate dehydrogenase level in blood Vomiting Increased uric acid level in blood Oropharyngeal pain Hair loss Fatigue Diarrhea Constipation Decreased appetite Cough Breathing problems Injection site reactions pain swelling redness"
+  },
+  "fluorometholone": {
+    "uses": "Redness and swelling in the eye",
+    "side_effects": "Eye irritation Burning sensation Watery eyes"
+  },
+  "benzoic acid": {
+    "uses": "Treatment of Psoriasis",
+    "side_effects": "Dry skin Application site reactions burning irritation itching and redness"
+  },
+  "pegylated recombinant human erythropoietin": {
+    "uses": "Treatment of Anemia due to chronic kidney diseaseTreatment of Anemia due to cancer chemotherapy",
+    "side_effects": "Nausea Vomiting Diarrhea Fever"
+  },
+  "dapoxetine": {
+    "uses": "Treatment of Premature ejaculation",
+    "side_effects": "Drowsiness Nausea Tremors Vomiting Dizziness Erectile dysfunction Fatigue Headache Increased sweating Indigestion Restlessness Insomnia difficulty in sleeping Eye pain Agitation"
+  },
+  "trastuzumab": {
+    "uses": "Breast cancer Stomach cancer",
+    "side_effects": "Anemia low number of red blood cells Chills Common cold Cough Decreased blood cells red cells white cells and platelets Diarrhea Fatigue Fever Headache Heart failure Infection Insomnia difficulty in sleeping Mucosal inflammation Nausea Rash Stomatitis Inflammation of the mouth Taste change Upper respiratory tract infection Weight loss"
+  },
+  "blonanserin": {
+    "uses": "Schizophrenia Mania",
+    "side_effects": "Sleepiness Akathisia inability to stay still Dystonia involuntary muscle contractions Parkinsonism Anxiety Urinary retention Weight gain"
+  },
+  "tacrolimus": {
+    "uses": "Treatment of Allergic eye disease",
+    "side_effects": "Eye irritation Burning sensation"
+  },
+  "entaone": {
+    "uses": "Parkinson's disease",
+    "side_effects": "Nausea Vomiting Fatigue Confusion Constipation Insomnia difficulty in sleeping Nightmares Hallucination Increased sweating Fall Urine discoloration Dizziness Diarrhea Muscle coordination impaired Ischemic heart disease Heart attack Abdominal pain Dryness in mouth"
+  },
+  "insulin isophanenph": {
+    "uses": "Diabetes",
+    "side_effects": "Hypoglycemia low blood glucose level Injection site reactions pain swelling redness Weight gain"
+  },
+  "tobramycin": {
+    "uses": "Treatment of Bacterial eye infections",
+    "side_effects": "Eye irritation Burning sensation Eye redness Eye itching"
+  },
+  "norethisterone": {
+    "uses": "Treatment of Heavy menstrual bleedingTreatment of Pain during menstruationTreatment of EndometriosisTreatment of Premenstrual syndrome (PMS)",
+    "side_effects": "Headache Dizziness Breast tenderness Nausea Vaginal spotting Vomiting Abdominal cramp"
+  },
+  "enclomiphene": {
+    "uses": "Female infertility",
+    "side_effects": "Nausea Vomiting Bloating Hot flashes Enlarged ovary Metrorrhagia menstrual bleeding at irregular intervals Breast discomfort Headache"
+  },
+  "febuxostat": {
+    "uses": "Treatment of Gout",
+    "side_effects": "Diarrhea Headache Increased liver enzymes Nausea Skin rash"
+  },
+  "teneligliptin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Dizziness Headache Diarrhea Hypoglycemia low blood glucose level Nausea Vomiting"
+  },
+  "leuprolide": {
+    "uses": "Treatment of Prostate cancerTreatment of EndometriosisTreatment of Uterine fibroidsTreatment of Precocious puberty (premature puberty)",
+    "side_effects": "Decreased libido Testicular atrophy Increased sweating Fatigue Muscle weakness Erectile dysfunction Bone pain Injection site reaction Hot flashes"
+  },
+  "difluprednate": {
+    "uses": "Post-operative eye pain and inflammation",
+    "side_effects": "Eye irritation Burning sensation Watery eyes"
+  },
+  "fluocinolone acetonide": {
+    "uses": "Treatment of Skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "levodopa": {
+    "uses": "Parkinson's disease",
+    "side_effects": "Urine discoloration Headache Dryness in mouth Insomnia difficulty in sleeping Anxiety Dizziness Abnormal dreams Involuntary muscle movement Gastrointestinal disturbance"
+  },
+  "letrozole": {
+    "uses": "Treatment of Breast cancerTreatment of Infertility due to anovulation",
+    "side_effects": "Fatigue Hypercholesterolemia high cholesterol Increased sweating Hot flashes Bone pain Dizziness Joint pain Edema swelling Flushing sense of warmth in the face ears neck and trunk"
+  },
+  "epinastine": {
+    "uses": "Allergic eye disease",
+    "side_effects": "Ocular hyperemia Itching Burning sensation in eye"
+  },
+  "rituximab": {
+    "uses": "Non-Hodgkin lymphoma (NHL) Rheumatoid arthritis Blood cancer (Chronic lymphocytic leukemia) Granulomatosis with polyangiitis Microscopic polyangiitis",
+    "side_effects": "Headache Weakness Infection Chills Decreased white blood cell count neutrophils Fever Infusion site reaction Lymphopenia Abdominal pain Back pain"
+  },
+  "tolperisone": {
+    "uses": "Treatment of Muscle pain",
+    "side_effects": "Sleepiness Weakness Flu like symptoms Diarrhea Indigestion Flatulence Stomach pain Peripheral edema Swelling of hands Feet swelling Dizziness"
+  },
+  "vitamin e": {
+    "uses": "Treatment of Vitamin E deficiency",
+    "side_effects": "Headache Dizziness Blurred vision Nausea Diarrhea Flatulence Abdominal pain Rash Fatigue Weakness"
+  },
+  "nbutyl": {
+    "uses": "Bleeding",
+    "side_effects": "No common side effects seen"
+  },
+  "adrenaline": {
+    "uses": "Pupil dilation",
+    "side_effects": "Nausea Vomiting High blood pressure Increased heart rate"
+  },
+  "efavirenz": {
+    "uses": "Treatment of HIV infection",
+    "side_effects": "Headache Nausea Dizziness Vomiting Increased liver enzymes Insomnia difficulty in sleeping Sleepiness Abnormal dreams Anxiety Itching Difficulty in paying attention Rash Abdominal pain Diarrhea Depression Fatigue Pain Decreased appetite"
+  },
+  "danazol": {
+    "uses": "Treatment of Benign fibrocystic breast diseaseTreatment of EndometriosisTreatment of Premenstrual syndrome (PMS)Treatment of Menstrual pain",
+    "side_effects": "Hoarseness of voice Hair loss Weight gain Acne Abnormal hair growth on a women face and body Voice change Itchy scalp Swelling Sore throat"
+  },
+  "hydroxychloroquine": {
+    "uses": "Treatment of Rheumatoid arthritisTreatment of Systemic lupus erythematosus (SLE)Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Blurred vision Headache Diarrhea Abdominal pain Vomiting Nausea Decreased appetite Skin rash Itching Affect lability"
+  },
+  "eribulin mesylate": {
+    "uses": "Metastatic breast cancer",
+    "side_effects": "Anemia low number of red blood cells Weakness Hair loss Nausea Constipation Decreased white blood cell count Fatigue Peripheral neuropathy tingling and numbness of feet and hand"
+  },
+  "clomiphene": {
+    "uses": "Treatment of Female infertility",
+    "side_effects": "Nausea Vomiting Bloating Headache Enlarged ovary Hot flashes Metrorrhagia menstrual bleeding at irregular intervals Breast discomfort"
+  },
+  "fosfomycin": {
+    "uses": "Bacterial infections of urinary tract",
+    "side_effects": "Headache Dizziness Vaginal inflammation Indigestion"
+  },
+  "flunarizine": {
+    "uses": "Prevention of Migraine",
+    "side_effects": "Sleepiness Weight gain Muscle pain Fatigue Constipation Nausea Insomnia difficulty in sleeping Runny nose Increased appetite Depression Stomach discomfort Breast pain"
+  },
+  "cyclobenzaprine": {
+    "uses": "Muscle relaxation",
+    "side_effects": "Sleepiness Dryness in mouth Tiredness Headache"
+  },
+  "finasteride": {
+    "uses": "Treatment of Hair loss",
+    "side_effects": "Decreased libido Erectile dysfunction Ejaculation disorder"
+  },
+  "fluvoxamine": {
+    "uses": "Depression Obsessive-compulsive disorder",
+    "side_effects": "Delayed ejaculation Drowsiness Erectile dysfunction Low sexual desire Nausea Vomiting Dryness in mouth Fatigue Increased sweating Indigestion Insomnia difficulty in sleeping Loss of appetite Nervousness Tremors"
+  },
+  "sodium fusidate": {
+    "uses": "Bacterial skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "ferric carboxymaltose": {
+    "uses": "Treatment of Iron deficiency anemia",
+    "side_effects": "Vomiting Nausea Dark colored stool Headache Dizziness High blood pressure Injection site reactions pain swelling redness"
+  },
+  "fenticonazole": {
+    "uses": "Fungal infections of vagina",
+    "side_effects": "Erythema skin redness"
+  },
+  "neomycin": {
+    "uses": "Treatment of Bacterial eye infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Blurred vision"
+  },
+  "trimetazidine": {
+    "uses": "Treatment of Angina (heart-related chest pain)",
+    "side_effects": "Dizziness Headache Nausea Vomiting Weakness Rash Abdominal pain Indigestion Itching Diarrhea Hives"
+  },
+  "pirfenidone": {
+    "uses": "Treatment of Idiopathic pulmonary fibrosis",
+    "side_effects": "Insomnia difficulty in sleeping Headache Dizziness Tiredness Sinus inflammation Loss of appetite Upper respiratory tract infection Weight loss Nausea Indigestion Diarrhea Photosensitivity"
+  },
+  "mefenamic acid na paracetamol na": {
+    "uses": "Pain reliefTreatment of Fever",
+    "side_effects": "Nausea Vomiting Diarrhea Indigestion Loss of appetite Heartburn"
+  },
+  "fondaparinux": {
+    "uses": "Deep vein thrombosis Pulmonary embolism",
+    "side_effects": "Bleeding Anemia low number of red blood cells"
+  },
+  "fluorouracil": {
+    "uses": "Actinic keratosis",
+    "side_effects": "Nausea Vomiting Hair loss Diarrhea Bronchospasm Infection Myelosuppression Agranulocytosis deficiency of granulocytes in the blood General discomfort Itching Skin exfoliation Anemia low number of red blood cells Febrile neutropenia Angina heart related chest pain E C G changes Decreased immunity"
+  },
+  "flurbiprofen": {
+    "uses": "Treatment of Post-operative eye pain and inflammation",
+    "side_effects": "Eye discomfort Burning sensation"
+  },
+  "obeticholic acid": {
+    "uses": "Treatment of Primary biliary cirrhosis",
+    "side_effects": "Itching Fatigue Abdominal pain Rash Throat pain Dizziness Constipation Joint pain Eczema Thyroid disorders"
+  },
+  "recombinant follicle stimulating hormone": {
+    "uses": "Female infertility Male hypogonadism",
+    "side_effects": "Injection site allergic reaction Headache Acne Swelling of breast in male Abdominal pain Gastrointestinal discomfort Ovarian cysts Rash"
+  },
+  "insulin aspart": {
+    "uses": "Treatment of Diabetes",
+    "side_effects": "Hypoglycemia low blood glucose level Headache Nasopharyngitis inflammation of the throat and nasal passages Upper respiratory tract infection"
+  },
+  "flumazenil": {
+    "uses": "Benzodiazepine overdose",
+    "side_effects": "Anxiety Insomnia difficulty in sleeping Allergic reaction Sleepiness"
+  },
+  "flecainide": {
+    "uses": "Arrhythmia",
+    "side_effects": "Heart failure Ventricular arrhythmia"
+  },
+  "tinidazole": {
+    "uses": "Bacterial infections Parasitic infections",
+    "side_effects": "Headache Dryness in mouth Nausea Metallic taste"
+  },
+  "pentosan polysulfate sodium": {
+    "uses": "Treatment of Interstitial cystitis",
+    "side_effects": "Hair loss Rash Headache Dizziness Nausea Abdominal pain Diarrhea Dyspepsia Liver dysfunction"
+  },
+  "urofollitropin": {
+    "uses": "Female infertility",
+    "side_effects": "Abdominal pain Headache Bloating Pelvic pain Abdominal cramp Nausea Respiratory disorder Hot flushes"
+  },
+  "famciclovir": {
+    "uses": "Herpes labialis Herpes Simplex Virus Infections Shingles Genital herpes infection",
+    "side_effects": "Headache Dizziness Nausea Rash Abdominal pain Itching Abnormal liver function tests Increased lipase in the blood Elevated levels of serum amylase"
+  },
+  "flupirtine": {
+    "uses": "Pain relief",
+    "side_effects": "Fatigue Dizziness Nausea Dryness in mouth Tremors Heartburn Vomiting Abdominal pain Constipation Loss of appetite Depression Headache Abdominal discomfort Sleep disturbance Increased sweating Restlessness Nervousness Flatulence Diarrhea"
+  },
+  "lornoxicam": {
+    "uses": "Pain relief",
+    "side_effects": "Dizziness Headache Stomach pain Upset stomach Diarrhea Nausea Vomiting Indigestion"
+  },
+  "allantoin": {
+    "uses": "Treatment of Fungal skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "ibutilide na": {
+    "uses": "Arrhythmia",
+    "side_effects": "Nausea Vomiting Taste change Slow heart rate Constipation Diarrhea Increased liver enzymes Sleep disorder Photosensitivity Eczema Heart failure Rash Fatigue"
+  },
+  "ceftazidime": {
+    "uses": "Bacterial infections",
+    "side_effects": "Rash Allergic reaction Injection site reaction Diarrhea"
+  },
+  "fluorometholone na": {
+    "uses": "Redness and swelling in the eye",
+    "side_effects": "Eye irritation Burning sensation Watery eyes"
+  },
+  "fingolimod": {
+    "uses": "Multiple sclerosis (MS)",
+    "side_effects": "Flu Diarrhea Back pain Increased transaminase level in blood Cough"
+  },
+  "fulvestrant": {
+    "uses": "Breast cancer",
+    "side_effects": "Headache Vomiting Weakness Allergic reaction Nausea Injection site reaction Urinary tract infection Diarrhea"
+  },
+  "rebamipide": {
+    "uses": "Treatment of Dry eyes",
+    "side_effects": "Limited data available"
+  },
+  "fimasartan": {
+    "uses": "Heart failure Hypertension (high blood pressure) Prevention of heart attack and stroke",
+    "side_effects": "Dizziness Headache"
+  },
+  "milnacipran": {
+    "uses": "Fibromyalgia Depression",
+    "side_effects": "Nausea Vomiting Dizziness Insomnia difficulty in sleeping Constipation Anxiety Decreased appetite Increased sweating Sexual dysfunction"
+  },
+  "human hepatitis b immunoglobulin": {
+    "uses": "Prevention of Hepatitis B infection",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Gastrointestinal disturbance Headache Dizziness Injection site reactions pain swelling redness"
+  },
+  "mesalazine": {
+    "uses": "Ulcerative colitis Crohn\u2019s disease",
+    "side_effects": "Stomach pain epigastric pain Flatulence Headache Vomiting Diarrhea Nausea Abdominal pain Rash"
+  },
+  "itopride": {
+    "uses": "Treatment of HeartburnTreatment of Nausea",
+    "side_effects": "Diarrhea"
+  },
+  "glipizide": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Hypoglycemia low blood glucose level Diarrhea Headache Upper respiratory tract infection"
+  },
+  "bisacodyl": {
+    "uses": "Treatment of Constipation",
+    "side_effects": "Vomiting Bloating Nausea Stomach cramp"
+  },
+  "gatifloxacin": {
+    "uses": "Treatment of Bacterial eye infections",
+    "side_effects": "Stinging sensation Corneal inflammation Conjunctival irritation Increased lacrimation Papillary conjunctivitis"
+  },
+  "colchicine": {
+    "uses": "Treatment of Gout",
+    "side_effects": "Nausea Vomiting Abdominal pain Diarrhea"
+  },
+  "human papillomavirus quadrivalent types": {
+    "uses": "Prevention of HPV-associated cancersPrevention of Genital warts (Skin bumps on or around the genital or anal area)",
+    "side_effects": "Headache Fever Dizziness Nausea Injection site reactions pain swelling redness"
+  },
+  "midodrine": {
+    "uses": "Treatment of Low blood pressure",
+    "side_effects": "Headache Nausea Rash Difficulty in urination Supine hypertension Urinary retention Flushing sense of warmth in the face ears neck and trunk Goosebumps"
+  },
+  "bacillus clausii": {
+    "uses": "Diarrhea",
+    "side_effects": "Bloating Flatulence"
+  },
+  "pyridostigmine": {
+    "uses": "Treatment of Myasthenia gravisTreatment of Paralytic ileusTreatment of Post-operative urinary retention",
+    "side_effects": "Nausea Excessive salivation Diarrhea Blurred vision Breathlessness Watery eyes Abdominal pain Altered frequency of urination Sweating Headache Dizziness Runny nose Heartburn Gastro esophageal reflux disease Paresthesia tingling or pricking sensation Muscle twitching Weakness Muscle cramp Increased bronchial secretions"
+  },
+  "acarbose": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Gastrointestinal discomfort Flatulence"
+  },
+  "granisetron": {
+    "uses": "Nausea and vomiting due to chemotherapy",
+    "side_effects": "Weakness Headache Constipation Diarrhea Insomnia difficulty in sleeping"
+  },
+  "dapagliflozin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Polyuria Nausea Vomiting Dyslipidemia Genital fungal infection Nasopharyngitis inflammation of the throat and nasal passages Urinary tract infection"
+  },
+  "risedronate": {
+    "uses": "Osteoporosis",
+    "side_effects": "Headache Musculoskeletal bone muscle or joint pain Heartburn Diarrhea Indigestion"
+  },
+  "calcitonin salmon": {
+    "uses": "Post menopausal osteoporosis Paget's disease",
+    "side_effects": "Runny nose Nosebleeds Nasal irritation Back pain Joint pain Headache"
+  },
+  "gentamicin": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Hearing loss Kidney damage Balance disorder loss of balance Injection site pain"
+  },
+  "ganciclovir": {
+    "uses": "Cytomegalovirus Infection",
+    "side_effects": "Eye irritation"
+  },
+  "ammonium chloride": {
+    "uses": "Cough",
+    "side_effects": "Stomach pain epigastric pain Allergic reaction Sleepiness Dizziness Thickened respiratory tract secretions Impaired coordination"
+  },
+  "lindane": {
+    "uses": "Scabies",
+    "side_effects": "Hair loss Rash Erythematous rash Drowsiness Headache Dizziness Convulsion Itching Dry skin Paresthesia tingling or pricking sensation Numbness Tremors"
+  },
+  "gefitinib": {
+    "uses": "Non-small cell lung cancer",
+    "side_effects": "Diarrhea Dry skin Loss of appetite Nausea Rash Stomatitis Inflammation of the mouth Vomiting Weakness Weight loss"
+  },
+  "glutathione": {
+    "uses": "Liver  disease",
+    "side_effects": "No common side effects seen"
+  },
+  "chlorhexidine gluconate na": {
+    "uses": "Treatment of Mouth infection",
+    "side_effects": "Taste change Staining of teeth Hard Dental Plaque"
+  },
+  "imatinib mesylate": {
+    "uses": "Treatment of Cancer",
+    "side_effects": "Edema swelling Nausea Vomiting Muscle cramp Musculoskeletal bone muscle or joint pain Diarrhea Rash Fatigue Abdominal pain Bleeding Breathing problems Cough Weight gain Dry eye Dizziness Hemorrhage"
+  },
+  "gemifloxacin": {
+    "uses": "Bacterial infections",
+    "side_effects": "Rash Vomiting Headache Dizziness Nausea Diarrhea Abdominal pain"
+  },
+  "galantamine": {
+    "uses": "Alzheimer's disease",
+    "side_effects": "Nausea Vomiting Diarrhea Headache Dizziness Decreased appetite Depression Indigestion Lethargy Fainting Abdominal pain Hallucination Slow heart rate High blood pressure Sleepiness"
+  },
+  "nifedipine": {
+    "uses": "Treatment of Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)Prevention of Heart attackPrevention of Stroke",
+    "side_effects": "Dizziness Fatigue Flushing sense of warmth in the face ears neck and trunk Headache Peripheral edema"
+  },
+  "ertapenem": {
+    "uses": "Severe bacterial infections",
+    "side_effects": "Infusion site inflammation Headache Vomiting Nausea Diarrhea Rash Dizziness Insomnia difficulty in sleeping Breathlessness Infusion site reaction Edema swelling Abdominal pain Disorientation alteration of mental status Vaginal inflammation Arrhythmia irregular heartbeats"
+  },
+  "simethicone": {
+    "uses": "Bloating Abdominal pain",
+    "side_effects": "Upset stomach Diarrhea"
+  },
+  "nalidixic acid": {
+    "uses": "Bacterial infections",
+    "side_effects": "Nausea Diarrhea"
+  },
+  "ginkgo biloba": {
+    "uses": "Cognitive enhancer",
+    "side_effects": "Weight gain Upset stomach Rash Flushing sense of warmth in the face ears neck and trunk Nervousness Abnormality of voluntary movements"
+  },
+  "potassium magnesium citrate": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Diarrhea Gastrointestinal discomfort Nausea Vomiting"
+  },
+  "zoledronic acid": {
+    "uses": "Osteoporosis Hypercalcemia",
+    "side_effects": "Headache Back pain Musculoskeletal bone muscle or joint pain Heartburn Diarrhea Nausea Breathlessness Fatigue Constipation Bone pain Vomiting Fever Anemia low number of red blood cells"
+  },
+  "meropenem": {
+    "uses": "Severe bacterial infections",
+    "side_effects": "Rash Headache Vomiting Nausea Itching Diarrhea Injection site inflammation Anemia low number of red blood cells Sepsis Constipation Apnea absence of breathing Shock"
+  },
+  "zinc carnosine": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Limited data available"
+  },
+  "colistimethate sodium": {
+    "uses": "Severe bacterial infections",
+    "side_effects": "Upset stomach Rash Paresthesia tingling or pricking sensation Dizziness Slurred speech Vertigo Fever"
+  },
+  "benzocaine": {
+    "uses": "Treatment of Mouth ulcers",
+    "side_effects": "No common side effects seen"
+  },
+  "glucagon": {
+    "uses": "Severe hypoglycemia",
+    "side_effects": "Nausea"
+  },
+  "gemciine": {
+    "uses": "Non-small cell lung cancer Breast cancer Pancreatic cancer Urinary bladder cancer Ovarian cancer",
+    "side_effects": "Nausea Vomiting Loss of appetite Hair loss Low blood platelets Allergic reaction Breathlessness Decreased white blood cell count Increased liver enzymes Anemia low number of red blood cells Flu like symptoms Blood in urine Skin rash Protein in urine"
+  },
+  "calcium gluconate": {
+    "uses": "Calcium deficiency",
+    "side_effects": "Injection site reactions pain swelling redness"
+  },
+  "gamma benzene hexachloride": {
+    "uses": "Scabies",
+    "side_effects": "Erythematous rash Itching Dry skin Paresthesia tingling or pricking sensation"
+  },
+  "lindane na": {
+    "uses": "Scabies",
+    "side_effects": "Hair loss Rash Erythematous rash Drowsiness Headache Dizziness Convulsion Itching Dry skin Paresthesia tingling or pricking sensation Numbness Tremors"
+  },
+  "nateglinide": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Upper respiratory tract infection Back pain Diarrhea Flu like symptoms Dizziness Joint pain"
+  },
+  "sumatriptan": {
+    "uses": "Treatment of Migraine",
+    "side_effects": "Nausea Dizziness Heartburn Chest discomfort Dryness in mouth Weakness Muscle stiffness Drowsiness Numbness of extremity Arrhythmia irregular heartbeats Feeling hot"
+  },
+  "omeprazole": {
+    "uses": "Treatment of Peptic ulcer disease",
+    "side_effects": "Diarrhea Nausea Vomiting Stomach pain Flatulence Dizziness Tiredness Headache Skin rash Dryness in mouth Metallic taste"
+  },
+  "hyoscyamine": {
+    "uses": "Treatment of Peptic ulcer diseaseTreatment of Irritable bowel syndrome Pain relief",
+    "side_effects": "Constipation Dizziness Drowsiness Dryness in mouth Difficulty in urination Lightheadedness Headache Blurred vision Flushing sense of warmth in the face ears neck and trunk Increased sensitivity to light"
+  },
+  "ademetionine": {
+    "uses": "Treatment of Liver  disease",
+    "side_effects": "Nausea Diarrhea Upset stomach Constipation Dizziness"
+  },
+  "tolvaptan": {
+    "uses": "Treatment of Low levels of sodium in the blood",
+    "side_effects": "Frequent urge to urinate Nocturia increased urge to urinate during the night Dryness in mouth Increased thirst Constipation Nausea Increased creatinine level in blood Increased potassium level in blood"
+  },
+  "lanolin": {
+    "uses": "Treatment of Piles",
+    "side_effects": "Limited data available"
+  },
+  "calcium chloride": {
+    "uses": "Short term fluid replacement after trauma",
+    "side_effects": "Injection site reactions pain swelling redness"
+  },
+  "halobetasol": {
+    "uses": "Skin conditions with inflammation & itching",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "clofazimine": {
+    "uses": "Leprosy",
+    "side_effects": "Vomiting Nausea Diarrhea Loss of appetite Rash Itching Skin peeling Skin discoloration Eye discoloration Abdominal pain"
+  },
+  "allium cepa": {
+    "uses": "Burns Stretch Marks",
+    "side_effects": "No common side effects seen"
+  },
+  "hydrogen peroxide na": {
+    "uses": "Wound infection",
+    "side_effects": "Skin peeling Itching Stinging sensation Erythema skin redness Edema swelling"
+  },
+  "mucopolysaccharide polysulfate": {
+    "uses": "Thrombophlebitis",
+    "side_effects": "Skin rash Itching"
+  },
+  "diphtheria immune globulin": {
+    "uses": "Diphtheria Haemophilus influenzae Type b disease Pertussis Tetanus Polio",
+    "side_effects": "Injection site pain Injection site tenderness Injection site swelling Injection site redness Irritability Fever Restlessness Vomiting"
+  },
+  "phenyl mercuric nitrate": {
+    "uses": "Treatment of Eye injury",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "tenofovir alafenamide": {
+    "uses": "Chronic hepatitis B virus (HBV) infection",
+    "side_effects": "Headache Diarrhea Vomiting Nausea Dizziness Rash Fatigue Weakness Abdominal pain Itching Increased transaminase level in blood Cough Back pain Glycosuria Increased creatine phosphokinase C P K level in blood Increased L D L cholesterol level in blood"
+  },
+  "hydrogen peroxide": {
+    "uses": "Mouth infection",
+    "side_effects": "Gum Irritation"
+  },
+  "hyaluronic acid": {
+    "uses": "Osteoarthritis",
+    "side_effects": "Limited data available"
+  },
+  "insulin isophane": {
+    "uses": "Diabetes",
+    "side_effects": "Hypoglycemia low blood glucose level"
+  },
+  "sofosbuvir": {
+    "uses": "Treatment of Chronic hepatitis C virus (HCV) infection",
+    "side_effects": "Headache Tiredness"
+  },
+  "silymarin": {
+    "uses": "Chronic liver disease Liver cirrhosis",
+    "side_effects": "Nausea Bloating Diarrhea Indigestion Loss of appetite Stomach pain Upset stomach Back pain Hair loss Dizziness Itching Rash"
+  },
+  "valacyclovir": {
+    "uses": "Herpes labialis Genital herpes infection Herpes zoster",
+    "side_effects": "Headache Nausea Abdominal pain"
+  },
+  "terazosin": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Dizziness Headache Drowsiness Low energy Weakness Palpitations Nausea"
+  },
+  "fosfestrol": {
+    "uses": "Prostate cancer",
+    "side_effects": "Breast enlargement Abdominal pain Jaundice"
+  },
+  "silymarin na": {
+    "uses": "Chronic liver disease Liver cirrhosis",
+    "side_effects": "Nausea Bloating Diarrhea Indigestion Loss of appetite Stomach pain Upset stomach Back pain Hair loss Dizziness Itching Rash"
+  },
+  "calcipotriol": {
+    "uses": "Psoriasis",
+    "side_effects": "Dry skin Skin irritation Itching Burning sensation Stinging sensation Rash"
+  },
+  "hydroxyurea": {
+    "uses": "Head and neck cancer Sickle cell anemia",
+    "side_effects": "Hematological disorder Gastrointestinal disorder Eating disorder Azoospermia absence of sperms Decreased appetite Fever Oligospermia low sperm count Skin cancer Bone marrow suppression Hallucination Convulsion Peripheral neuropathy tingling and numbness of feet and hand Pulmonary fibrosis Pulmonary edema Pancreatic inflammation Liver toxicity Cutaneous vasculitis Increased uric acid level in blood"
+  },
+  "heparin": {
+    "uses": "Prevention of Blood clots",
+    "side_effects": "Bleeding Erythema skin redness"
+  },
+  "citicoline": {
+    "uses": "Stroke",
+    "side_effects": "Weight gain Hyperactivity Stomach pain Nervousness Diarrhea Decreased blood pressure"
+  },
+  "ritonavir": {
+    "uses": "HIV infection",
+    "side_effects": "Taste change Headache Nausea Vomiting Diarrhea Stomach pain Increased liver enzymes Increased blood lipid level Peripheral neuropathy tingling and numbness of feet and hand"
+  },
+  "calcium": {
+    "uses": "Treatment and prevention of Calcium deficiency",
+    "side_effects": "Constipation Upset stomach"
+  },
+  "inositol nicotinate": {
+    "uses": "Peripheral vascular disease",
+    "side_effects": "Dizziness Flushing sense of warmth in the face ears neck and trunk Headache Nausea Vomiting"
+  },
+  "hydroquinone na": {
+    "uses": "Melasma",
+    "side_effects": "Erythema skin redness Dryness and fissuring of paranasal and infraorbital areas Stinging sensation"
+  },
+  "mycophenolate mofetil": {
+    "uses": "Prevention of organ rejection in transplant patients",
+    "side_effects": "Nausea Vomiting Diarrhea Abdominal pain Headache High blood pressure Decreased white blood cell count neutrophils Fungal infection Low blood platelets Anemia low number of red blood cells Skin cancer Bacterial infection Hypercholesterolemia high cholesterol Viral infection Electrolyte imbalance Gout Weight loss Tremors Convulsion Tumor"
+  },
+  "isosorbide mononitrate": {
+    "uses": "Prevention of Angina (heart-related chest pain)",
+    "side_effects": "Headache Flushing sense of warmth in the face ears neck and trunk Upper respiratory tract infection Abdominal pain Allergic reaction Chest pain Diarrhea"
+  },
+  "sitagliptin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Nasopharyngitis inflammation of the throat and nasal passages Headache Hypoglycemia low blood glucose level"
+  },
+  "iguratimod": {
+    "uses": "Treatment of Rheumatoid arthritis",
+    "side_effects": "Liver dysfunction Pneumonia Upper abdominal pain"
+  },
+  "canagliflozin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Increased thirst Polyuria Urinary tract infection Genital fungal infection Nausea Constipation Rash"
+  },
+  "imiquimod": {
+    "uses": "Genital warts (Skin bumps on or around the genital or anal area) Actinic keratosis Basal cell cancer",
+    "side_effects": "Dry skin Application site reactions burning irritation itching and redness Edema swelling Skin flakes Skin ulcer Induration hardening of a normally soft tissue or organ"
+  },
+  "ipratropium": {
+    "uses": "Treatment of Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Headache Dizziness Throat irritation Cough Dryness in mouth Nausea"
+  },
+  "ivabradine": {
+    "uses": "Treatment of Angina (heart-related chest pain)Treatment of Heart failure",
+    "side_effects": "Slow heart rate Luminous phenomena Enhanced brightness High blood pressure Atrial fibrillation Dizziness Blurred vision E C G changes"
+  },
+  "iron isomaltoside": {
+    "uses": "Iron deficiency anemia",
+    "side_effects": "Vomiting Dark colored stool Nausea Constipation Diarrhea"
+  },
+  "human gamma globulin": {
+    "uses": "Prevention of Infections",
+    "side_effects": "Headache Nausea Chills Fatigue Fever Upper abdominal pain Diarrhea Back pain Injection site reactions pain swelling redness Sweating Flushing sense of warmth in the face ears neck and trunk"
+  },
+  "lithium carbonate": {
+    "uses": "Mania Bipolar disorder",
+    "side_effects": "Tremors Slurred speech Uncoordinated body movements Nausea Acne Increased white blood cell count Memory impairment Hair loss Goiter enlarged thyroid gland Skin rash Increased thirst Weight gain Polyuria Diarrhea"
+  },
+  "betaxolol": {
+    "uses": "Glaucoma Ocular hypertension",
+    "side_effects": "Eye discomfort Blurred vision Headache Increased lacrimation"
+  },
+  "lymecycline": {
+    "uses": "Bacterial infections",
+    "side_effects": "Nausea Diarrhea Headache Abdominal pain"
+  },
+  "ilaprazole": {
+    "uses": "Gastroesophageal reflux disease (Acid reflux) Peptic ulcer disease",
+    "side_effects": "Nausea Headache Flatulence Diarrhea"
+  },
+  "etanercept": {
+    "uses": "Ankylosing spondylitis Rheumatoid arthritis Psoriasis Ulcerative colitis Crohn\u2019s disease",
+    "side_effects": "Allergic reaction Upper respiratory tract infection Itching Rash Injection site reaction"
+  },
+  "dexketoprofen": {
+    "uses": "Pain relief Fever",
+    "side_effects": "Heartburn Indigestion Nausea Stomach pain"
+  },
+  "pidotimod": {
+    "uses": "Diseases of respiratory tract",
+    "side_effects": "Skin rash"
+  },
+  "isoprenaline": {
+    "uses": "Treatment of BradycardiaTreatment of Cardiac arrest",
+    "side_effects": "Headache Palpitations Increased heart rate Flushing sense of warmth in the face ears neck and trunk Restlessness Tremors"
+  },
+  "sulphacetamide": {
+    "uses": "Bacterial skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "irbesartan": {
+    "uses": "Hypertension (high blood pressure) Heart failure Prevention of heart attack and stroke",
+    "side_effects": "Increased potassium level in blood Dizziness Orthostatic hypotension sudden lowering of blood pressure on standing"
+  },
+  "interferon alpha": {
+    "uses": "Chronic hepatitis B virus (HBV) infection Chronic hepatitis C virus (HCV) infection Multiple myeloma Follicular lymphoma Hairy cell leukemia",
+    "side_effects": "Headache Dizziness Blurred vision Insomnia difficulty in sleeping Vomiting Nausea Dryness in mouth Abdominal pain Agitation Sore throat Decreased white blood cell count Viral infection Indigestion Fatigue Fever Anxiety Depression Decreased appetite Cough Impaired concentration Nervousness Stomatitis Inflammation of the mouth"
+  },
+  "imipenem": {
+    "uses": "Severe bacterial infections",
+    "side_effects": "Nausea Vomiting Diarrhea Rash"
+  },
+  "idebenone": {
+    "uses": "Treatment of Friedreich's ataxiaTreatment of Leber\u2019s Hereditary Optic Neuropathy",
+    "side_effects": "Nasopharyngitis inflammation of the throat and nasal passages Cough Diarrhea Back pain"
+  },
+  "nitrofurantoin": {
+    "uses": "Treatment of Bacterial infections of urinary tract",
+    "side_effects": "Nausea Vomiting Diarrhea"
+  },
+  "rivaroxaban": {
+    "uses": "Treatment and prevention of Blood clots",
+    "side_effects": "Bleeding"
+  },
+  "bacterial lysate": {
+    "uses": "Diseases of respiratory tract",
+    "side_effects": "No common side effects seen"
+  },
+  "iron": {
+    "uses": "Iron deficiency anemia",
+    "side_effects": "Vomiting Dark colored stool Nausea Constipation Diarrhea Injection site reactions pain swelling redness"
+  },
+  "lecithin": {
+    "uses": "Neuropathic pain",
+    "side_effects": "Nausea Increased saliva production Sleepiness Dizziness Impaired concentration Blurred vision Dryness in mouth Weight gain Edema swelling"
+  },
+  "ketoprofen": {
+    "uses": "Pain relief",
+    "side_effects": "Erythema skin redness Inflammation"
+  },
+  "iloperidone": {
+    "uses": "Schizophrenia Mania",
+    "side_effects": "Dizziness Dryness in mouth Fatigue Nasal congestion stuffy nose Orthostatic hypotension sudden lowering of blood pressure on standing Sleepiness Weight gain"
+  },
+  "orlistat": {
+    "uses": "Obesity",
+    "side_effects": "Fat in stool Bowel incontinence Flatus with discharge Oily spotting Increased urge to pass bowels Oily evacuation Increased bowel movements"
+  },
+  "irinotecan": {
+    "uses": "Cancer of colon and rectum",
+    "side_effects": "Fatigue Nausea Vomiting Weakness Hair loss Fever Anemia low number of red blood cells Diarrhea Decreased white blood cell count neutrophils Decreased appetite Mucosal inflammation"
+  },
+  "aceclofenac na paracetamol na serratiopeptidase na": {
+    "uses": "Pain relief",
+    "side_effects": "Nausea Vomiting Stomach pain Indigestion Heartburn Loss of appetite Diarrhea"
+  },
+  "hydroxypropylmethylcellulose na": {
+    "uses": "Dry eyes",
+    "side_effects": "Blurred vision Eye irritation Eye pain Eye redness Foreign body sensation in eyes"
+  },
+  "cetrimide na chlorhexidine gluconate na": {
+    "uses": "Treatment of Wound infection",
+    "side_effects": "Skin irritation"
+  },
+  "lansoprazole": {
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease",
+    "side_effects": "Nausea Headache Flatulence Diarrhea"
+  },
+  "inactivated japanese encephalitis virus protein": {
+    "uses": "Prevention of Japanese Encephalitis",
+    "side_effects": "Fatigue Fever Headache Injection site reactions pain swelling redness Muscle pain Nausea"
+  },
+  "polyethylene glycol": {
+    "uses": "Constipation Intestine preparation before any surgery",
+    "side_effects": "Stomach pain Nausea Diarrhea"
+  },
+  "diclofenac diethylamine": {
+    "uses": "Pain relief",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "allopurinol": {
+    "uses": "Treatment of Gout",
+    "side_effects": "Skin rash Diarrhea Nausea"
+  },
+  "prednisolone": {
+    "uses": "Treatment of Inflammatory conditionsTreatment of Autoimmune conditionsTreatment of Severe allergic reactionsTreatment of Allergic conditionsTreatment of Rheumatic disorderTreatment of Skin disordersTreatment of Eye disordersTreatment of Nephrotic syndrome",
+    "side_effects": "Irritability Easy bruise Growth retardation Upper respiratory tract infection Cough Frequent urge to urinate Abnormal hair growth Obesity Reduction in bone density Upset stomach Behavioral changes Mood changes Weight gain"
+  },
+  "cinitapride": {
+    "uses": "Gastroesophageal reflux disease (Acid reflux) Indigestion",
+    "side_effects": "Headache Nausea Diarrhea"
+  },
+  "ketotifen": {
+    "uses": "Prevention of Asthma",
+    "side_effects": "Irritation Agitation Insomnia difficulty in sleeping Nervousness Sedation Conjunctival inflammation"
+  },
+  "citric acid": {
+    "uses": "Treatment of Kidney stone",
+    "side_effects": "Nausea Vomiting Diarrhea Stomach pain"
+  },
+  "nicorandil": {
+    "uses": "Treatment of Angina (heart-related chest pain)",
+    "side_effects": "Headache Nausea Vomiting Weakness Dizziness Flushing sense of warmth in the face ears neck and trunk"
+  },
+  "deferiprone": {
+    "uses": "Treatment of Iron overload",
+    "side_effects": "Nausea Vomiting Abdominal pain Urine discoloration"
+  },
+  "loteprednol eonate": {
+    "uses": "Treatment of Eye infection with inflammation",
+    "side_effects": "Eye irritation Eye discomfort"
+  },
+  "sodium monofluorophosphate": {
+    "uses": "Treatment of Dental cavities",
+    "side_effects": "Stinging sensation"
+  },
+  "saxagliptin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Hypoglycemia low blood glucose level Nausea Vomiting Diarrhea Decreased appetite Urinary tract infection"
+  },
+  "kanamycin": {
+    "uses": "Bacterial infections Tuberculosis (TB)",
+    "side_effects": "Hearing loss Balance disorder loss of balance Injection site pain Renal impairment"
+  },
+  "cetilistat": {
+    "uses": "Obesity",
+    "side_effects": "Fat in stool Abdominal cramp Flatus with discharge Oily spotting Flatulence Abdominal pain Diarrhea Soft stools"
+  },
+  "dicloxacillin": {
+    "uses": "Bacterial infections",
+    "side_effects": "Vomiting Nausea Skin rash Gastrointestinal disturbance Urticaria Abdominal pain Flatulence Loose stools"
+  },
+  "calcium polystyrene sulphonate": {
+    "uses": "Treatment of Increased potassium levels in blood",
+    "side_effects": "Vomiting Nausea Constipation Fecal impaction hardened stool that stays stuck in the rectum or lower colon Gastric irritation Decreased appetite"
+  },
+  "oxaceprol": {
+    "uses": "Osteoarthritis Rheumatoid arthritis",
+    "side_effects": "Headache Dizziness Nausea Vomiting Diarrhea"
+  },
+  "linezolid": {
+    "uses": "Treatment of Severe bacterial infections",
+    "side_effects": "Vomiting Headache Nausea Decreased blood cells red cells white cells and platelets Diarrhea"
+  },
+  "artemether": {
+    "uses": "Treatment of Malaria",
+    "side_effects": "Headache Loss of appetite Dizziness Weakness Joint pain Muscle pain"
+  },
+  "chloroquine": {
+    "uses": "Treatment of Malaria",
+    "side_effects": "Rash Headache Dizziness Vomiting Nausea Stomach pain Loss of appetite Diarrhea"
+  },
+  "lacosamide": {
+    "uses": "Epilepsy/Seizures",
+    "side_effects": "Dizziness Headache Nausea Sleepiness Vomiting Visual disturbance Dryness in mouth Muscle spasm"
+  },
+  "glucosamine sulfate potassium chloride": {
+    "uses": "Osteoarthritis",
+    "side_effects": "No common side effects seen"
+  },
+  "amlexanox": {
+    "uses": "Mouth ulcers",
+    "side_effects": "Application site pain"
+  },
+  "lysine": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "Stomach pain Nausea Vomiting Diarrhea"
+  },
+  "leflunomide": {
+    "uses": "Rheumatoid arthritis Psoriatic arthritis",
+    "side_effects": "Nausea Headache Rash Diarrhea Increased liver enzymes Dyspepsia Dizziness Loss of appetite Hair loss Weight loss Bronchitis inflammation of the airways"
+  },
+  "latanoprost": {
+    "uses": "Glaucoma Ocular hypertension",
+    "side_effects": "Eyelash changes Eye pain Increased sensitivity to light Burning sensation in eye Eye itching Foreign body sensation Itching Stinging in the eyes Conjunctival hyperemia"
+  },
+  "chlorzoxazone": {
+    "uses": "Treatment of Pain due to muscle spasm",
+    "side_effects": "Nausea Vomiting Heartburn Stomach pain Diarrhea Loss of appetite Dryness in mouth"
+  },
+  "indacaterol": {
+    "uses": "Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Indigestion High blood pressure Nasopharyngitis inflammation of the throat and nasal passages Chest pain Fever Urinary retention Sore throat Cough Headache Dizziness Allergic reaction Increased glucose level in blood Inflammation of the nose Sinus inflammation Urinary tract infection"
+  },
+  "lubiprostone": {
+    "uses": "Constipation Irritable bowel syndrome",
+    "side_effects": "Nausea Headache Abdominal pain Abdominal distension Diarrhea Flatulence"
+  },
+  "liquid paraffin na": {
+    "uses": "Dry Skin",
+    "side_effects": "No common side effects seen"
+  },
+  "artesunate": {
+    "uses": "Treatment of Malaria",
+    "side_effects": "Nausea Vomiting Diarrhea Feeling of fullness Mouth sore Skin rash Fatigue Headache Dizziness Upset stomach E C G changes"
+  },
+  "lamotrigine": {
+    "uses": "Epilepsy/Seizures Bipolar disorder",
+    "side_effects": "Skin rash Headache Nausea Vomiting Dryness in mouth Insomnia difficulty in sleeping Sleepiness Dizziness Back pain Abdominal pain Blurred vision Double vision Impaired coordination Nasal congestion stuffy nose Infection"
+  },
+  "lincomycin": {
+    "uses": "Acne",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "magnesium citrate": {
+    "uses": "Kidney stone",
+    "side_effects": "Diarrhea Nausea Vomiting Stomach pain"
+  },
+  "clindamycin na": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Skin rash Stomach pain Nausea Vomiting Diarrhea"
+  },
+  "insulin detemir": {
+    "uses": "Treatment of Diabetes",
+    "side_effects": "Hypoglycemia low blood glucose level Injection site allergic reaction"
+  },
+  "lafutidine": {
+    "uses": "Heartburn Gastroesophageal reflux disease (Acid reflux) Peptic ulcer disease",
+    "side_effects": "Fatigue Drowsiness Headache Increased liver enzymes Constipation Increased uric acid level in blood Diarrhea Muscle pain Protein in urine"
+  },
+  "benzoxonium chloride": {
+    "uses": "Inflammation of gums Mouth ulcers Mouth infection",
+    "side_effects": "No common side effects seen"
+  },
+  "gemfibrozil": {
+    "uses": "High cholesterol",
+    "side_effects": "Abdominal pain Diarrhea Rash Dyspepsia"
+  },
+  "arteether": {
+    "uses": "Treatment of Malaria",
+    "side_effects": "Headache Loss of appetite Dizziness Weakness Muscle pain Joint pain"
+  },
+  "tibolone": {
+    "uses": "Hormone replacement therapy Post menopausal osteoporosis",
+    "side_effects": "Breast pain Vaginal bleeding Weight gain Abnormal hair growth Breast tenderness Cervical thickening Endometrial hyperplasia Genital itching Lower abdominal pain Pelvic pain Vaginal discharge"
+  },
+  "lisinopril": {
+    "uses": "Hypertension (high blood pressure) Prevention of heart attack and stroke Heart failure",
+    "side_effects": "Decreased blood pressure Cough Increased potassium level in blood Fatigue Weakness Dizziness"
+  },
+  "levocetirizine na montelukast na": {
+    "uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Hay feverTreatment of Allergic skin conditions",
+    "side_effects": "Nausea Diarrhea Dryness in mouth Fatigue Headache Skin rash Sleepiness Vomiting"
+  },
+  "lercanidipine": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Dizziness Edema swelling Fatigue Flushing sense of warmth in the face ears neck and trunk Headache Palpitations"
+  },
+  "indapamide": {
+    "uses": "Hypertension (high blood pressure)Treatment of Edema",
+    "side_effects": "Dizziness Headache Fatigue Nausea Gastrointesinal symptoms Muscle cramp Rash"
+  },
+  "travoprost": {
+    "uses": "Treatment of GlaucomaTreatment of Ocular hypertension",
+    "side_effects": "Eye pain Foreign body sensation Eye discomfort Eye itching Ocular hyperemia Decreased vision"
+  },
+  "potassium citrate": {
+    "uses": "Treatment and prevention of Kidney stone",
+    "side_effects": "Diarrhea Nausea Vomiting Stomach pain"
+  },
+  "topiramate": {
+    "uses": "Epilepsy/SeizuresPrevention of Migraine Lennox\u2013Gastaut syndrome",
+    "side_effects": "Abdominal pain Diarrhea Dizziness Fatigue Fever Loss of appetite Memory impairment Nausea Nervousness Numbness Psychomotor impairment Sleepiness Speech disorder Taste change Upper respiratory tract infection Visual impairment Weight loss"
+  },
+  "lenalidomide": {
+    "uses": "Treatment of Multiple myelomaTreatment of Myelodysplastic syndrome",
+    "side_effects": "Headache Nausea Rash Breathlessness Dizziness Fatigue Decreased white blood cell count neutrophils Joint pain Itching Diarrhea Low blood platelets Peripheral edema Cough Back pain Upper respiratory tract infection Decreased appetite Nasopharyngitis inflammation of the throat and nasal passages"
+  },
+  "naphazoline na chlorpheniramine maleate na phenylephrine na hydroxypropylmethylcellulose na menthol na camphor na": {
+    "uses": "Treatment of Allergic eye disease",
+    "side_effects": "Eye irritation Burning eyes Stinging in the eyes"
+  },
+  "levocarnitine na methylcobalamin na folic acid na": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "Nausea Vomiting Headache"
+  },
+  "vancomycin": {
+    "uses": "Severe bacterial infections",
+    "side_effects": "Breathlessness Vomiting Nausea Decreased potassium level in blood Abdominal pain Decreased white blood cell count neutrophils Phlebitis Hypotension low blood pressure Flatulence Hearing loss Renal toxicity Headache Fever Peripheral edema Fatigue Urinary tract infection Back pain Red man syndrome"
+  },
+  "lapatinib": {
+    "uses": "Breast cancer",
+    "side_effects": "Abdominal pain Back pain Breathing problems Constipation Cough Diarrhea Fatigue Headache Hot flashes Increased bilirubin in the blood Insomnia difficulty in sleeping Joint pain Liver damage Loss of appetite Mucosal inflammation Nausea Pain in extremities Rash Stomatitis Inflammation of the mouth Vomiting Weakness Weight gain"
+  },
+  "levomilnacipran": {
+    "uses": "Depression",
+    "side_effects": "Nausea Vomiting Constipation Decreased appetite Anxiety Insomnia difficulty in sleeping Increased sweating Dizziness Sexual dysfunction"
+  },
+  "arformoterol": {
+    "uses": "Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Sinus infection Lung disorder Tremors Headache Rash Back pain Increased potassium level in blood Breathlessness Vomiting Diarrhea Chest pain Nervousness Pain Sinus inflammation Leg cramps Flu like symptoms Peripheral edema Chest congestion Weakness Fever Bronchitis inflammation of the airways Chronic obstructive pulmonary disease C O P D High white blood cell count"
+  },
+  "tegafur": {
+    "uses": "Cancer of colon and rectum",
+    "side_effects": "Nausea Vomiting Tiredness Mouth sore Sore tongue Stomach pain Diarrhea Loss of appetite Decreased blood cells red cells white cells and platelets"
+  },
+  "oxcarbazepine": {
+    "uses": "Epilepsy/Seizures",
+    "side_effects": "Headache Nausea Vomiting Fatigue Dizziness Nystagmus involuntary eye movement Tremors Vertigo Drowsiness Abnormality of voluntary movements Abnormal gait Visual disturbance Increased sodium level in blood"
+  },
+  "dexlansoprazole": {
+    "uses": "Heartburn Gastroesophageal reflux disease (Acid reflux) Peptic ulcer disease",
+    "side_effects": "Nausea Abdominal pain Flatulence Diarrhea Vomiting"
+  },
+  "loxapine": {
+    "uses": "Treatment of SchizophreniaTreatment of DepressionTreatment of Bipolar disorder",
+    "side_effects": "Sleepiness Orthostatic hypotension sudden lowering of blood pressure on standing Dryness in mouth Abnormality of voluntary movements Weight gain Increased prolactin level in blood Urinary retention Constipation Muscle stiffness Tremors"
+  },
+  "levetiracetam na": {
+    "uses": "Treatment of Epilepsy/Seizures",
+    "side_effects": "Sleepiness Dizziness Fatigue Headache Decreased appetite Behavioral changes Aggressive behavior Irritation Agitation Nasal congestion stuffy nose Infection Convulsion Nasopharyngitis inflammation of the throat and nasal passages Nausea Tremors Vertigo Lethargy"
+  },
+  "vitamin c": {
+    "uses": "Treatment of Vitamin C deficiency",
+    "side_effects": "No common side effects seen"
+  },
+  "pitavastatin": {
+    "uses": "High cholesterol",
+    "side_effects": "Headache Tiredness Muscle pain Back pain Flatulence Diarrhea Stomach pain Increased liver enzymes"
+  },
+  "bortezomib": {
+    "uses": "Multiple myeloma Mantle-cell lymphoma",
+    "side_effects": "Low blood platelets Fatigue Peripheral neuropathy tingling and numbness of feet and hand Psychiatric disturbances Nausea Vomiting Loss of appetite Fever Anemia low number of red blood cells Diarrhea Decreased appetite Decreased white blood cell count neutrophils Constipation"
+  },
+  "prazosin": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Heart failureTreatment of Benign prostatic hyperplasia",
+    "side_effects": "Dizziness Headache Drowsiness Weakness Low energy Palpitations Nausea"
+  },
+  "methylergometrine": {
+    "uses": "Post-delivery bleeding",
+    "side_effects": "High blood pressure Headache Seizure"
+  },
+  "ergotamine": {
+    "uses": "Migraine",
+    "side_effects": "Nausea Vomiting Diarrhea Muscle pain Increased heart rate Restlessness"
+  },
+  "moxonidine": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Dryness in mouth Headache Rash Dizziness Back pain Insomnia difficulty in sleeping Sleepiness Vomiting Weakness Nausea Diarrhea Vertigo"
+  },
+  "myoinositol": {
+    "uses": "Polycystic ovarian syndrome (PCOS)",
+    "side_effects": "Taste change Nausea Vomiting Diarrhea Stomach pain Loss of appetite"
+  },
+  "primaquine": {
+    "uses": "Malaria",
+    "side_effects": "Rash Vomiting Headache Dizziness Hives Stomach pain Nausea Abdominal pain Itching Heartburn Gastrointestinal discomfort Upper abdominal pain"
+  },
+  "metoclopramide": {
+    "uses": "Migraine",
+    "side_effects": "Restlessness Tiredness Drowsiness"
+  },
+  "smetoprolol succinate": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Angina (heart-related chest pain)Treatment of ArrhythmiaPrevention of Heart attackPrevention of StrokePrevention of Migraine",
+    "side_effects": "Fatigue Slow heart rate Constipation Diarrhea Dizziness Cold extremities"
+  },
+  "methoxsalen": {
+    "uses": "Vitiligo Psoriasis",
+    "side_effects": "Itching Erythema skin redness Nausea"
+  },
+  "carbamazepine": {
+    "uses": "Epilepsy/Seizures Trigeminal neuralgia Diabetic nerve pain",
+    "side_effects": "Dizziness Nausea Vomiting Constipation Sleepiness Abnormality of voluntary movements"
+  },
+  "desmopressin": {
+    "uses": "Diabetes insipidus Bed-wetting",
+    "side_effects": "Headache Nausea Stomach pain"
+  },
+  "stanozolol": {
+    "uses": "Angioedema",
+    "side_effects": "Edema swelling Breast enlargement Fluid retention"
+  },
+  "naproxen": {
+    "uses": "Prevention of Migraine",
+    "side_effects": "Flu like symptoms Indigestion Dryness in mouth"
+  },
+  "meningococcal vaccine group a c y w": {
+    "uses": "Prevention of Meningococcal disease",
+    "side_effects": "Injection site reactions pain swelling redness Irritability Loss of appetite Sleepiness Headache Nausea Vomiting Diarrhea"
+  },
+  "minocycline": {
+    "uses": "Treatment of Bacterial infectionsTreatment of Acne",
+    "side_effects": "Headache Dizziness Itching Fatigue"
+  },
+  "metolazone": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Edema",
+    "side_effects": "Headache Nausea Dizziness"
+  },
+  "silver colloid": {
+    "uses": "Prevention of Wound infection",
+    "side_effects": "Argyria skin turns blue or bluish grey"
+  },
+  "tamoxifen": {
+    "uses": "Breast cancer",
+    "side_effects": "Hot flashes Nausea Vaginal discharge Vaginal bleeding Mood swings Fluid retention"
+  },
+  "mosapride": {
+    "uses": "Gastroesophageal reflux disease (Acid reflux)",
+    "side_effects": "Abdominal pain Dizziness Headache Insomnia difficulty in sleeping Nausea Vomiting"
+  },
+  "methimazole": {
+    "uses": "Hyperthyroidism",
+    "side_effects": "Skin rash Nausea Hair loss Headache Paresthesia tingling or pricking sensation Joint pain Taste change Drowsiness Muscle pain"
+  },
+  "mexiletine": {
+    "uses": "Treatment of Arrhythmia",
+    "side_effects": "Upper abdominal pain Lightheadedness Tremors Impaired coordination"
+  },
+  "deca peptide": {
+    "uses": "Vitiligo",
+    "side_effects": "Dry skin Skin irritation Burning sensation"
+  },
+  "bambuterol": {
+    "uses": "Treatment of Asthma",
+    "side_effects": "Diarrhea Upper respiratory tract infection Fever Headache Pharyngitis Cough Abdominal pain Otitis media infection of ear Influenza Runny nose Sinus inflammation Tremors Nervousness"
+  },
+  "cetyl alcohol": {
+    "uses": "Dry Skin",
+    "side_effects": "Limited data available"
+  },
+  "magnesium sulphate": {
+    "uses": "Seizures in pregnant women with high blood pressure Decreased magnesium levels in blood",
+    "side_effects": "Injection site reactions pain swelling redness"
+  },
+  "silver nano particles": {
+    "uses": "Prevention of Infections",
+    "side_effects": "Limited data available"
+  },
+  "macitentan": {
+    "uses": "Pulmonary arterial hypertension (PAH)",
+    "side_effects": "Headache Bronchitis inflammation of the airways Nasopharyngitis inflammation of the throat and nasal passages Anemia low number of red blood cells Urinary tract infection Influenza"
+  },
+  "levonorgestrel intrauterine delivery system": {
+    "uses": "Contraception Heavy menstrual bleeding",
+    "side_effects": "Irregular uterine bleeding Ovarian cysts Pelvic pain Dizziness"
+  },
+  "gamma linolenic acid": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Limited data available"
+  },
+  "vitamin b": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Gastrointestinal disturbance Decreased white blood cell count"
+  },
+  "adalimumab": {
+    "uses": "Ankylosing spondylitis Rheumatoid arthritis Psoriasis Ulcerative colitis Crohn\u2019s disease",
+    "side_effects": "Headache Sinus inflammation Rash Upper respiratory tract infection Injection site reaction"
+  },
+  "cefepime": {
+    "uses": "Bacterial infections",
+    "side_effects": "Diarrhea Increased white blood cell count eosinophils Injection site phlebitis Skin rash Increased liver enzymes Positive Coombs test"
+  },
+  "climbazole": {
+    "uses": "Treatment of Dandruff",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "pimozide": {
+    "uses": "Treatment of Schizophrenia",
+    "side_effects": "Sleepiness Orthostatic hypotension sudden lowering of blood pressure on standing Dryness in mouth Abnormality of voluntary movements Weight gain Increased prolactin level in blood Urinary retention Constipation Abnormal vision Tremors"
+  },
+  "mefloquine": {
+    "uses": "Malaria",
+    "side_effects": "Abdominal pain Abnormal dreams Anxiety Chills Depression Diarrhea Dizziness Fever Headache Atrial arrhythmias altered heart rate Insomnia difficulty in sleeping Itching Loss of appetite Muscle pain Nausea Rash Ringing in ear Vertigo Visual impairment Vomiting Fatigue"
+  },
+  "phenylalanine": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "No common side effects seen"
+  },
+  "dimethyl fumarate": {
+    "uses": "Multiple sclerosis (MS)",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Abdominal pain Diarrhea Nausea Vomiting Indigestion Stomach inflammation Increased liver enzymes Rash"
+  },
+  "oxymetazoline": {
+    "uses": "Nasal congestion (blocked nose)",
+    "side_effects": "Irritation Dryness in mouth Dry throat"
+  },
+  "diclofenac na paracetamol na serratiopeptidase na": {
+    "uses": "Pain relief",
+    "side_effects": "Nausea Vomiting Stomach pain Indigestion Heartburn Loss of appetite Diarrhea"
+  },
+  "pramipexole": {
+    "uses": "Parkinson's disease Restless leg syndrome",
+    "side_effects": "Dizziness Sleepiness Nausea Dryness in mouth Fatigue Hallucination Constipation Peripheral edema Muscle spasm"
+  },
+  "magnesium valproate": {
+    "uses": "Epilepsy/SeizuresPrevention of Migraine Bipolar disorder",
+    "side_effects": "Headache Dizziness Blurred vision Loss of appetite Nausea Vomiting Sleepiness Hair loss Weight gain Double vision Diarrhea Impaired coordination Tremors Weakness Stomach pain Increased appetite"
+  },
+  "miglitol": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Skin rash Flatulence Abdominal pain Diarrhea"
+  },
+  "fluphenazine": {
+    "uses": "Treatment of SchizophreniaTreatment of DepressionTreatment of Bipolar disorder",
+    "side_effects": "Abnormality of voluntary movements Constipation Dryness in mouth Increased prolactin level in blood Injection site reactions pain swelling redness Muscle stiffness Orthostatic hypotension sudden lowering of blood pressure on standing Sleepiness Tremors Urinary retention Weight gain"
+  },
+  "calcium citrate": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Limited data available"
+  },
+  "melitracen": {
+    "uses": "Depression Anxiety",
+    "side_effects": "Increased heart rate Blurred vision Difficulty in urination Dryness in mouth Weight gain Constipation Orthostatic hypotension sudden lowering of blood pressure on standing"
+  },
+  "haloperidol decanoate": {
+    "uses": "Schizophrenia",
+    "side_effects": "Abnormality of voluntary movements Constipation Dryness in mouth Increased prolactin level in blood Muscle stiffness Orthostatic hypotension sudden lowering of blood pressure on standing Sleepiness Tremors Urinary retention Weight gain"
+  },
+  "norfloxacin": {
+    "uses": "Treatment of DiarrheaTreatment of Dysentery",
+    "side_effects": "Nausea Dryness in mouth Metallic taste Headache"
+  },
+  "polymyxin b": {
+    "uses": "Treatment of Bacterial skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "nebivolol": {
+    "uses": "Treatment of Hypertension (high blood pressure)Prevention of Heart attackPrevention of Stroke",
+    "side_effects": "Nausea Headache Fatigue Constipation Diarrhea Dizziness Breathlessness Edema swelling"
+  },
+  "nitazoxanide": {
+    "uses": "Diarrhea Worm infections",
+    "side_effects": "Abdominal pain Headache Chromaturia abnormal coloration of urine Nausea"
+  },
+  "bacitracin": {
+    "uses": "Bacterial skin infections",
+    "side_effects": "No common side effects seen"
+  },
+  "nadifloxacin": {
+    "uses": "Treatment of Bacterial skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "piracetam": {
+    "uses": "Alzheimer's disease Stroke Dementia in Parkinson's disease Age related memory loss Head injury",
+    "side_effects": "Weight gain Nervousness Abnormality of voluntary movements"
+  },
+  "norepinephrine": {
+    "uses": "Low blood pressure",
+    "side_effects": "Systemic hypertension high blood pressure Headache Restlessness Insomnia difficulty in sleeping Palpitations Tremors"
+  },
+  "naltrexone": {
+    "uses": "Opioid dependence Alcohol addiction",
+    "side_effects": "Joint pain Muscle pain Headache Vomiting Weakness Nausea Abdominal pain Anxiety Nervousness Restlessness Sleep disorder"
+  },
+  "nimodipine": {
+    "uses": "Subarachnoid haemorrhage",
+    "side_effects": "Decreased blood pressure Headache Increased heart rate Nausea Rash Stomach discomfort Edema swelling Muscle cramp"
+  },
+  "nefopam": {
+    "uses": "Pain relief",
+    "side_effects": "Nausea Dizziness Dryness in mouth"
+  },
+  "pyrantel pamoate": {
+    "uses": "Worm infections",
+    "side_effects": "Headache Dizziness Nausea Hair loss Vomiting Abnormal liver function tests Fever Abdominal pain Vertigo"
+  },
+  "nortriptyline": {
+    "uses": "Depression Bed-wetting Neuropathic pain",
+    "side_effects": "Increased heart rate Weight gain Difficulty in urination Orthostatic hypotension sudden lowering of blood pressure on standing Dryness in mouth Constipation Blurred vision"
+  },
+  "ciclopirox": {
+    "uses": "Fungal skin infections Fungal nail infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "nicergoline": {
+    "uses": "Raynaud's diseaseTreatment and prevention of Migraine",
+    "side_effects": "Fatigue Nausea Vomiting Taste change Agitation Muscle pain Restlessness Hot flashes Sleep disturbance Dizziness"
+  },
+  "natamycin": {
+    "uses": "Treatment of Fungal infections of eye",
+    "side_effects": "Eye irritation"
+  },
+  "nicotinic acid": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Itching Flushing sense of warmth in the face ears neck and trunk Erythema skin redness Paresthesia tingling or pricking sensation"
+  },
+  "nintedanib": {
+    "uses": "Treatment of Idiopathic pulmonary fibrosisTreatment of Non-small cell lung cancer",
+    "side_effects": "Diarrhea Nausea Abdominal pain Vomiting Abnormal liver function tests Loss of appetite Headache Weight loss High blood pressure"
+  },
+  "vinpocetine": {
+    "uses": "Alzheimer's disease Stroke Dementia in Parkinson's disease Age related memory loss Head injury",
+    "side_effects": "Dizziness Dryness in mouth Flushing sense of warmth in the face ears neck and trunk Headache Insomnia difficulty in sleeping Nausea Stomach pain Nervousness"
+  },
+  "trifluoperazine": {
+    "uses": "Schizophrenia",
+    "side_effects": "Nausea Constipation Dryness in mouth Sedation Weight gain Orthostatic hypotension sudden lowering of blood pressure on standing Urinary retention Increased prolactin level in blood Dizziness Blurred vision Nervousness"
+  },
+  "magnesium bisglycinate": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "Upset stomach Diarrhea Nausea"
+  },
+  "naftopidil": {
+    "uses": "Benign prostatic hyperplasia",
+    "side_effects": "Dizziness Headache Tiredness"
+  },
+  "netilmicin": {
+    "uses": "Bacterial infections",
+    "side_effects": "Ototoxicity Kidney damage"
+  },
+  "astaxanthin": {
+    "uses": "Infertility",
+    "side_effects": "Limited data available"
+  },
+  "nicotine": {
+    "uses": "Quitting smoking",
+    "side_effects": "Nausea Hiccup Vomiting Dryness in mouth Flatulence Stomatitis Inflammation of the mouth Pharyngolaryngeal pain Abdominal pain Diarrhea Constipation Cough Insomnia difficulty in sleeping"
+  },
+  "iron sucrose": {
+    "uses": "Treatment of Iron deficiency anemia",
+    "side_effects": "Taste change Injection site reactions pain swelling redness Nausea Decreased blood pressure High blood pressure"
+  },
+  "nimesulide na paracetamol na": {
+    "uses": "Pain relief",
+    "side_effects": "Nausea Vomiting Diarrhea Increased liver enzymes"
+  },
+  "ramosetron": {
+    "uses": "Treatment of NauseaTreatment of VomitingTreatment of Diarrhea",
+    "side_effects": "Constipation Dizziness Headache Injection site pain"
+  },
+  "theophylline": {
+    "uses": "Asthma",
+    "side_effects": "Nausea Vomiting Restlessness Tremors Headache Palpitations Muscle cramp Increased heart rate"
+  },
+  "nepafenac na": {
+    "uses": "Treatment of Post-operative eye pain and inflammation",
+    "side_effects": "Decreased vision Foreign body sensation in eyes Increased intraocular pressure Stickiness"
+  },
+  "nadifloxacin na": {
+    "uses": "Treatment of Bacterial skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "levonorgestrel": {
+    "uses": "Emergency contraception",
+    "side_effects": "Headache Fatigue Diarrhea Nausea Lower abdominal pain Vomiting Dizziness Breast tenderness Irregular menstrual cycle"
+  },
+  "chlorthalidone": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Edema",
+    "side_effects": "Headache Nausea Dizziness"
+  },
+  "tolnaftate": {
+    "uses": "Fungal skin infections",
+    "side_effects": "Skin irritation Itching Skin rash"
+  },
+  "onabotulinumtoxina": {
+    "uses": "Overactive bladder (OAB) symptomsPrevention of Migraine Cervical Dystonia Muscle spasm",
+    "side_effects": "Dryness in mouth Neck pain Headache Injection site pain Tiredness Pain in extremities Upper respiratory tract infection Cough Flu like symptoms Injection site reactions pain swelling redness"
+  },
+  "posaconazole": {
+    "uses": "Severe fungal infections",
+    "side_effects": "Headache Rash Decreased appetite Decreased white blood cell count neutrophils Dizziness Electrolyte imbalance Fatigue Fever Decreased potassium level in blood Increased liver enzymes Insomnia difficulty in sleeping Itching Sleepiness Taste change Weakness Decreased magnesium level in blood Paresthesia tingling or pricking sensation High blood pressure Anorectal discomfort Increased glucose level in blood Hypoglycemia low blood glucose level Hypotension low blood pressure Nausea Diarrhea Anemia low number of red blood cells Low blood platelets Petechiae red or purple spot caused by bleeding into the skin Vomiting Cough Abdominal pain Constipation Indigestion Nosebleeds Rigors Swelling of legs Breathlessness"
+  },
+  "nimorazole": {
+    "uses": "Bacterial infections Parasitic infections",
+    "side_effects": "Headache Nausea Dryness in mouth Metallic taste"
+  },
+  "niacinamide": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "Nausea Headache Dry hair Heartburn Sore throat"
+  },
+  "neomycin na": {
+    "uses": "Bacterial skin infections",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "sorafenib": {
+    "uses": "Liver cancer Kidney cancer Thyroid cancer",
+    "side_effects": "Fatigue Nausea Loss of appetite Diarrhea Abdominal pain Hair loss Weight loss Rash Painful blisters on hands and feet"
+  },
+  "venlafaxine": {
+    "uses": "Depression Anxiety disorder",
+    "side_effects": "Nausea Vomiting Dizziness Insomnia difficulty in sleeping Decreased appetite Anxiety Constipation Increased sweating Sexual dysfunction"
+  },
+  "norgestrel": {
+    "uses": "Contraception",
+    "side_effects": "Nausea Headache Breast pain Irregular uterine bleeding"
+  },
+  "thiaminevitamin b": {
+    "uses": "Nutritional deficiencies Vitamin B12 deficiency",
+    "side_effects": "Diarrhea Tiredness Headache Nausea Sleepiness Upset stomach"
+  },
+  "linagliptin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Hypoglycemia low blood glucose level Nasopharyngitis inflammation of the throat and nasal passages Cough Vomiting Diarrhea Constipation"
+  },
+  "dibucaine": {
+    "uses": "Local anesthesia (Numb tissues in a specific area)",
+    "side_effects": "Irritation of ear Ear discomfort Ear pain Headache Dizziness Taste change"
+  },
+  "olanzapine": {
+    "uses": "Treatment of SchizophreniaTreatment of Mania",
+    "side_effects": "Dizziness Sleepiness Orthostatic hypotension sudden lowering of blood pressure on standing Dryness in mouth Weight gain Increased prolactin level in blood Constipation Muscle stiffness Restlessness Tremors"
+  },
+  "orciprenaline": {
+    "uses": "Treatment and prevention of Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Tremors Headache Restlessness Insomnia difficulty in sleeping Palpitations"
+  },
+  "ofloxacin na": {
+    "uses": "Bacterial eye / ear infectionsTreatment of Bacterial infections",
+    "side_effects": "Application site irritation Nausea Headache Dizziness Itching Insomnia difficulty in sleeping Rash Genital itching Vaginal inflammation Phlebitis Injection site reactions pain swelling redness"
+  },
+  "denosumab": {
+    "uses": "Osteoporosis",
+    "side_effects": "Musculoskeletal bone muscle or joint pain Pain in extremities Nerve pain Constipation Rash Urinary tract infection"
+  },
+  "octreotide acetate": {
+    "uses": "Acromegaly Carcinoid tumours Bleeding esophageal varices",
+    "side_effects": "Diarrhea Abdominal pain Nausea Constipation Flatulence Headache Increased glucose level in blood Injection site reaction"
+  },
+  "opipramol": {
+    "uses": "Anxiety disorder",
+    "side_effects": "Nasal congestion stuffy nose Fatigue Orthostatic hypotension sudden lowering of blood pressure on standing Dryness in mouth Decreased blood pressure"
+  },
+  "oxybutynin": {
+    "uses": "Treatment of Overactive bladder (OAB) symptoms",
+    "side_effects": "Dryness in mouth Constipation Diarrhea Blurred vision Dry skin Dizziness Headache Sleepiness"
+  },
+  "bacillus calmetteguerin strain": {
+    "uses": "Treatment of Early-stage bladder cancer",
+    "side_effects": "Urinary tract infection"
+  },
+  "chromium": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "No common side effects seen"
+  },
+  "octenidine": {
+    "uses": "Mouth infection",
+    "side_effects": "No common side effects seen"
+  },
+  "oxiconazole": {
+    "uses": "Fungal skin infections",
+    "side_effects": "Dry skin Burning sensation Skin irritation Skin peeling Blisters on skin"
+  },
+  "saicin based rubefacients": {
+    "uses": "Neuropathic pain",
+    "side_effects": "Application site burning Irritation"
+  },
+  "omeprazole na": {
+    "uses": "Treatment of HeartburnTreatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer diseaseTreatment of Zollinger-Ellison syndrome",
+    "side_effects": "Diarrhea Flatulence Headache Nausea Vomiting Abdominal pain"
+  },
+  "tobramycin na fluorometholone na": {
+    "uses": "Treatment of Bacterial eye infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Blurred vision"
+  },
+  "uniflexin": {
+    "uses": "Osteoarthritis",
+    "side_effects": "Limited data available"
+  },
+  "triptorelin": {
+    "uses": "Prostate cancer Endometriosis Precocious puberty (premature puberty)",
+    "side_effects": "Weakness Increased sweating Back pain Paresthesia tingling or pricking sensation Hot flashes Erectile dysfunction"
+  },
+  "pertuzumab": {
+    "uses": "Breast cancer",
+    "side_effects": "Diarrhea Hair loss Feeling sick Rash Stomach inflammation Decreased blood cells red cells white cells and platelets Muscle pain Cough Heartburn Breathlessness Dizziness Fatigue"
+  },
+  "pneumococcal": {
+    "uses": "Prevention of pneumonia, meningitis, blood infection & ear infection",
+    "side_effects": "Sleepiness Injection site reactions pain swelling redness Decreased appetite Fever Rash Irritability Sleep deprivation Hypersomnia excessive sleepiness Vomiting Chills Limitations of arm movement Diarrhea"
+  },
+  "prucalopride": {
+    "uses": "Treatment of Constipation",
+    "side_effects": "Headache Nausea Diarrhea Abdominal pain Decreased appetite Dizziness Indigestion"
+  },
+  "placenta extracts": {
+    "uses": "Pelvic inflammatory disease",
+    "side_effects": "Limited data available"
+  },
+  "penicillin g": {
+    "uses": "Treatment of Bacterial infectionsTreatment of SyphilisPrevention of Rheumatic fever",
+    "side_effects": "Rash Allergic reaction Injection site reactions pain swelling redness"
+  },
+  "piperacillin": {
+    "uses": "Bacterial infections",
+    "side_effects": "Nausea Vomiting Diarrhea Rash Allergic reaction"
+  },
+  "phenazopyridine": {
+    "uses": "Symptomatic Pain relief",
+    "side_effects": "Diarrhea Headache Dizziness Stomach cramp"
+  },
+  "cefalexin": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Rash Stomach pain Nausea Indigestion Diarrhea Vomiting"
+  },
+  "conjugated estrogens": {
+    "uses": "Hormone replacement therapy",
+    "side_effects": "Abnormal vaginal bleeding Irritation Pelvic pain Nausea Breast pain Hair loss Irregular vaginal bleeding Edema swelling Vaginal spotting Vaginal itching Depression Leg cramps Abdominal cramp Vaginal yeast infection Vaginal burning sensation"
+  },
+  "benzathine penicillin g": {
+    "uses": "Treatment of Bacterial infectionsTreatment of SyphilisPrevention of Rheumatic fever",
+    "side_effects": "Rash Allergic reaction Injection site reactions pain swelling redness"
+  },
+  "podophyllum resin": {
+    "uses": "Treatment of Warts",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "pneumococcal polysaccharide vaccine": {
+    "uses": "Prevention of pneumonia, meningitis, blood infection & ear infection",
+    "side_effects": "Injection site redness Headache Weakness Tiredness Muscle pain"
+  },
+  "dexchlorpheniramine": {
+    "uses": "Treatment of Allergic conditions",
+    "side_effects": "Sleepiness"
+  },
+  "prasugrel": {
+    "uses": "Prevention of Heart attackPrevention of Stroke",
+    "side_effects": "Bleeding"
+  },
+  "cilostazol": {
+    "uses": "Treatment of Intermittent claudication",
+    "side_effects": "Headache Palpitations Abnormal stool Diarrhea Dizziness Bleeding disorder Edema swelling Abdominal pain Inflammation of the nose Increased heart rate"
+  },
+  "prulifloxacin": {
+    "uses": "Urinary tract infections (UTIs)",
+    "side_effects": "Epigastric pain"
+  },
+  "clopidogrel": {
+    "uses": "Prevention of heart attack and stroke Heart attack Peripheral vascular disease",
+    "side_effects": "Abdominal pain Bruise Diarrhea Hematoma Nosebleeds Gastrointestinal bleeding Dyspepsia"
+  },
+  "cinacalcet": {
+    "uses": "Treatment of High calcium levels in the bloodTreatment of Hyperparathyroidism",
+    "side_effects": "Vomiting Nausea Rash Muscle pain Diarrhea Dizziness Chest pain High blood pressure Loss of appetite"
+  },
+  "simvastatin": {
+    "uses": "Prevention of heart attack and stroke",
+    "side_effects": "Constipation Cough Dizziness Vertigo Fatigue Weakness Musculoskeletal bone muscle or joint pain"
+  },
+  "pilocarpine": {
+    "uses": "Dry mouth after radiotherapy of head and neck cancer",
+    "side_effects": "Sweating Frequent urge to urinate Chills"
+  },
+  "meclizine": {
+    "uses": "Motion sickness Vertigo",
+    "side_effects": "Sleepiness"
+  },
+  "pegfilgrastim": {
+    "uses": "Prevention of Infections after chemotherapy",
+    "side_effects": "Bone pain Joint pain Headache Nausea Low blood platelets Muscle pain Back pain Pain in extremities Injection site pain"
+  },
+  "belermin": {
+    "uses": "Diabetic foot ulcers",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "dpanthenol": {
+    "uses": "Eye injury",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "proanthocyanidin": {
+    "uses": "Varicose veins",
+    "side_effects": "Nausea Allergic reaction Dizziness Headache Indigestion"
+  },
+  "papaverine": {
+    "uses": "Erectile dysfunction Peripheral vascular disease",
+    "side_effects": "Breathlessness Chest pain Weakness Decreased blood pressure"
+  },
+  "measles vaccine live": {
+    "uses": "Prevention of Measles Prevention of Rubella Prevention of Mumps",
+    "side_effects": "Rash Injection site soreness Fever"
+  },
+  "penfluridol": {
+    "uses": "Treatment of SchizophreniaTreatment of DepressionTreatment of Bipolar disorder",
+    "side_effects": "Abnormality of voluntary movements Constipation Dryness in mouth Increased prolactin level in blood Muscle stiffness Orthostatic hypotension sudden lowering of blood pressure on standing Sleepiness Tremors Urinary retention Weight gain"
+  },
+  "paliperidone": {
+    "uses": "Schizophrenia Mania",
+    "side_effects": "Abnormal involuntary movements Dizziness Nystagmus involuntary eye movement Sleepiness Tremors"
+  },
+  "pomalidomide": {
+    "uses": "Multiple myeloma",
+    "side_effects": "Fatigue Fever Bone pain Muscle cramp Diarrhea Nausea Constipation Breathing problems Cough Decreased appetite Decreased white blood cell count neutrophils Low blood platelets Decreased white blood cell count lymphocytes Anemia low number of red blood cells"
+  },
+  "propafenone": {
+    "uses": "Arrhythmia",
+    "side_effects": "Dizziness Taste change Vomiting Nausea Atrioventricular block"
+  },
+  "dinoprostone": {
+    "uses": "Induction of labour",
+    "side_effects": "Flushing of skin Diarrhea Vomiting Nausea Fever Uterine tachysystole Uterine hyperstimulation"
+  },
+  "tadalafil ip": {
+    "uses": "Treatment of Pulmonary arterial hypertension (PAH)",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Headache Muscle pain Blurred vision Upset stomach Rash"
+  },
+  "poliomyelitis virus type": {
+    "uses": "Prevention of Polio",
+    "side_effects": "Fever Injection site reactions pain swelling redness"
+  },
+  "cyclopentolate": {
+    "uses": "Eye examination Uveitis",
+    "side_effects": "Eye irritation Foreign body sensation in eyes Blurred vision Eye itching Stinging in the eyes Increased intraocular pressure Burning sensation in eye"
+  },
+  "salmonella typhi vaccine": {
+    "uses": "Prevention of Typhoid fever",
+    "side_effects": "Injection site reactions pain swelling redness Headache Tiredness Fever Nausea"
+  },
+  "quetiapine": {
+    "uses": "Treatment of SchizophreniaTreatment of Mania",
+    "side_effects": "Dizziness Dryness in mouth Sleepiness Constipation Fatigue High blood pressure Orthostatic hypotension sudden lowering of blood pressure on standing Dyslipidemia"
+  },
+  "infliximab": {
+    "uses": "Rheumatoid arthritis Ankylosing spondylitis Psoriasis Ulcerative colitis Crohn\u2019s disease",
+    "side_effects": "Headache Sinus inflammation Upper respiratory tract infection Infusion reaction Abdominal pain Sore throat"
+  },
+  "insulin degludec": {
+    "uses": "Diabetes",
+    "side_effects": "Hypoglycemia low blood glucose level Auto antibody formation Headache Nasopharyngitis inflammation of the throat and nasal passages Upper respiratory tract infection"
+  },
+  "levodropropizine": {
+    "uses": "Treatment of Dry cough",
+    "side_effects": "Nausea Dizziness Headache Fatigue Diarrhea Heartburn Palpitations Vomiting Numbness Abdominal discomfort"
+  },
+  "rizatriptan": {
+    "uses": "Acute migraine headache",
+    "side_effects": "Dizziness Dryness in mouth Heaviness Jaw pain Nausea Neck pain Sleepiness Throat pain Weakness"
+  },
+  "eltrombopag": {
+    "uses": "Low platelet count due to ITP or HCV infectionTreatment of Severe Aplastic Anemia",
+    "side_effects": "Nausea Diarrhea Upper respiratory tract infection Vomiting Increased liver enzymes Muscle pain Urinary tract infection"
+  },
+  "romiplostim": {
+    "uses": "Chronic immune thrombocytopenia",
+    "side_effects": "Headache Joint pain Dizziness Insomnia difficulty in sleeping Muscle pain Pain in extremities Abdominal pain Indigestion Paresthesia tingling or pricking sensation"
+  },
+  "risperidone": {
+    "uses": "Schizophrenia",
+    "side_effects": "Nausea Constipation Dryness in mouth Weight gain Sleepiness Orthostatic hypotension sudden lowering of blood pressure on standing Increased prolactin level in blood Nervousness"
+  },
+  "recombinant human epidermal growth factor": {
+    "uses": "Diabetic foot ulcers",
+    "side_effects": "Skin irritation Rash Pain"
+  },
+  "ropinirole": {
+    "uses": "Parkinson's disease Restless leg syndrome",
+    "side_effects": "Headache Dizziness Fainting Sleepiness Vomiting Weakness Nausea Edema swelling Abnormality of voluntary movements Indigestion Hallucination Confusion Viral infection"
+  },
+  "rasagiline": {
+    "uses": "Treatment of Parkinson's disease",
+    "side_effects": "Joint pain Insomnia difficulty in sleeping Indigestion Flu like symptoms Depression Cough Peripheral edema"
+  },
+  "tolterodine": {
+    "uses": "Treatment of Overactive bladder (OAB) symptoms",
+    "side_effects": "Dryness in mouth Constipation Headache Dizziness Sleepiness Blurred vision Diarrhea"
+  },
+  "anti rh d immunoglobulin": {
+    "uses": "Prevention of Infections",
+    "side_effects": "Fever Headache Injection site tenderness Injection site pain Feeling of discomfort"
+  },
+  "ripasudil": {
+    "uses": "Glaucoma Ocular hypertension",
+    "side_effects": "Application site reactions burning irritation itching and redness Conjunctival hyperemia Conjunctivitis Eyelid inflammation Eye irritation"
+  },
+  "butyl alcohol": {
+    "uses": "Bleeding",
+    "side_effects": "Nausea Diarrhea Headache"
+  },
+  "cefprozil": {
+    "uses": "Bacterial infections",
+    "side_effects": "Nausea Diarrhea Vomiting Dizziness Abdominal pain Genital itching Vaginal inflammation Increased liver enzymes Increased white blood cell count eosinophils"
+  },
+  "rabies human monoclonal antibody rdna": {
+    "uses": "Treatment of Rabies",
+    "side_effects": "Injection site reactions pain swelling redness Headache Muscle pain Upper respiratory tract infection"
+  },
+  "roxithromycin": {
+    "uses": "Respiratory tract infection",
+    "side_effects": "Nausea Vomiting Diarrhea Stomach pain Allergic reaction"
+  },
+  "pyrimethamine": {
+    "uses": "Treatment of Malaria",
+    "side_effects": "Nausea Vomiting Diarrhea Fatigue Feeling of fullness Dizziness Headache Mouth sore Skin rash"
+  },
+  "rubella vaccine live": {
+    "uses": "Prevention of Rubella",
+    "side_effects": "Sore throat Fever Rash Injection site reactions pain swelling redness"
+  },
+  "methocarbamol": {
+    "uses": "Muscle relaxation",
+    "side_effects": "Lightheadedness"
+  },
+  "remogliflozin eonate": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Urinary tract infection Nausea Vomiting Diarrhea Abdominal pain Loss of appetite Hypoglycemia low blood glucose level"
+  },
+  "roflumilast": {
+    "uses": "Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Headache Weight loss Insomnia difficulty in sleeping Nausea Diarrhea Decreased appetite Abdominal pain"
+  },
+  "rotavirus vaccine live attenuatedoral": {
+    "uses": "Prevention of diarrhea due to rotavirus",
+    "side_effects": "Cough Fever Loss of appetite Vomiting Irritability"
+  },
+  "calcium citrate malate": {
+    "uses": "Treatment of Calcium deficiency",
+    "side_effects": "Constipation Stomach pain"
+  },
+  "quinine": {
+    "uses": "Malaria",
+    "side_effects": "Vomiting Deafness Headache Dizziness Flushing sense of warmth in the face ears neck and trunk Blurred vision Nausea Abdominal pain Ringing in ear Diarrhea Vertigo Increased sweating"
+  },
+  "rotavirus vaccine live attenuatedoral na": {
+    "uses": "Prevention of diarrhea due to rotavirus",
+    "side_effects": "Cough Fever Loss of appetite Vomiting Irritability"
+  },
+  "tenofovir disoproxil fumarate": {
+    "uses": "Treatment of Chronic hepatitis B virus (HBV) infection",
+    "side_effects": "Diarrhea Nausea Rash Weakness Vomiting Fatigue Abdominal pain Increased transaminase level in blood Decreased phosphate level in blood Pain Dizziness Depression Insomnia difficulty in sleeping Fever Itching"
+  },
+  "sirolimus": {
+    "uses": "Prevention of kidney transplant rejection",
+    "side_effects": "Nausea Increased blood lipid level Low blood platelets Headache Abdominal pain Fever Anemia low number of red blood cells Urinary tract infection Diarrhea High blood pressure Increased creatinine level in blood Joint pain Edema swelling"
+  },
+  "zinc oxide": {
+    "uses": "Sunburn",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "thioridazine": {
+    "uses": "Schizophrenia",
+    "side_effects": "Orthostatic hypotension sudden lowering of blood pressure on standing Sleepiness Dryness in mouth Abnormality of voluntary movements Weight gain Increased prolactin level in blood Urinary retention Constipation Muscle stiffness Tremors"
+  },
+  "flavoxate": {
+    "uses": "Treatment of Muscle spasms of the urinary tract",
+    "side_effects": "Nausea Vomiting Dryness in mouth Headache Drowsiness Dizziness Blurred vision Nervousness Sweating Fever Palpitations"
+  },
+  "raloxifene": {
+    "uses": "Treatment and prevention of Post menopausal osteoporosis",
+    "side_effects": "Leg cramps Peripheral edema Flu like symptoms Joint pain Sweating Hot flashes"
+  },
+  "haloperidol": {
+    "uses": "Schizophrenia",
+    "side_effects": "Agitation Extrapyramidal symptoms Insomnia difficulty in sleeping Muscle spasm Headache"
+  },
+  "ambroxol na guaifenesin na terbutaline na": {
+    "uses": "Cough with mucus",
+    "side_effects": "Nausea Vomiting Diarrhea Dizziness Headache Rash Tremors Increased heart rate Indigestion Bloating Upper abdominal pain Urticaria Itching Sweating Changes in serum aminotransferase levels"
+  },
+  "ceritinib": {
+    "uses": "Non-small cell lung cancer",
+    "side_effects": "Diarrhea Fatigue Nausea Vomiting"
+  },
+  "satranidazole": {
+    "uses": "Treatment of DiarrheaTreatment of Dysentery",
+    "side_effects": "Nausea Vomiting Stomach pain Loss of appetite Dizziness Headache"
+  },
+  "euphorbia prostrata extract": {
+    "uses": "Treatment of Piles",
+    "side_effects": "No common side effects seen"
+  },
+  "secnidazole": {
+    "uses": "Bacterial & parasitic infections",
+    "side_effects": "Gastrointestinal disturbance Nausea Abdominal pain Metallic taste Glossitis tongue inflammation Stomatitis Inflammation of the mouth"
+  },
+  "docusate": {
+    "uses": "Constipation",
+    "side_effects": "Nausea Diarrhea Skin rash Fever Vertigo Headache Rectal bleeding"
+  },
+  "testosterone propionate": {
+    "uses": "Treatment of Male hypogonadism",
+    "side_effects": "Increase haematocrit Increased red blood cells Increased hemoglobin"
+  },
+  "standard cobra venom naja naja": {
+    "uses": "Snake Bite",
+    "side_effects": "Headache Nausea Vomiting Diarrhea Stomach pain Chills Muscle pain"
+  },
+  "ethinyl estradiol na levonorgestrel na": {
+    "uses": "Contraception",
+    "side_effects": "Nausea Headache Breast pain Abdominal pain Weight gain Depression"
+  },
+  "tianeptine": {
+    "uses": "Depression",
+    "side_effects": "Increased heart rate Dryness in mouth Orthostatic hypotension sudden lowering of blood pressure on standing Difficulty in urination Weight gain Constipation"
+  },
+  "centbucridine": {
+    "uses": "Wound infection",
+    "side_effects": "Burning sensation at the site of application"
+  },
+  "tricholine citrate": {
+    "uses": "Fatty liver disease",
+    "side_effects": "Dryness in mouth Drowsiness"
+  },
+  "isopropamide": {
+    "uses": "Irritable bowel syndrome",
+    "side_effects": "No common side effects seen"
+  },
+  "arterolane": {
+    "uses": "Treatment of Malaria",
+    "side_effects": "Nausea Vomiting Abdominal pain Loss of appetite Indigestion Cough Dizziness Headache"
+  },
+  "cefdinir": {
+    "uses": "Bacterial infections",
+    "side_effects": "Nausea Diarrhea Headache Vaginal moniliasis Abdominal pain Vaginal inflammation Protein in urine Increased gamma glutamyltransferase High lymphocyte count Lymphocytopenia Microhematuria Increased urine leukocytes"
+  },
+  "tizanidine": {
+    "uses": "Muscle relaxation",
+    "side_effects": "Dryness in mouth Sleepiness Tiredness Dizziness"
+  },
+  "tafluprost": {
+    "uses": "Glaucoma Ocular hypertension",
+    "side_effects": "Blurred vision Burning sensation Stinging sensation Foreign body sensation Itching Eye pain Photophobia Increased iris pigmentation Conjunctival hyperemia Eyelash changes Foreign body sensation in eyes Burning sensation in eye Stinging in the eyes Eye itching"
+  },
+  "dolutegravir": {
+    "uses": "HIV infection",
+    "side_effects": "Insomnia difficulty in sleeping Headache Nausea Fatigue"
+  },
+  "silver nitrate": {
+    "uses": "Burns Wound infection",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "rupatadine": {
+    "uses": "Sneezing and runny nose due to allergies",
+    "side_effects": "Nausea Vomiting Dryness in mouth Diarrhea Skin rash Flu like symptoms Sleepiness Headache Fatigue Dizziness Weakness"
+  },
+  "selegiline": {
+    "uses": "Parkinson's disease",
+    "side_effects": "Joint pain Insomnia difficulty in sleeping Peripheral edema Flu like symptoms Depression Indigestion Cough"
+  },
+  "pneumococcal polysaccharide conjugate vaccine na": {
+    "uses": "Prevention of pneumonia, meningitis, blood infection & ear infection",
+    "side_effects": "Loss of appetite Irritability Drowsiness Fever Injection site reactions pain swelling redness"
+  },
+  "sodium feredetate": {
+    "uses": "Iron deficiency anemia",
+    "side_effects": "No common side effects seen"
+  },
+  "flucloxacillin sodium": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Bloating Indigestion Gastrointestinal disturbance"
+  },
+  "sotalol": {
+    "uses": "Arrhythmia",
+    "side_effects": "Fatigue Slow heart rate Breathlessness Arrhythmia irregular heartbeats Weakness Dizziness"
+  },
+  "lindane na cetrimide na": {
+    "uses": "Scabies",
+    "side_effects": "Application site reactions burning irritation itching and redness Dry skin"
+  },
+  "sulfasalazine": {
+    "uses": "Treatment of Rheumatoid arthritisTreatment of Ulcerative colitisTreatment of Crohn\u2019s diseaseTreatment of Ankylosing spondylitisTreatment of Psoriatic arthritis",
+    "side_effects": "Diarrhea Gastrointestinal discomfort Headache Loss of appetite Nausea Oligospermia low sperm count Vomiting"
+  },
+  "fenoverine": {
+    "uses": "Pain due to smooth muscle spasm",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Photophobia Dilatation of pupil Dryness in mouth Palpitations Constipation Arrhythmia irregular heartbeats Dry skin Increased heart rate Difficulty in urination Excessive thirst Loss of accommodation Reduce bronchial secretion"
+  },
+  "feracrylum": {
+    "uses": "Bleeding",
+    "side_effects": "Application site irritation"
+  },
+  "stannous fluoride": {
+    "uses": "Treatment of HypersensitivityTreatment of Inflammation of gumsTreatment of Dental cavities",
+    "side_effects": "Taste change Gum Irritation"
+  },
+  "cefoperazone": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Decreased white blood cell count neutrophils Decreased white blood cell count lymphocytes Decreased hemoglobin Decreased hematocrit level Low blood platelets Coagulation disorder Increased white blood cell count eosinophils Diarrhea Nausea Increased alanine aminotransferase Increased aspartate aminotransferase Increased alkaline phosphatase level in blood Vomiting Increased bilirubin in the blood"
+  },
+  "sodium citrate": {
+    "uses": "Respiratory tract disorders associated with viscid mucus",
+    "side_effects": "No common side effects seen"
+  },
+  "evening primrose oil": {
+    "uses": "Treatment of Fibrocystic Breast Disease",
+    "side_effects": "Nausea Headache Bloating"
+  },
+  "xylitol": {
+    "uses": "Treatment of Dry mouth",
+    "side_effects": "No common side effects seen"
+  },
+  "coal tar": {
+    "uses": "Psoriasis",
+    "side_effects": "Application site irritation Dry skin"
+  },
+  "sertaconazole na": {
+    "uses": "Treatment of Fungal skin infectionsTreatment of Fungal infections",
+    "side_effects": "Application site reactions burning irritation itching and redness Skin irritation"
+  },
+  "bicalutamide": {
+    "uses": "Prostate cancer",
+    "side_effects": "Anemia low number of red blood cells Rash Abdominal pain Breast enlargement in male Breast tenderness Constipation Decreased appetite Decreased libido Depression Dizziness Indigestion Flatulence Hot flashes Increased liver enzymes Nausea Sleepiness Weakness Weight gain"
+  },
+  "benzyl nicotinate": {
+    "uses": "Treatment of Thrombophlebitis",
+    "side_effects": "Application site reactions burning irritation itching and redness"
+  },
+  "temozolomide": {
+    "uses": "Brain tumor",
+    "side_effects": "Nausea Vomiting Constipation Headache Fatigue Convulsion Coordination disorder Diarrhea Dizziness Fever Hair loss Hemiparesis weakness on one side of the body Insomnia difficulty in sleeping Loss of appetite Memory loss Rash Viral infection Weakness"
+  },
+  "cefotaxime": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Injection site reactions pain swelling redness Hypersensitivity Gastrointestinal disorder"
+  },
+  "pentoxifylline": {
+    "uses": "Peripheral vascular disease Intermittent claudication",
+    "side_effects": "Bloating Diarrhea Flushing sense of warmth in the face ears neck and trunk Headache Heartburn Lightheadedness Nausea Stomach discomfort Vomiting Weakness"
+  },
+  "tofacitinib": {
+    "uses": "Rheumatoid arthritis",
+    "side_effects": "Upper respiratory tract infection Headache Diarrhea Nasopharyngitis inflammation of the throat and nasal passages"
+  },
+  "teicoplanin": {
+    "uses": "Severe bacterial infections",
+    "side_effects": "Injection site reactions pain swelling redness Fever Itching Skin rash"
+  },
+  "caroverine": {
+    "uses": "Tinnitus (ringing in the ears)Treatment of Abdominal pain",
+    "side_effects": "Nausea Itching Skin rash"
+  },
+  "famotidine": {
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer diseaseTreatment of Heartburn",
+    "side_effects": "Headache Dizziness Diarrhea Constipation"
+  },
+  "purified vi polysaccharide typhoid vaccine": {
+    "uses": "Prevention of Typhoid fever",
+    "side_effects": "Injection site reactions pain swelling redness Feeling of discomfort Nausea Diarrhea Fever Headache"
+  },
+  "amylmetacresol": {
+    "uses": "Dry cough",
+    "side_effects": "Headache Sedation Double vision Vomiting Diarrhea Dryness in mouth Nervousness Nausea Decreased appetite Heartburn Dizziness Weakness Discomfort when urinating Polyuria"
+  },
+  "tapentadol": {
+    "uses": "Moderate to severe pain",
+    "side_effects": "Nausea Sleepiness Vomiting Dizziness Headache Flushing sense of warmth in the face ears neck and trunk Constipation Rash Dyspepsia"
+  },
+  "tazarotene": {
+    "uses": "Psoriasis Acne",
+    "side_effects": "Dry skin Erythema skin redness Itching Skin burn Skin irritation Skin peeling"
+  },
+  "perindopril erbumine": {
+    "uses": "Hypertension (high blood pressure)",
+    "side_effects": "Headache Dizziness Vertigo Sleepiness Altered vision Decreased blood pressure Flushing sense of warmth in the face ears neck and trunk Breathlessness Cough Weight loss Vomiting Abdominal pain Dryness in mouth Indigestion"
+  },
+  "extractum cepaecepalin": {
+    "uses": "Burns",
+    "side_effects": "No common side effects seen"
+  },
+  "ginkgo biloba extract egb": {
+    "uses": "Pain relief",
+    "side_effects": "Stomach pain Allergic skin rash"
+  },
+  "trazodone": {
+    "uses": "Depression",
+    "side_effects": "Sleepiness Dizziness Constipation Blurred vision"
+  },
+  "thalidomide": {
+    "uses": "Multiple myeloma Lepra reaction",
+    "side_effects": "Nausea Rash Breathlessness Dizziness Edema swelling Decreased calcium level in blood Fatigue Muscle weakness Anxiety Confusion Decreased white blood cell count neutrophils Constipation Tremors Sensory neuropathy Change in body weight Decreased white blood cell count lymphocytes Thromboembolism Muscle pain Anaphylactic reaction Headache Sleepiness Decreased potassium level in blood"
+  },
+  "chlorpromazine": {
+    "uses": "Schizophrenia",
+    "side_effects": "Nausea Sedation Dryness in mouth Weight gain Dizziness Blurred vision Nervousness Sleepiness"
+  },
+  "tetanus immunoglobulin": {
+    "uses": "Prevention of Tetanus",
+    "side_effects": "Tiredness Drowsiness"
+  },
+  "tropicamide": {
+    "uses": "Eye examination Uveitis",
+    "side_effects": "Stinging in the eyes Blurred vision Dryness in mouth"
+  },
+  "emtriciine": {
+    "uses": "HIV infection",
+    "side_effects": "Nausea Diarrhea Headache Depression Rash Dizziness Fatigue Vomiting Insomnia difficulty in sleeping Weakness Allergic reaction Abnormal dreams Decreased phosphate level in blood Decreased white blood cell count neutrophils Increased triglyceride level in blood Abdominal pain Weight loss Increased transaminase level in blood Increased glucose level in blood Elevated levels of serum amylase Increased lipase in the blood Elevated creatinine kinase"
+  },
+  "ciclesonide": {
+    "uses": "Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Dryness in mouth Cough Headache Dry throat Increased heart rate Blurred vision Glaucoma Difficulty in urination Urinary retention Constipation Nasopharyngitis inflammation of the throat and nasal passages Upper respiratory tract infection Sinus inflammation Stomach discomfort Fungal infection of oropharynx Tremors Palpitations Voice change Dizziness Insomnia difficulty in sleeping Paresthesia tingling or pricking sensation Taste change"
+  },
+  "trospium": {
+    "uses": "Treatment of Overactive bladder (OAB) symptoms",
+    "side_effects": "Dryness in mouth Constipation Headache Urinary tract infection Nasopharyngitis inflammation of the throat and nasal passages Influenza Upper abdominal pain"
+  },
+  "tigecycline": {
+    "uses": "Severe bacterial infections",
+    "side_effects": "Headache Vomiting Nausea Increased liver enzymes Stomach pain Diarrhea"
+  },
+  "almagate": {
+    "uses": "Heartburn",
+    "side_effects": "Limited data available"
+  },
+  "ticarcillin": {
+    "uses": "Bacterial infections",
+    "side_effects": "Nausea Vomiting Diarrhea Rash Allergic reaction"
+  },
+  "dill oil": {
+    "uses": "Treatment of Abdominal pain",
+    "side_effects": "No common side effects seen"
+  },
+  "troxipide": {
+    "uses": "Stomach ulcers",
+    "side_effects": "Headache Constipation"
+  },
+  "tranylcypromine": {
+    "uses": "Depression",
+    "side_effects": "Agitation Constipation Diarrhea Dizziness Dryness in mouth Headache Insomnia difficulty in sleeping Nausea Restlessness Vomiting"
+  },
+  "hydrotalcite": {
+    "uses": "Acidity Stomach ulcers",
+    "side_effects": "Chalky taste Diarrhea Constipation"
+  },
+  "piribedil": {
+    "uses": "Parkinson's disease",
+    "side_effects": "Headache Sleepiness Vomiting Feeling of discomfort"
+  },
+  "tiapride": {
+    "uses": "Schizophrenia Mania",
+    "side_effects": "Fatigue Drowsiness Insomnia difficulty in sleeping Agitation Dizziness Vertigo Headache"
+  },
+  "hydroxocobalamin": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "Allergy Flushing sense of warmth in the face ears neck and trunk Anaphylactic reaction Dark colored urine Erythema skin redness"
+  },
+  "neostigmine": {
+    "uses": "Myasthenia gravis Paralytic ileus Post-operative urinary retention Reversal of effect of skeletal muscle relaxant  after surgery",
+    "side_effects": "Nausea Vomiting Abdominal cramp Diarrhea Increased saliva production"
+  },
+  "bacillus calmetteguerin na": {
+    "uses": "Prevention of Tuberculosis (TB)",
+    "side_effects": "Injection site reactions pain swelling redness"
+  },
+  "tulobuterol": {
+    "uses": "Treatment and prevention of Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Tremors Headache Restlessness Insomnia difficulty in sleeping Palpitations Muscle cramp"
+  },
+  "polyvinyl alcohol including pvp": {
+    "uses": "Treatment of Dry eyes",
+    "side_effects": "Eye irritation Watery eyes Blurred vision"
+  },
+  "trabectedin": {
+    "uses": "Soft tissue sarcoma",
+    "side_effects": "Headache Fatigue Vomiting Weakness Nausea Increased liver enzymes Low blood platelets Increased creatine phosphokinase C P K level in blood Decreased white blood cell count neutrophils Decreased appetite Constipation"
+  },
+  "paracetamol na": {
+    "uses": "Pain reliefTreatment of Fever",
+    "side_effects": "Stomach pain Nausea Vomiting"
+  },
+  "disodium hydrogen citrate na": {
+    "uses": "Treatment of GoutTreatment of Kidney stone",
+    "side_effects": "Stomach pain Tiredness Diarrhea Nausea Vomiting Frequent urge to urinate"
+  },
+  "ulinastatin": {
+    "uses": "Treatment of Severe sepsisTreatment of Pancreatitis",
+    "side_effects": "Injection site reactions pain swelling redness Increased liver enzymes"
+  },
+  "udenafil": {
+    "uses": "Treatment of Erectile dysfunction",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Headache Blurred vision Muscle pain Upset stomach Rash"
+  },
+  "diosmin na": {
+    "uses": "Treatment of Varicose veinsTreatment of PilesTreatment of Lymphedema",
+    "side_effects": "No common side effects seen Abdominal pain Diarrhea Headache Nausea"
+  },
+  "live freeze dried lactic acid bacteria and bifidobacteria": {
+    "uses": "Treatment of Ulcerative colitisTreatment of Irritable bowel syndrome",
+    "side_effects": "Bloating Flatulence"
+  },
+  "nicotinamide": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "No common side effects seen"
+  },
+  "inactivated influenza vaccine na": {
+    "uses": "Prevention of Influenza (flu)",
+    "side_effects": "Headache Weakness Injection site reactions pain swelling redness"
+  },
+  "liraglutide": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Constipation Decreased appetite Diarrhea Nausea Vomiting Abdominal pain Dyspepsia Flatulence Nasopharyngitis inflammation of the throat and nasal passages"
+  },
+  "valganciclovir": {
+    "uses": "Treatment of Cytomegalovirus Infection",
+    "side_effects": "Diarrhea Fever Vomiting Anemia low number of red blood cells Decreased white blood cell count Low blood platelets Insomnia difficulty in sleeping Tremors"
+  },
+  "vardenafil": {
+    "uses": "Treatment of Erectile dysfunction",
+    "side_effects": "Flushing sense of warmth in the face ears neck and trunk Headache Blurred vision Indigestion Dizziness Muscle pain Upset stomach Rash Nasal congestion stuffy nose"
+  },
+  "voriconazole": {
+    "uses": "Severe fungal infections",
+    "side_effects": "Abnormal liver function tests Hallucination Slow heart rate Altered vision Headache Nausea Rash Vomiting Anemia low number of red blood cells Sinus inflammation Peripheral edema"
+  },
+  "evogliptin": {
+    "uses": "Treatment of Type 2 diabetes mellitus",
+    "side_effects": "Stomach inflammation Nasopharyngitis inflammation of the throat and nasal passages Hypoglycaemia low blood sugar level in combination with insulin or sulphonylurea Joint pain"
+  },
+  "valsartan": {
+    "uses": "Hypertension (high blood pressure) Heart failure Prevention of heart attack and stroke",
+    "side_effects": "Headache Dizziness Flu like symptoms Stomach pain Decreased blood pressure Diarrhea Back pain Rash Increased creatinine level in blood"
+  },
+  "homotaurine": {
+    "uses": "Treatment of Nutritional deficiencies",
+    "side_effects": "Nausea Vomiting Diarrhea Dizziness Headache"
+  },
+  "vilazodone": {
+    "uses": "Depression",
+    "side_effects": "Nausea Vomiting Insomnia difficulty in sleeping Dizziness Diarrhea"
+  },
+  "verapamil": {
+    "uses": "Treatment of Hypertension (high blood pressure)Treatment of Angina (heart-related chest pain)Treatment of Arrhythmia",
+    "side_effects": "Constipation Dizziness Nausea Hypotension low blood pressure Headache"
+  },
+  "ichthyol pale": {
+    "uses": "Treatment of Skin disorders",
+    "side_effects": "No common side effects seen"
+  },
+  "pazopanib": {
+    "uses": "Kidney cancer Soft tissue sarcoma",
+    "side_effects": "Headache Nausea Vomiting Musculoskeletal bone muscle or joint pain Fatigue Change in color of hair Diarrhea High blood pressure Decreased appetite Weight loss Taste change Abnormal skin pigmentation Hair discoloration Tumor pain Breathlessness"
+  },
+  "tetrahydrozoline": {
+    "uses": "Eye Irritation",
+    "side_effects": "Limited data available"
+  },
+  "omega": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "Nausea Vomiting Flatulence"
+  },
+  "colistin sulphate": {
+    "uses": "Treatment of Severe bacterial infections",
+    "side_effects": "Nausea Diarrhea Vomiting Kidney damage"
+  },
+  "warfarin": {
+    "uses": "Prevention of Blood clots",
+    "side_effects": "Bleeding"
+  },
+  "mebendazole": {
+    "uses": "Treatment of Parasitic Worm infections",
+    "side_effects": "Vomiting Nausea Dizziness Headache Abdominal pain Loss of appetite Hair loss Bleeding Fever Sore throat"
+  },
+  "olive oil": {
+    "uses": "Softening of earwax",
+    "side_effects": "Irritation of ear"
+  },
+  "kalmegh dry extract": {
+    "uses": "Treatment of Influenza (flu)",
+    "side_effects": "Dizziness Nausea Vomiting"
+  },
+  "eciine": {
+    "uses": "Breast cancer Cancer of colon and rectum",
+    "side_effects": "Vomiting Weakness Nausea Abdominal pain Diarrhea Blisters on fingers feet"
+  },
+  "safinamide": {
+    "uses": "Parkinson's disease",
+    "side_effects": "Cough Depression Indigestion Flu like symptoms Insomnia difficulty in sleeping Joint pain Peripheral edema"
+  },
+  "exemestane": {
+    "uses": "Breast cancer",
+    "side_effects": "Insomnia difficulty in sleeping Headache Nausea Increased sweating Musculoskeletal bone muscle or joint pain Fatigue"
+  },
+  "xylometazoline": {
+    "uses": "Nasal congestion (blocked nose)",
+    "side_effects": "Burning sensation Dry nose Headache Nausea Irritation"
+  },
+  "zonisamide": {
+    "uses": "Epilepsy/Seizures",
+    "side_effects": "Dizziness Loss of appetite Memory impairment Drowsiness Impaired concentration Altered walking Impaired coordination Anger"
+  },
+  "cefditoren": {
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Nausea Indigestion Stomach pain Diarrhea Headache"
+  },
+  "zolmitriptan": {
+    "uses": "Acute migraine headache",
+    "side_effects": "Dizziness Dryness in mouth Nausea Taste change Drowsiness Peripheral neuropathy tingling and numbness of feet and hand"
+  },
+  "boric acid": {
+    "uses": "Treatment of Bacterial eye / ear infections",
+    "side_effects": "Eye discomfort Eye irritation Burning sensation in eye Blurred vision"
+  },
+  "ziprasidone": {
+    "uses": "Schizophrenia Mania",
+    "side_effects": "Headache Nausea Vomiting Sleepiness Abnormal vision Dystonia involuntary muscle contractions Akathisia inability to stay still Weakness Parkinsonism Dizziness Respiratory tract infection"
+  },
+  "idarubicin": {
+    "uses": "Blood cancer (Acute lymphocytic leukemia)",
+    "side_effects": "Vomiting Nausea Infection Hair loss Fever Increased liver enzymes Peripheral neuropathy tingling and numbness of feet and hand Stomatitis Inflammation of the mouth Bleeding Myelosuppression Seizure"
+  },
+  "lmethyl folate calcium": {
+    "uses": "Nutritional deficiencies",
+    "side_effects": "No common side effects seen"
+  },
+  "varicella vaccine live attenuated na": {
+    "uses": "Prevention of Chickenpox",
+    "side_effects": "Injection site reactions pain swelling redness Fever Rash"
+  },
+  "chromium picolinate": {
+    "uses": "Polycystic ovarian syndrome (PCOS)",
+    "side_effects": "Rash Nausea Paresthesia tingling or pricking sensation Postural hypotension low blood pressure Dizziness Flushing sense of warmth in the face ears neck and trunk Generalized swelling Headache Vertigo Vomiting"
+  }
+}

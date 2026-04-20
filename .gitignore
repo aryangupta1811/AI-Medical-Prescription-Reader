@@ -1,0 +1,24 @@
+# Secure Machine Learning Ignore Bounds
+# This physically protects you from GitHub's strict 100MB file limit upload crashes by ignoring bloated local physics files!
+
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+.jupyter/
+.pytest_cache/
+
+# Ignore massive arrays of physical testing image outputs
+outputs/
+line_segments/
+segments/
+test_images/
+
+# Ignore old massive PyTorch Weights (We only need to push the final 41% accuracy one!)
+model.pth
+model_best.pth
+
+# Ignore temporary uploaded physical artifacts
+temp_*

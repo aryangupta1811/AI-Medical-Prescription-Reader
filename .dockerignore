@@ -1,0 +1,34 @@
+# Secure AWS ECR Free Tier Enforcement Matrix
+# This rigidly prevents Docker from uploading thousands of heavy PyTorch model weights and raw image datasets up to AWS, natively maintaining your image securely beneath the 500MB free-tier limits!
+
+# Ignore PyTorch Cache and System Overheads
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+.jupyter/
+.pytest_cache/
+
+# Heavily ignore frontend HTML (since Lambda strictly serves Fast API backend)
+frontend/
+notebooks/
+
+# CRITICAL EXCLUSION: Only sync the requested dictionary! Ignore 300+ MB of cropped evaluation images and original raw data!
+data/raw/
+data/processed/images_balanced/
+data/processed/labels_balanced.txt
+data/processed/medicine_kb_fixed.json
+data/*.csv
+
+# Block test directories securely
+line_segments/
+outputs/
+models/
+segments/
+test_pipeline*.py
+
+# Block PyTorch Checkpoints except the actively configured matrix
+model.pth
+model_best.pth

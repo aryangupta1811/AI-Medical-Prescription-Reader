@@ -1,0 +1,10 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+mangum==0.17.0
+torch==2.0.1+cpu
+easyocr==1.7.1
+rapidfuzz==3.3.1
+python-multipart==0.0.6
+# CRITICAL: We strictly use 'headless' for AWS Lambda to physically bypass GUI crashing
+opencv-python-headless==4.8.0.76
+pandas==2.1.0

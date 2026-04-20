@@ -1,0 +1,62 @@
+[
+    {
+        "input_line": "ninn",
+        "matched_medicine": null,
+        "score": 0.75
+    },
+    {
+        "input_line": "az",
+        "matched_medicine": null,
+        "score": 1.0
+    },
+    {
+        "input_line": "monannx",
+        "matched_medicine": null,
+        "score": 0.8888888888888888
+    },
+    {
+        "input_line": "eta cona cona",
+        "matched_medicine": null,
+        "score": 0.8888888888888888
+    },
+    {
+        "input_line": "mona nexe",
+        "matched_medicine": null,
+        "score": 0.8888888888888888
+    },
+    {
+        "input_line": "monoas reto",
+        "matched_medicine": null,
+        "score": 0.8
+    },
+    {
+        "input_line": "nopa mononax",
+        "matched_medicine": null,
+        "score": 0.75
+    },
+    {
+        "input_line": "nena monoa eto",
+        "matched_medicine": null,
+        "score": 0.8
+    },
+    {
+        "input_line": "ece cena cona",
+        "matched_medicine": null,
+        "score": 0.8888888888888888
+    },
+    {
+        "input_line": "ecea ena cona etita",
+        "matched_medicine": null,
+        "score": 0.8
+    },
+    {
+        "input_line": "neniin",
+        "matched_medicine": null,
+        "score": 0.7272727272727273
+    },
+    {
+        "input_line": "nidosn",
+        "matched_medicine": null,
+        "score": 0.6666666666666667
+    }
+]
